@@ -1,0 +1,118 @@
+---
+date: "2020-05-21"
+title: Committee 2020 - 2021
+---
+<style type="text/css">
+html {
+  scroll-behavior: smooth;
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #256439; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 16px; /* Increase font size */
+  font-family: "Merriweather", Times, Georgia, serif;
+}
+
+#myBtn:hover {
+  background-color: rgba(37, 100, 57, 0.7); /* Add a dark-grey background on hover */
+}
+
+</style>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Back to top</button>
+
+
+| **Name**                    | **Position**         | **Institute**                 |
+|-----------------------------|----------------------|-------------------------------|
+| <a href="#Michael">Michael Fop</a>             | Chair            | University College Dublin  |
+| <a href="#Rafael">Rafael de Andrade Moral</a> | Vice-Chair       | Maynooth University        |
+| <a href="#Shirin">Shirin Moghaddam</a>        | Secretary        | University College Cork    |
+| <a href="#Davood">Davood Roshan</a>           | Website Manager  | NUI Galway                 |
+| <a href="#Fatima">Fatima-Zahra Jaouimaa</a>   | Outreach Officer | University of Limerick     |
+| <a href="#Felicity">Felicity Lamrock</a>              | Ordinary Member  | Queen's University Belfast |
+| <a href="#Mimi">Mimi Zhang</a>              | Ordinary Member  | Trinity College Dublin     |
+| <a href="#Niamh">Niamh Cahill</a>            | Ordinary Member  | Maynooth University         |
+| <a href="#Amir">Amir Jalali</a>             | Ordinary Member  | University College Cork  |
+| <a href="#Lisa">Lisa McFetridge</a>         | Ordinary Member  | Queen's University Belfast |
+
+<br>
+
+
+## <img src="pic_michael_fop.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Michael"></a> Michael Fop -- Chair
+I am Michael Fop, Assistant Professor in Statistics at University College Dublin. I received my PhD in Statistics from the same institution and before that I graduated in Economics, Finance and Statistics at the University of Perugia (Italy). My research focuses on latent variable and mixture models in application to high-dimensional and complex data. Data-related problems sparking my curiosity often drive my research and I enjoy developing new data analysis methods starting from application-motivated problems. I am an enthusiastic R user and package developer and truly believe that research outputs should be accompanied by related statistical software to widen impact and allow reproducibility. When I am not busy coding, teaching or doing research, I love wandering around the globe, hiking on top of mountains, jumping at music gigs, taking photographs, baking cakes, and watching pandas. See my personal [webpage](https://michaelfop.github.io/).
+
+<br>
+
+## <img src="pic_rafael_moral.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rafael"></a> Rafael de Andrade Moral -- Vice-Chair
+My name is Rafael, I am a Lecturer in Statistics at Maynooth University. I hold a BSc in Biology and a PhD in Statistics from University of São Paulo, Brazil. I really enjoy teaching and doing research related to the development and application of statistical modelling techniques to Biology and Agriculture, more specifically Ecology and Entomology. I am also interested in the computational implementation of statistical models, especially under the form of R code. Besides the work in the academia, I enjoy playing guitar and writing music, as well as performing magic tricks. Last, but not least, I love German Shepherd dogs! My personal [webpage](https://www.maynoothuniversity.ie/people/rafael-de-andrade-moral).
+
+<br>
+
+## <img src="pic_shirin_mog.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Shirin"></a> Shirin Moghaddam -- Secretary
+I obtained my PhD in Statistics from National University of Ireland, Galway after I had finished my Bachelor and Master degree in Statistics at the University of Tehran, Iran. Following my PhD, I joined the prostate cancer research group in UCD Conway Institute as a postdoctoral research fellow and worked on accurate grading and staging of prostate cancer. Currently, I am a Lecturer in Statistics at University College Cork. My research interests include Survival analysis, Bayesian approach and Machine learning, in particular, their application in cancer research.
+
+<br>
+
+## <img src="pic_davood_rosh.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Davood"></a> Davood Roshan -- Website Manager
+I am Davood Roshan, a *young* statistician and lecturer in NUI Galway. My primary research interest is in the longitudinal analysis of clinical biomarkers. In particular, in my PhD, I developed individualised and dynamic reference ranges for clinical biomarkers that are recorded longitudinally over time. My research domain includes but not limited to medicine, sport, engineering, finance and etc. I also have special interest in translational statistics, data visualisations and data science with a focus on developing predictive tools.
+
+<br>
+
+## <img src="pic_fatima_jao.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Fatima"></a> Fatima-Zahra Jaouimaa -- Outreach Officer
+Hi, I am Fatima Jaouimaa and I’m a PhD student in Statistics at the University of Limerick. I graduated with a BSc in Economics and Mathematical Sciences from the same university. My research area is survival analysis and in particular, I’m looking at multi-parameter regression in this setting.
+
+<br>
+
+## <img src="pic_Felicity.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Felicity"></a> Felicity Lamrock -- Ordinary Member
+Felicity is a Lecturer in Data Analytics at Queen’s University Belfast. She completed her PhD in Medical Statistics from Queen's University Belfast in 2016. Felicity was previously a statistician at the National Centre for Pharmacoeconomics (NCPE) working with a team of pharmacists and clinicians on Health Technology Assessments to advise the Health Service Executive on the recommendation of new drug therapies in Ireland. She still remains a statistical advisor for the NCPE and is exploring how Northern Ireland could benefit from more decision modelling. Her main research interests therefore involve combining the areas of statistics, decision modelling, pharmacoeconomics and data analytics.
+
+<br>
+
+## <img src="pic_mimi_zhang.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Mimi"></a> Mimi Zhang -- Ordinary Member
+Mimi Zhang joined Trinity College Dublin (TCD) as an assistant professor in October 2017. She holds a B.Sc. in statistics from University of Science and Technology of China and a Ph.D. in engineering management from City University of Hong Kong. Before joining TCD, she was a research associate at University of Strathclyde and Imperial College London. Her main research areas are data mining and operations research, including stochastic modelling, multivariate modelling, convex clustering, online anomaly detection, Markov decision process, dynamic vehicle routing, etc.
+
+<br>
+
+## <img src="pic_niamh_ca.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Niamh"></a> Niamh Cahill -- Ordinary Member
+I am an applied statistician with interests in developing statistical models for the analysis of time dependent, compositional and/or spatial data. One aspect of my research focuses on the development of statistical models to assess and interpret population-level health trends, specifically family planning indicators, on a national and sub-national level. As well as this I work on the statistical analysis of indicators of climate change, specifically sea-level change. I use a Bayesian approach to statistical modeling, which is suitable for developing complex hierarchical models, accounts for uncertainties related to model parameters, incorporates prior knowledge, and shares information across data populations. My research covers a range of statistical disciplines including: stochastic processes; time series analysis; computation and simulation and multivariate analysis.
+
+<br>
+
+## <img src="pic_amir_jal.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Amir"></a> Amir Jalali -- Ordinary Member
+My name is Amir and I am a lecturer at University College Cork. I received my PhD from NUI Galway, where I worked on translational statistics and developed 'DynNom' package in R to visualise statistical models. During my postdoc in UCD, I've worked on developing predictive models for prostate cancer. My current research focuses on predictive models, model visualisation and cancer research.  
+
+<br>
+
+## <img src="pic_lisa_mcfet.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Lisa"></a> Lisa McFetridge -- Ordinary Member
+Lisa is a Lecturer in Statistics in the Mathematical Sciences Research Centre at Queen’s University Belfast. She completed her PhD in 2014, which developed robust joint models to analyse changing biomarkers and the risk of death for haemodialysis patients. Alongside furthering this work, Lisa’s current research interests focus on the advancement of mixed effects models, analysis of emotions using machine learning techniques, innovative survival analysis for medical research and discrete choice modelling of consumer demand. Lisa is the Education Officer of the Irish Statistical Association, Treasurer of the International Biometric Society British and Irish Region and is a member of the RSS Conferences & Events Programme Board. Her online profile can be found [webpage](https://pure.qub.ac.uk/portal/en/persons/lisa-mccrink%285eca193a-7244-48ee-b484-83df3775f13b%29.html)
+
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>

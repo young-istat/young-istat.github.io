@@ -1,0 +1,25 @@
+---
+date: "2020-05-21"
+title: News
+---
+
+
+## <u>**_Twitter Poster Conference (#YISAPoster2020)_**</u>
+<p style="font-size:15px">Updated on 2020-05-21</p>
+
+The **#YISAPoster2020** Twitter Conference will be held entirely online over [Twitter](https://twitter.com/Young_Stats_ISA) and aims to provide an opportunity for Statistician and Data Scientist around the world to meet online, share thier research and engage in scientific debate. For more information on how to join the **#YISAPoster2020** event please [here](/events/2020-07-15-poster-conference-2020/) for more information. 
+
+---
+
+## <u>**_Inaugural Young-ISA Meeting_**</u>
+<p style="font-size:15px">Updated on 2019-09-01</p>
+This inaugural event will gather together early career statisticians from across Ireland for a series of talks on career development in academia and industry. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers.
+
+**Invited Speakers:**<br>
+Dr. Norma Bargary, Lecturer in Statistics, University of Limerick. <br>
+Dr. Aidan Boland, Senior Data Scientist, Edge by Ascential. <br>
+
+The event is **free of charge** to attend and is open to all early career statisticians (including postgraduate and PhD students, postdoctoral researchers and lecturers) and all ISA members. 
+
+Read more [here](/events/2019-09-01-inaugural-meeting/). 
+
