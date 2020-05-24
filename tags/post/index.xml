@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on Young-ISA</title>
-    <link>/events/</link>
-    <description>Recent content in Events on Young-ISA</description>
+    <title>post on Young-ISA</title>
+    <link>/tags/post/</link>
+    <description>Recent content in post on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 May 2020 18:58:26 +0200</lastBuildDate>
     
-	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -23,7 +23,7 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
-  <title>emoji | Young-ISA</title>
+  <title>Emoji Support | Young-ISA</title>
 </head>
 
 <body>
@@ -72,27 +72,37 @@
 
   <section class="main-content">
     
-<h1>emoji</h1>
-<ul>
+  <h1>Emoji Support</h1>
+  </p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<p>
+<span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span> <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span> <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span>
+</p>
+<p><br></p>
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr />
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<p>{{&lt; highlight html &gt;}}
+.emoji {
+font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+}
+{{&lt; /highlight &gt;}}</p>
+{{&lt; css.inline &gt;}}
+<style>
+.emojify {
+    font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+    font-size: 2rem;
+    vertical-align: middle;
+}
+@media screen and (max-width:650px) {
+    .nowrap {
+    display: block;
+    margin: 25px 0;
+}
+}
+</style>
+<p>{{&lt; /css.inline &gt;}}</p>
 
-
-  <li>
-    
-    2019-03-05
-    <a href="/events/posts/emoji-support/">
-      Emoji Support
-    </a>
-  </li>
-  
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
-
-
-<p>Emoji can be enabled in a Hugo project in a number of ways.
-
-  <br>
-  <br>
-
-</ul>
 
     <footer class="site-footer">
   <span class="site-footer-credits">

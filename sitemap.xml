@@ -4,12 +4,22 @@
   
   <url>
     <loc>/events/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T18:58:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/2020-07-15-poster-conference-2020/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+    <loc>/tags/post/</loc>
+    <lastmod>2020-05-21T18:58:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-21T18:58:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/posts/2020-07-15-poster-conference-2020/</loc>
+    <lastmod>2020-05-21T18:58:26+02:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +33,8 @@
   </url>
   
   <url>
-    <loc>/events/2019-09-01-inaugural-meeting/</loc>
-    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+    <loc>/events/posts/2019-09-01-inaugural-meeting/</loc>
+    <lastmod>2019-09-01T18:36:26+02:00</lastmod>
   </url>
   
   <url>
@@ -40,10 +50,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,40 @@
+---
+author: hauke96
+date: "2020-07-15T18:58:26+02:00"
+summary: This is the young-ISA conference.
+tags:
+- post
+title: Young-ISA Twitter Poster Conference (#YISAPoster2020)
+---
+
+**Date:** July 15-16th, 2020 <br>
+**Location:** [Twitter](https://twitter.com/Young_Stats_ISA)<br>
+**Time:** 12.00pm WET Wednesday, July 15th 2020 - 12.00pm WET Thursday, July 16th 2020 <br>
+
+The **#YISAPoster2020** Twitter Conference will be held entirely online over [Twitter](https://twitter.com/Young_Stats_ISA) and aims to provide an opportunity for Statistician and Data Scientist around the world to meet online, share thier research and engage in scientific debate.
+
+
+### Join the #YISAPoster2020 event:
+- **Register:** to submit a poster please register [here](https://forms.gle/krWf28HrcuBXxjra6). The closing date is **July 13th 2020**.
+
+- **Tweet** your poster with a title, **#YISAPoster2020** and any other relevant hashtag(s)  – during the 24h conference beginning 12:00pm WET July 15th 2020.
+
+- **Discuss** and engage, throughout the 24h conference, with other researchers by commenting on their **#YISAPoster2020** posters as well as making sure to answer questions from the committee and other researchers on your **#YISAPoster2020** poster.
+
+- **Prizes** will be given to people whose **#YISAPoster2020** posters are deemed best by our committee and the one who get more retweets/likes.
+
+### <u>Organising Committee</u>
+|                       |                         |
+|-----------------------|-------------------------|
+| Michael Fop @[michael_fop](https://twitter.com/michael_fop) | Rafael de Andrade Moral @[rafamoral](https://twitter.com/rafamoral)  |
+| Shirin Moghaddam @[Shirin97322677](https://twitter.com/Shirin97322677)  | Davood Roshan @[RoshanDavood](https://twitter.com/RoshanDavood) |
+| Fatima-Zahra Jaouimaa | Felicity Lamrock  @[flossybap](https://twitter.com/flossybap)   |
+| Mimi Zhang            | Niamh Cahill  @[NCahill_Stat](https://twitter.com/NCahill_Stat)          |
+|  Amir Jalali  @[amirjll](https://twitter.com/amirjll)         | Lisa McFetridge         |
+
+
+
+<br>
+<br>
+
+Category: [<u>Events</u>](/events/)
