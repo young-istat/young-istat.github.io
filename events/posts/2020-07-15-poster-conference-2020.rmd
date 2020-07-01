@@ -1,10 +1,11 @@
 ---
-author: hauke96
-date: "2020-05-21T18:58:26+02:00"
-summary: This Twitter Poster Conference aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage in scientific discussion
-tags:
-- post
-title: Young-ISA Twitter Poster Conference (#YISAPoster2020)
+title: "Young-ISA Twitter Poster Conference (#YISAPoster2020)"
+author: "hauke96"
+date: '2020-05-21T18:58:26+02:00'
+tags: post
+summary: This Twitter Poster Conference aims to provide an opportunity for Statisticians
+  and Data Scientists around the world to meet online, share their research and engage
+  in scientific discussion
 ---
 
 **Date:** July 15-16th, 2020 <br>
@@ -37,22 +38,32 @@ keyword-hashtags during the 24h conference beginning at 12:00pm WET on July 15th
 
 - **Engage** and discuss with the other participants throughout the 24h conference by commenting on their **#YISAPoster2020** posters, as well as answering their questions on your poster. Promote others’ research via re-tweets and likes.
 
-- **Prizes:** 
+- **Prizes** are sponsored by [Zurich Insurance Group Ltd.](https://www.zurich.ie/) and are as follows: 
     * **Best poster** - As voted by our organizing committee.
     * **Most engaging poster** - The poster that received the most retweets and likes during the 24hr period.
 
 <br>
 
-### Organising Committee
+### Organising Committee:
 |                       |                         |
 |-----------------------|-------------------------|
 | Michael Fop - [\@michael_fop](https://twitter.com/michael_fop) | Rafael de Andrade Moral - [\@rafamoral](https://twitter.com/rafamoral)  |
-| Shirin Moghaddam - [\@Shirin97322677](https://twitter.com/Shirin97322677)  | Davood Roshan - [\@RoshanDavood](https://twitter.com/RoshanDavood) |
+| Shirin Moghaddam - [\@Shirinmgh](https://twitter.com/Shirinmgh)  | Davood Roshan - [\@RoshanDavood](https://twitter.com/RoshanDavood) |
 | Fatima-Zahra Jaouimaa | Felicity Lamrock - [\@flossybap](https://twitter.com/flossybap)   |
 | Mimi Zhang - [\@ZhangCityU](https://twitter.com/ZhangCityU)          | Niamh Cahill - [\@NCahill_Stat](https://twitter.com/NCahill_Stat)          |
 |  Amir Jalali - [\@amirjll](https://twitter.com/amirjll)         | Lisa McFetridge         |
 
 <br>
+
+### Sponsor:
+[<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAw1BMVEX///8gWK8VNW8AK2oAKGl6hqSTnbUPUa2Fm8sAGGIAJGcAG2MIL2wPMm3s7vIATKsASKmutMVVZYy1vMwASapwfZ4ATasAHWTf4egAImaCjacaO3QpRHkARagAGWMWVK3M1umhqb2Xq9Ty9frW3u4AE2FNdLtdbZLU2OFZfL62xOCuvd3Kz9o1TH08UoG8wc9BbLc0ZLQAAFxNX4kmXLF6lcnk6fTBzeV/mMujtNhXe75qiMObpLlmdZiLlq8ADl8APKXJ1N5LAAAPBElEQVR4nO1daXuqOhdVQakIDnVAtI7UqnVovbX29rR63v//q15BM+8oAqcevKxPfSSE7JVk7Z2dQFOpq2PzMbt7n76u1un16nX6Ppz1nWs36aroD6dauaRpvV76gF5Pa5TK6a/Px2s37Tr4+GrUNEQGi55W6733r93An8bje7kE84Gg1bS7zbWb+YN4fi1rJwk50lKe9q/d1B/C8/rMEKEmUfm1f+3m/gD6q5pPQo6sTG99BjnTst8xglnp3F271X8Us5ofHeGhpfvXbvifw/SiaUPhZofKYzrIIDmg8XST0e1zJzAjaTeMu8HQdhiKkj3KH9c2IWq8B5USgs7s2kZEi69SaEr2pHxe24wo8R4FJbc1Uu7CT5wjKTejKZ/liCjZC+2NeJ8+8Tja5eCWAtpNxCkOidTWd5djypLSe722PVHgFRulBYnQ19zsadxAmD8kLqcUQCGfhGV0px95G38YG0pfO5drwRBw4r0/0MwfBZk5QaSgDy0ItH//QDt/EDOqn7XhpXc78EK6E2+HTBtV6jOXnE3/43n2+TnEEO4WxeQw4J5+qPV/BHc0JzUsJ5vZ+0qr1UqlRoMEIv975u+GxMRDnJfIDm0U7t3ZqtMQJ4XoY0ExOVS1+mFDIsSQNv0oJ5sV2PvifJCIyWHIxXegNBg7PGXsS/L2YswuERMJg3HBjOGk4f70KJkPYiAmFRMPsV0Lruie7k33vzgN2MSS4HPkYuIhrjHKI5Mi0Nwk2atk4vzi7z0lJh4aVzAoAjCO2JMT2XwQo/VTYuIhyNrpLwC7otX2nS8TE0EcTouJR+PXNUwKC3bqpNf/Pr/DE6ImpJ7PiImH8jVsCoshx4DWkIiJ0ONnxcRjsn8Fm8LirCQcsQ525+Uryr8APhPTZeF4yXkxcRHHsO3R3/5FWdiy8SMmLrRrWBUOM0l4xhkWTEw8NuN3funOj23AAtevDKUbQm7hr8fUj221gGLiIoYiy+9BQCgLXe1XTFxO3q9hVij4mDoNYSHnW0z26AmLpL8dzvk5AOTxfYuJi9jtCG7OhydiGsm/mHi4hl1hcD48Ec9NXCAmHqfXsCsMznJSEnLSl4iJV8M17AqDc5wAoflFYpKO4cr4HCehxeT2xomYRrpQTNIxTD+e9jtiTvpSMXFxDbvCwDk1TrSpUP5SMUnHMD45HccKpS8WkzjGsafWO1GISSzXO/J1cU1IIwURkziui6X5EzGNFERMYpk/keXZemJOOoCYpGOZZ5MFKKIpQcQkHcPlTkqWtxfTSH7FhJtfcczbwyIBOAufYrJ+YidjDCVW3Af0OlfMSfsUk9KMO6jBnRiMBx6ByVMq8qX8ismaV6jYrYo9iFGbeF7Rr5iU+9zAi+e5AjFCAV4f8CkmXkyzon+J6fkTfvIAOWmfYuLFNGx1sUsUHLFiLRPTSH7FpOHGNF/0kIrhYueAT8ZRiEcbfYuJu2ZkDznF9txjip4ZYhrJp5j0DgdrGXWKZcB2AGWHeLTRp5hoa28xwOaoYnyOmjKkF0xMep2jz2XPwsX4vD0ZKGIayY+YkE8HsU4nxsOE7BqLRxtTr51a2QV+ZaXXY+Slp5U6X31cmjmSHV81cfHpkQKkkTYfj5uN42w2m0f31abh3b9f09d12v1m3Z4jrbeeDqnBcMd6sNg6nQO8DhbTSHI4HtjfPthT6nGNTRDcFzE6ITNiXHoqjskkFsOGeLTxMnBrhDi/+IawCrmCfWZHiXi4KYYQJ44oGCfwzo6SOL8KCGHzPPx6Wpc6nb0L7pR7K+9rsae15oP/VlfjJr5rcUDx80krNzQmBulp7tdiG6vpnYSaZ+E7iPH/WAHGx7Qj+VTsgZtGqVZbfd3NPjZoGDiPs6+a8CZHJ377XFJ8+XkhwaOmU+qtVqu11hEJubWPTCXf3QKQfJ8NwF3Y7/jdkpYgzMJ977ER84UfjFDfBX29obiEhvMr+X6siOQ7wwCc6cXf9Lv171Gn3O+WXxSq9MpP8TuPdDlmyfftATyvfH3RXev86l+7qT+Ix6/Suf+XUfpv/b8MD89fjZL8/6po7zeQYgyC/vBpv/6lvofa62laqVyaDm8yaPWNzfPw/dfKzS/10uvX6d3nx39uxiRIkCBBggQJEiRIkCBBggQJEiRIkCBBggQJEiRIkCBBggQJEiRIkCAemFRy2fFyuVi+jbO5yiSCGuf17HnUX46PZwrnxNocukC9gn7O0T+3Wrtd7ntQnTelLxcMmOfUhU92kdbvFiNLVxXDME3TMBRVt0aL7BxdfmHrmfN3s5dxc5e6chb6Ayr9PSK//uYf4SJr4evWllDVVun61D103S5YD9kX2NY3m5T+B3qOi2bLsBQzw8NUR7jImDRHsepCDa08uWyP0a+TrlCniFET17I08KPbYDsL4PVJHqzYVGx9B40WR8dl1JaEkfEIIMSDQkoZuIiZASp5IJfJTWMDrpaG9U0qqdr4wXBbcX36gP75Tfoc1a4A1ewU/HRw5jj1kbzlFCcDFbcHeswLNkfFStAcnafEeKMqKeJxBT5jP5AQ84Um/XMFd/x+4nPda43FauYWevoSekrVVtg6mEopTkh7LbC5eFhbWJzrqGpzr0/7Oa7buu2C7gOb6ShMog1P8y26VYVtNB8WD22lYOnUI1TR7iJqLDgc6/RUNHSroGTapt21VYPnBBttgtymFohKrEGOy6Kp6IXCYu/HvgeVSrX6ssd8S1rcrTKV4P62YK+XPbLMTV+sM7qnqs5kcJ8nz1DvhXrQoFYB77bAEyJj6t3xYOJJklOc55Yj3WQ5yRyNNsRHuLg3+ObuVFMpGPVqkytZJBKncAMbN8fibzqghTh5YH7GY1jHFBe3eOBmrAFfD2qBKlxx2oRMvT1gJbo4aFsGzQlSUWObgoA6nwwj3VJaUHcviHcxOLeArxRgTnZH0swF21aRk73IkCmQ570P4l4XOHnATTBs4eIeLw952pQjJ4roiV3Uj5Vh0fxuV8GCOzJMRrxqmLCGYuQknCDzaU5SOfwg9ZuthnDCS/kbVld1IQnmdtTfSPOVLFgUCSqeWpKAaU6ckSrUhOZnpnuGE27ugJyQ+ICjMJVClvOc5Ij3hBWCAwoC/HIiQYYEMmJc1sacwJ10GScDItnc5JFw0sTTTXlL+QESUUk45ZOTLVH1kSg20XLSRC5amIoSTnAcDYalACLhpEqEzwb8YLScOJgT3rXDnLzg8kB3gYiCE8oNgyFkxJzgp/kbJzjEkrgREVFwQi1MQKuj5aRIYms/ejLvnmwbhAg4GeDBmbHABU20nJCQ35ffwUsRSQQGIDwn1JpQUipaTlCEJ4bwICc4NJEstgCE54TkEzI2nAWLlBMHu7jffG0QJxMy06QW8AjNSYsIbF4S0EXKyRZZLiaOIE6+EYXnIiwKYTmhA1iZrkfJSR3FpIYYG0KckDwEECRIgDgx6k0ARVSllJMziToP0XEyWaBRaShiXRAneGbbkkEMAHGSMQoQ8FUgr+ViS3JXv6URUVSczMd5HGu0gaogTkjOzP+Oxb08RUlDwkmVpKt1SV44FZ4T9bs5r+7uSSrPzIPNgTjBU1uyJocQipMiiUwMPligEJaTjGrZukryM3YbngcAJ6QO3xFbSE6oAHZ0ohvaIXMFDJTuA5zB+QOcmODWFbIG5OQb5yUyNp/fodH2m1PywwmY5DsA4MTBdUjynhBwwnUJ7nCiBRTECclLsHsXAkJzQpxbRj9h2kk9sXyHsb7jE4ATKoCFN5mEggFzj2qF2nuz5Y+CODm9fwUjOCdZEsB2ZTP8AN+csIkG4otfijYmBYjVECBOsORJDIQQmJM5mTn83gWPc5ygVZ0h46RKh8vyBCLECdo7ElfRcgTlxKECWOXM1xVxVkcSN7XgBQQTsw1IJCRdQ0CckM3qvG/HE5STMQlg8+fUC4/fM/uABmssG8dSU9WSLF0gTohQi7s+MgTkhApgxb0LHvgggkT70aKK2zvgYnuySZMZwfoF5k/wIOW82gkE44QKYOEzJWAlXHIIA+0xcZtY/HqH2t+Es80gJ9TWh99VYDBOlueaxyCHM2NwZIf2CTnKeE4o52OqkDiAnDh4RPvovQMCcUI21jK6j7QEPsUCp0Rx0pkL/cV1MZXlhOyD8/YtHKLIji/xCMJJ8zdpG3xE41AMG0cWp1A5fC5IZ38X8yfUBroCPBjmhOwHSROBHIJwQgWwcgc3eSCTCh9EArUf7avy+y9ATilLBqgqBkWSfcABuangK8APwEmWbISKZ0COeHn7TYVWFdwqXeQQj+0u12Ao9zgmz9aFMEW2h06rn2SkTFQqxjq3h45yj4ST+dm9i+YuYxlMl+AAz3jg47sBslwINDEnNqW95JhLxuK7UcZJUacGNtT3xe3ot39OxHysQ52mNITyzqRSzxRUk4sGqnhHwTDY0dDCV4RjK+RMDmUjFT9nCjv2Bun5k8mI3KRm+IBgsu0qzAEfNNUNOGAeC5xQAayxrQyO+P7OterbpZ639ANnXLvu8V1mYfmCnl8cKMQpCA3A59mYs1hFlep0xrc7+Dyb4PLnXXKTaRs7InWT3EPXtZHmpH0iQZIiwwgvWSvkQJl7fPAI95SzolBdKOwwUQGXYVvL7C63qy/yZFADfmSCHAa7DdHUJaRgDoExP6GPZZpqQV9uW7vseGlbR4ppTvBshp0qogxtVMC5LxEqN6xTxQyd5DTds+I0hSqwasXnY7n+apLULENKFZWHlsDFBfE+XhlDYTqR4qQp3aTnKBgdLi+NjC+IPtpZ6vLi0BFgKtubZy8UF9TeIyGfpJbBvG+uy50ZZhtMzP8meShoLUKOMh/0IWfDNfIAA9bdbwmhSh5y6VSCRhh1LVKVhSYK9RoAfNJk712krJj/EE6oLAi0bOSOqU3+Uf0B3v9q3ufFVwBMNQ++WFK0qPqE9yya4667v+E96xAIOapOlYfDkGZLB97KMA292yYu+o168IjvjP1oLJDL+T33g5xPyLL4zZbZ1XGr9nPazrd3kk0fBmLbnHnV9XbuNe9plR1TXpbmesk+jGxdMdy3dw4v7+Tb2wo1117YevjGcZf9bwacQrOSfWsfOFlsd1X/uy6RoTiv7LLb+7f7cT37XZ2E+xcs/wfto1yBAIxPYQAAAABJRU5ErkJggg==" width="250px" height="180px" border="5">](https://www.zurich.ie/)
+
+
+
 <br>
+<br>
+
+
+
 
 Category: [<u>Events</u>](/events/)
