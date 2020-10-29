@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Young-ISA</title>
+    <link>/</link>
+    <description>Recent content on Young-ISA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Young-ISA Twitter Poster Conference (#YISAPoster2020)</title>
+      <link>/events/posts/2020-07-15-poster-conference-2020/</link>
+      <pubDate>Thu, 21 May 2020 18:58:26 +0200</pubDate>
+      
+      <guid>/events/posts/2020-07-15-poster-conference-2020/</guid>
+      <description>This Twitter Poster Conference aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage in scientific discussion</description>
+    </item>
+    
+    <item>
+      <title>Committee 2020 - 2021</title>
+      <link>/committee/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/committee/</guid>
+      <description>html { scroll-behavior: smooth; } #myBtn { display: none; /* Hidden by default */ position: fixed; /* Fixed/sticky position */ bottom: 20px; /* Place the button at the bottom of the page */ right: 30px; /* Place the button 30px from the right */ z-index: 99; /* Make sure it does not overlap */ border: none; /* Remove borders */ outline: none; /* Remove outline */ background-color: #256439; /* Set a background color */ color: white; /* Text color */ cursor: pointer; /* Add a mouse pointer on hover */ padding: 15px; /* Some padding */ border-radius: 10px; /* Rounded corners */ font-size: 16px; /* Increase font size */ font-family: &#34;</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>Twitter Poster Conference (#YISAPoster2020) Updated on 2020-05-21 The #YISAPoster2020 Twitter Conference will be held entirely online over Twitter and aims to provide an opportunity for Statistician and Data Scientist around the world to meet online, share thier research and engage in scientific debate. For more information on how to join the #YISAPoster2020 event please here for more information.
+ Inaugural Young-ISA Meeting Updated on 2019-09-01 This inaugural event will gather together early career statisticians from across Ireland for a series of talks on career development in academia and industry.</description>
+    </item>
+    
+    <item>
+      <title>Inaugural Young-ISA Meeting</title>
+      <link>/events/posts/2019-09-01-inaugural-meeting/</link>
+      <pubDate>Sun, 01 Sep 2019 18:36:26 +0200</pubDate>
+      
+      <guid>/events/posts/2019-09-01-inaugural-meeting/</guid>
+      <description>This inaugural event will gather together early career statisticians from across Ireland for a series of talks on career development in academia and industry</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>The Young Statisticians’ Section of the Irish Statistical Association is dedicated to the creation and promotion of a network of career-young statisticians in Ireland, supporting their professional development, organizing events and activities, and providing an interface with ISA.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The Young Statisticians’ Section of the Irish Statistical Association (Young-ISA) aims to create and cultivate a network of career-young statisticians across Ireland, statisticians in the early stages of their careers. The ISA established the Young-ISA to support social and professional opportunities for career-young statisticians within the ISA community.
+The Young-ISA Section focuses on:
+ Networking – Create and promote a network of career-young statisticians in Ireland. Young-ISA is a forum, for undergraduate and postgraduate students, researchers, lecturers and professionals, in all fields of Statistics, across academia, industry and other research institutions, to exchange and discuss ideas.</description>
+    </item>
+    
+  </channel>
+</rss>

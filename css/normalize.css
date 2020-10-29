@@ -422,3 +422,57 @@ td,
 th {
   padding: 0;
 }
+
+
+body {
+    color: #212121;
+    background: white;
+    font: normal 16px/1.5 "Open Sans", Helvetica, sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    padding: 0 15px;
+    span { color: red;}
+}
+
+
+.pagination {
+    display: flex;
+    list-style: none;
+    border-radius: .25rem;
+    margin: 20px 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: .75rem 1rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: green;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.homepage .page-link,
+.listing .page-link {
+    background-color: green;
+}
+
+.page-item.disabled .page-link {
+    color: green;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: green;
+    border-color: green;
+}

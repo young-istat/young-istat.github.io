@@ -2,6 +2,7 @@
 author: Davood Roshan
 date: "2019-09-01T18:36:26+02:00"
 summary: This inaugural event will gather together early career statisticians from across Ireland for a series of talks on career development in academia and industry
+type: preevent
 tags:
 - post
 title: Inaugural Young-ISA Meeting

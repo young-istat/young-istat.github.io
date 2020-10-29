@@ -4,10 +4,20 @@ title: News
 ---
 
 
+## <u>**_Webinar Series: Global Short-Term Forecasting of Covid-19 Cases_**</u>
+<p style="font-size:15px">Updated on 2020-10-29</p>
+
+[Dr. Thiago de Paula Oliveira](https://prof-thiagooliveira.netlify.com/) from the Roslin Institute, University of Edinburgh will speak on a new modelling framework of COVID-19 to forecast the number of deaths, study the effects of covariates (such as lockdown policies), and generate forecasts for smaller regions within countries and up to six days ahead. For more information about this webinar please click [here](/webinars/posts/2020-11-12-webinar1/). 
+
+For registration please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-global-short-term-forecasting-of-covid-19-cases-tickets-127039764355).
+
+---
+
+
 ## <u>**_Twitter Poster Conference (#YISAPoster2020)_**</u>
 <p style="font-size:15px">Updated on 2020-05-21</p>
 
-The **#YISAPoster2020** Twitter Conference will be held entirely online over [Twitter](https://twitter.com/Young_Stats_ISA) and aims to provide an opportunity for Statistician and Data Scientist around the world to meet online, share thier research and engage in scientific debate. For more information on how to join the **#YISAPoster2020** event please [here](/events/2020-07-15-poster-conference-2020/) for more information. 
+The **#YISAPoster2020** Twitter Conference will be held entirely online over [Twitter](https://twitter.com/Young_Stats_ISA) and aims to provide an opportunity for Statistician and Data Scientist around the world to meet online, share thier research and engage in scientific debate. For more information on how to join the **#YISAPoster2020** event please visit [here](/events/2020-07-15-poster-conference-2020/). 
 
 ---
 
