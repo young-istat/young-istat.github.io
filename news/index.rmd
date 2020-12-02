@@ -4,6 +4,18 @@ title: News
 ---
 
 
+
+## <u>**_Webinar Series: Clustering Big Data with Mixed Features_**</u>
+<p style="font-size:15px">Updated on 2020-12-02</p>
+
+Joshua Tobin from the School of Computer Science & Statistics, Trinity College Dublin, will introduce a new clustering method for large mixed attribute datasets which adapts and extends the popular peak-finding technique. The algorithm presented is competent at deciding the correct number of clusters and executes with subquadratic complexity. For more information about this webinar please click [here](/webinars/posts/2020-12-10-webinar2/). 
+
+For registration please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-clustering-big-data-with-mixed-features-tickets-131319198257).
+
+---
+
+
+
 ## <u>**_Webinar Series: Global Short-Term Forecasting of Covid-19 Cases_**</u>
 <p style="font-size:15px">Updated on 2020-10-29</p>
 

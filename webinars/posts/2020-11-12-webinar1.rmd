@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2020-11-12T18:36:26+02:00"
 summary: Dr. Thiago de Paula Oliveira from the Roslin Institute, University of Edinburgh will speak on a new modelling framework of COVID-19 to forecast the number of cases, study the effects of covariates (such as lockdown policies), and generate forecasts for smaller regions within countries and up to six days ahead.
-type: postweb
+type: preweb
 tags:
 - post
 title: Global Short-Term Forecasting of Covid-19 Cases
@@ -25,9 +25,11 @@ The continuously growing number of COVID-19 cases pressures healthcare services 
 ### Registration
 - **Registration** is free and open to everyone. 
 - Please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-global-short-term-forecasting-of-covid-19-cases-tickets-127039764355) to register. 
-- Further details on this webinar will be posted in the coming days.
 
 
+### Webinar Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q8eXc0Gpcc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Category: [<u>Webinars</u>](/webinars/)

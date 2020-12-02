@@ -6,10 +6,19 @@
     <description>Recent content in Webinars on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2020 18:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="/webinars/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clustering Big Data with Mixed Features</title>
+      <link>/webinars/posts/2020-12-10-webinar2/</link>
+      <pubDate>Thu, 10 Dec 2020 18:36:26 +0200</pubDate>
+      
+      <guid>/webinars/posts/2020-12-10-webinar2/</guid>
+      <description>Joshua Tobin from the School of Computer Science &amp;amp; Statistics, Trinity College Dublin, will introduce a new clustering method for large mixed attribute datasets which adapts and extends the popular peak-finding technique. The algorithm presented is competent at deciding the correct number of clusters and executes with subquadratic complexity.</description>
+    </item>
     
     <item>
       <title>Global Short-Term Forecasting of Covid-19 Cases</title>
