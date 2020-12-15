@@ -6,10 +6,37 @@
     <description>Recent content in post on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Dec 2020 18:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia</title>
+      <link>/webinars/posts/2021-03-11-webinar5/</link>
+      <pubDate>Thu, 11 Mar 2021 18:36:26 +0200</pubDate>
+      
+      <guid>/webinars/posts/2021-03-11-webinar5/</guid>
+      <description>Details will be posted in the upcoming days.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Mine Çetinkaya-Rundel from the School of Mathematics, University of Edinburgh and RStudio.</title>
+      <link>/webinars/posts/2021-02-11-webinar4/</link>
+      <pubDate>Thu, 11 Feb 2021 18:36:26 +0200</pubDate>
+      
+      <guid>/webinars/posts/2021-02-11-webinar4/</guid>
+      <description>Details will be posted in the upcoming days.</description>
+    </item>
+    
+    <item>
+      <title>Bruna Wundervald from School of Mathematics, National University of Ireland, Maynooth.</title>
+      <link>/webinars/posts/2021-01-21-webinar3/</link>
+      <pubDate>Thu, 21 Jan 2021 18:36:26 +0200</pubDate>
+      
+      <guid>/webinars/posts/2021-01-21-webinar3/</guid>
+      <description>Details will be posted in the upcoming days.</description>
+    </item>
     
     <item>
       <title>Clustering Big Data with Mixed Features</title>

@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2020-12-10T18:36:26+02:00"
 summary: Joshua Tobin from the School of Computer Science & Statistics, Trinity College Dublin, will introduce a new clustering method for large mixed attribute datasets which adapts and extends the popular peak-finding technique. The algorithm presented is competent at deciding the correct number of clusters and executes with subquadratic complexity. 
-type: postweb
+type: preweb
 tags:
 - post
 title: Clustering Big Data with Mixed Features
@@ -30,6 +30,9 @@ Clustering large, mixed data is a central problem in data mining. Many approache
 - Please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-clustering-big-data-with-mixed-features-tickets-131319198257) to register. 
 - Further details on this webinar will be posted in the coming days.
 
+### Webinar Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nicOA5vZWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

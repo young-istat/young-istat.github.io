@@ -4,6 +4,20 @@ title: News
 ---
 
 
+## <u>**_Webinar Series: Confirmed Speakers for the New Year_**</u>
+<p style="font-size:15px">Updated on 2020-12-15</p>
+
+Our confirmed speakers for the January, February and March 2021 Young ISA webinar series are as follows:
+
+- 2021-01-21: **Bruna Wundervald** from School of Mathematics, National University of Ireland, Maynooth.
+
+- 2021-02-11: **Dr. Mine Çetinkaya-Rundel** from the School of Mathematics, University of Edinburgh and RStudio.
+
+- 2021-02-11: **Dr. Abdollah Safari** from faculty of Pharmaceutical Sciences, University of British Colombia
+
+For more information about these webinars please click [here](/webinars/). 
+
+
 
 ## <u>**_Webinar Series: Clustering Big Data with Mixed Features_**</u>
 <p style="font-size:15px">Updated on 2020-12-02</p>

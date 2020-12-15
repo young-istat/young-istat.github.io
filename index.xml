@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia</title>
+      <link>/webinars/posts/2021-03-11-webinar5/</link>
+      <pubDate>Thu, 11 Mar 2021 18:36:26 +0200</pubDate>
+      
+      <guid>/webinars/posts/2021-03-11-webinar5/</guid>
+      <description>Details will be posted in the upcoming days.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Mine Çetinkaya-Rundel from the School of Mathematics, University of Edinburgh and RStudio.</title>
+      <link>/webinars/posts/2021-02-11-webinar4/</link>
+      <pubDate>Thu, 11 Feb 2021 18:36:26 +0200</pubDate>
+      
+      <guid>/webinars/posts/2021-02-11-webinar4/</guid>
+      <description>Details will be posted in the upcoming days.</description>
+    </item>
+    
+    <item>
+      <title>Bruna Wundervald from School of Mathematics, National University of Ireland, Maynooth.</title>
+      <link>/webinars/posts/2021-01-21-webinar3/</link>
+      <pubDate>Thu, 21 Jan 2021 18:36:26 +0200</pubDate>
+      
+      <guid>/webinars/posts/2021-01-21-webinar3/</guid>
+      <description>Details will be posted in the upcoming days.</description>
+    </item>
+    
+    <item>
       <title>Clustering Big Data with Mixed Features</title>
       <link>/webinars/posts/2020-12-10-webinar2/</link>
       <pubDate>Thu, 10 Dec 2020 18:36:26 +0200</pubDate>
@@ -53,7 +80,10 @@
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/news/</guid>
-      <description>Webinar Series: Clustering Big Data with Mixed Features Updated on 2020-12-02 Joshua Tobin from the School of Computer Science &amp;amp; Statistics, Trinity College Dublin, will introduce a new clustering method for large mixed attribute datasets which adapts and extends the popular peak-finding technique. The algorithm presented is competent at deciding the correct number of clusters and executes with subquadratic complexity. For more information about this webinar please click here.</description>
+      <description>Webinar Series: Confirmed Speakers for the New Year Updated on 2020-12-15 Our confirmed speakers for the January, February and March 2021 Young ISA webinar series are as follows:
+ 2021-01-21: Bruna Wundervald from School of Mathematics, National University of Ireland, Maynooth.
+ 2021-02-11: Dr. Mine Çetinkaya-Rundel from the School of Mathematics, University of Edinburgh and RStudio.
+ 2021-02-11: Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia</description>
     </item>
     
     <item>
