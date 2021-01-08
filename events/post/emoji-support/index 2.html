@@ -23,7 +23,7 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
-  <title>An introduction to the tidymodels package | Young-ISA</title>
+  <title>Emoji Support | Young-ISA</title>
 </head>
 
 <body>
@@ -65,12 +65,6 @@
       
       
       
-      <a href="/webinars/" class="btn">Webinars</a>
-    
-      
-      
-      
-      
       <a href="/committee/" class="btn">Committee</a>
     
   </nav>
@@ -78,34 +72,36 @@
 
   <section class="main-content">
     
-  <h1>An introduction to the tidymodels package</h1>
-  
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
-
-
-<p><strong>Date:</strong> Thursday January 28th, 2021 <br>
-<strong>Location:</strong> Zoom (the link will be posted soon) <br>
-<strong>Time:</strong> 12.00pm WET <br></p>
-<div id="speaker" class="section level3">
-<h3>Speaker</h3>
-<p>Bruna Wundervald from School of Mathematics, National University of Ireland, Maynooth.</p>
-</div>
-<div id="abstract" class="section level3">
-<h3>Abstract</h3>
-<p>In times of a rich availability of different packages and software for machine learning, it is not always easy to know which ones are the best to use. In an attempt to provide a unified grammar for machine learning in R, the tidymodels is a group of packages specifically designed to perform modelling tasks and to perfectly integrate with the tidyverse ecosystem at the same time. In this talk, I will give an introduction to its main packages, showing how they can be used for the pre-processing of data, and training and validation of machine learning models.</p>
-</div>
-<div id="supplementary-materials" class="section level3">
-<h3>Supplementary Materials</h3>
-<p><strong>Package:</strong> The tidymodels package is available on <a href="https://cran.r-project.org/web/packages/tidymodels/index.html">CRAN</a> and the tutorial can be accessed <a href="https://www.tidymodels.org/">here</a>.</p>
-</div>
-<div id="registration" class="section level3">
-<h3>Registration</h3>
-<ul>
-<li><strong>Registration</strong> is free and open to everyone.</li>
-<li>Please click <a href="https://www.eventbrite.ie/e/135974925663">here</a> to register.</li>
-</ul>
-<p>Category: <a href="/webinars/"><u>Webinars</u></a></p>
-</div>
+  <h1>Emoji Support</h1>
+  The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<p>
+<span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span> <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span> <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span>
+</p>
+<p><br></p>
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr />
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<p>{{&lt; highlight html &gt;}}
+.emoji {
+font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+}
+{{&lt; /highlight &gt;}}</p>
+{{&lt; css.inline &gt;}}
+<style>
+.emojify {
+    font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+    font-size: 2rem;
+    vertical-align: middle;
+}
+@media screen and (max-width:650px) {
+    .nowrap {
+    display: block;
+    margin: 25px 0;
+}
+}
+</style>
+<p>{{&lt; /css.inline &gt;}}</p>
 
 
     <footer class="site-footer">

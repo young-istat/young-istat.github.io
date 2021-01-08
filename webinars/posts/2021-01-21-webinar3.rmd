@@ -1,13 +1,13 @@
 ---
 author: Davood Roshan
-date: "2021-01-21T18:36:26+02:00"
-summary: Details will be posted in the upcoming days. 
+date: "2021-01-28T18:36:26+02:00"
+summary: Bruna Wundervald from the School of Mathematics, National University of Ireland, Maynooth will introduce tidymodels packages, and how they can be used for the pre-processing of data, and training and validation of machine learning models.
 type: postweb
 tags:
 - post
-title: Bruna Wundervald from School of Mathematics, National University of Ireland, Maynooth.
+title: An introduction to the tidymodels package
 ---
-**Date:** Thursday January 21st, 2021 <br>
+**Date:** Thursday January 28th, 2021 <br>
 **Location:** Zoom (the link will be posted soon) <br>
 **Time:** 12.00pm WET <br>
 
@@ -17,11 +17,15 @@ Bruna Wundervald from School of Mathematics, National University of Ireland, May
 
 
 ### Abstract
-To be confirmed...
+In times of a rich availability of different packages and software for machine learning, it is not always easy to know which ones are the best to use. In an attempt to provide a unified grammar for machine learning in R, the tidymodels is a group of packages specifically designed to perform modelling tasks and to perfectly integrate with the tidyverse ecosystem at the same time. In this talk, I will give an introduction to its main packages, showing how they can be used for the pre-processing of data, and training and validation of machine learning models.
+
+### Supplementary Materials
+**Package:** The tidymodels package is available on [CRAN](https://cran.r-project.org/web/packages/tidymodels/index.html) and the tutorial can be accessed [here](https://www.tidymodels.org/).
+
 
 ### Registration
 - **Registration** is free and open to everyone. 
-- Please visit the website in the next few days for details on registration. 
+- Please click [here](https://www.eventbrite.ie/e/135974925663) to register. 
 
 
 
