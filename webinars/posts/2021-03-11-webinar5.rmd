@@ -1,28 +1,29 @@
 ---
 author: Davood Roshan
 date: "2021-03-11T18:36:26+02:00"
-summary: Details will be posted in the upcoming days. 
+summary: Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia will speak on methods to estimate the conversion probability of an advertisement to quantify the value of an ad. 
 type: postweb
 tags:
 - post
-title: Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia
+title: Efficient Conversion Probability Estimator for Display Advertising
 
 ---
 **Date:** Thursday March 11th, 2021 <br>
 **Location:** Zoom (the link will be posted soon) <br>
-**Time:** To be announced <br>
+**Time:** 3.00pm WET <br>
 
 
 ### Speaker
-Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia.
+[Dr. Abdollah Safari](https://pharmsci.ubc.ca/directory/abdollah-safari#:~:text=Abdollah%20is%20a%20statistician%20at,in%20every%20application%20of%20statistics.&text=Safari%20received%20his%20PhD%20in,analysis%20on%20Big%20Data%20problems.) from faculty of Pharmaceutical Sciences, University of British Colombia.
 
 
 ### Abstract
-To be confirmed...
+
+The goal of online display advertising is to entice users to “convert” (i.e., take a pre-defined action such as making a purchase) after clicking on the ad. An important measure of the value of an ad is the probability of conversion. The focus of our project is finding an efficient, accurate, and precise estimator of conversion probability. Challenges associated with the data are the delays in observing conversions and the size of the data set (both numbers of observations and number of predictors). Two models have been previously considered as a basis for estimation. A logistic regression model and a joint model for the conversion status and delay times. Fitting the former is simple, but ignoring the delays in conversion leads to an under-estimate of conversion probability. The latter is more realistic but computationally expensive to fit. Our proposed estimator is a compromise between these two estimators. We apply our results to a data set from Criteo which is a subset of the clicks occurred over a two-month period along with their final conversion status. 
 
 ### Registration
 - **Registration** is free and open to everyone. 
-- Please visit the website in the next few days for details on registration. 
+- Please click [here](https://www.eventbrite.ie/e/138800214177) to register.
 
 
 

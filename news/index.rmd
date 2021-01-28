@@ -3,10 +3,27 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_Webinar Series: Efficient Conversion Probability Estimator for Display Advertising_**</u>
+<p style="font-size:15px">Updated on 2021-01-28</p>
+
+[Dr. Abdollah Safari](https://pharmsci.ubc.ca/directory/abdollah-safari#:~:text=Abdollah%20is%20a%20statistician%20at,in%20every%20application%20of%20statistics.&text=Safari%20received%20his%20PhD%20in,analysis%20on%20Big%20Data%20problems.) from faculty of Pharmaceutical Sciences, University of British Colombia will speak on methods to estimate the conversion probability of an advertisement to quantify the value of an ad. For more information about this webinar please visit [here](/webinars/posts/2021-03-11-webinar5/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/138800214177).
+
+## <u>**_Webinar Series: Introductory data science, a fresh look_**</u>
+<p style="font-size:15px">Updated on 2021-01-28</p>
+
+[Dr. Mine Çetinkaya-Rundel](http://www2.stat.duke.edu/~mc301/) from the School of Mathematics, University of Edinburgh; Department of Statistical Science, Duke University; and RStudio will speak on a fresh approach to teaching data science at the introductory level and will introduce the design philosophy behind the curriculum as well as provide directions in assessment in this online teaching era. For more information about this webinar please visit [here](/webinars/posts/2021-02-11-webinar4/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/138791776941).
+
+
+
+
 ## <u>**_Webinar Series: An introduction to the tidymodels package_**</u>
 <p style="font-size:15px">Updated on 2021-01-08</p>
 
-Bruna Wundervald from the School of Mathematics, National University of Ireland, Maynooth will introduce tidymodels packages, and how they can be used for the pre-processing of data, and training and validation of machine learning models. For more information about this webinar please visit [here](/webinars/posts/2021-01-21-webinar3/). 
+[Bruna Wundervald](https://brunaw.com/) from the School of Mathematics, National University of Ireland, Maynooth will introduce tidymodels packages, and how they can be used for the pre-processing of data, and training and validation of machine learning models. For more information about this webinar please visit [here](/webinars/posts/2021-01-21-webinar3/). 
 
 For registration please visit [here](https://www.eventbrite.ie/e/135974925663).
 
