@@ -3,6 +3,14 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_Webinar Series: Condition based maintenance - a guideline for choosing between repair and replacement_**</u>
+<p style="font-size:15px">Updated on 2021-03-15</p>
+
+Dr. Elham Mosayebi Omshi from the Department of Mathematics, Statistics and Computer Science, Allameh Tabataba'i University will speak on an adapted maintenance modeling framework for modeling the maintenance cost of a system. For more information about this webinar please visit [here](/webinars/posts/2021-04-15-webinar6/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-guideline-of-choosing-between-repair-and-replacement-tickets-146486931355).
+
+
 ## <u>**_Webinar Series: Efficient Conversion Probability Estimator for Display Advertising_**</u>
 <p style="font-size:15px">Updated on 2021-01-28</p>
 

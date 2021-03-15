@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2021-03-11T18:36:26+02:00"
 summary: Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia will speak on methods to estimate the conversion probability of an advertisement to quantify the value of an ad. 
-type: postweb
+type: preweb
 tags:
 - post
 title: Efficient Conversion Probability Estimator for Display Advertising
@@ -25,6 +25,7 @@ The goal of online display advertising is to entice users to “convert” (i.e.
 - **Registration** is free and open to everyone. 
 - Please click [here](https://www.eventbrite.ie/e/138800214177) to register.
 
-
+### Webinar Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WMz0richSEs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Category: [<u>Webinars</u>](/webinars/)
