@@ -1,6 +1,6 @@
 ---
 author: Davood Roshan
-date: "2021-04-22T18:36:26+02:00"
+date: "2021-04-15T18:36:26+02:00"
 summary: Dr. Elham Mosayebi Omshi will speak on an adapted maintenance modeling framework for modeling the maintenance cost of a system.
 type: postweb
 tags:
@@ -8,7 +8,7 @@ tags:
 title: Condition based maintenance - a guideline for choosing between repair and replacement
 
 ---
-**Date:** Thursday April 22nd, 2021 <br>
+**Date:** Thursday April 15th, 2021 <br>
 **Location:** Zoom (the link will be posted soon) <br>
 **Time:** 12.00pm WET <br>
 
