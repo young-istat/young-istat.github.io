@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2021-04-22T18:36:26+02:00"
 summary: Dr. Elham Mosayebi Omshi will speak on an adapted maintenance modeling framework for modeling the maintenance cost of a system.
-type: preweb
+type: postweb
 tags:
 - post
 title: Condition based maintenance - a guideline for choosing between repair and replacement
@@ -26,7 +26,5 @@ Maintenance is referred to actions done for preserving or restoring a system to 
 - Please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-guideline-of-choosing-between-repair-and-replacement-tickets-146486931355) to register.
 
 
-### Webinar Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6zqQauh9RFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Category: [<u>Webinars</u>](/webinars/)
