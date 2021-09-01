@@ -3,6 +3,15 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_Webinar Series: Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation_**</u>
+<p style="font-size:15px">Updated on 2021-09-01</p>
+
+Laurence Francis Lacey, Director of Lacey Solutions Ltd, will speak on the application of different functional forms of the expansion of the sample space with time in expansion of the broad money supply of US$ over the period 2001 to 2019. For more information about this webinar please visit [here](/webinars/posts/2021-09-16-webinar7/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-characterisation-of-information-entropy-of-a-process-tickets-169393419277).
+
+
+
 ## <u>**_Webinar Series: Condition based maintenance - a guideline for choosing between repair and replacement_**</u>
 <p style="font-size:15px">Updated on 2021-03-15</p>
 
