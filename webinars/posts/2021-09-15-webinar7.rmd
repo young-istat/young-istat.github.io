@@ -44,7 +44,7 @@ the Weimar Republic paper Mark to purchase one gold Mark became close to zero (1
 Mark = 10-12 gold Mark). From the purchasing power of the paper Mark to purchase one
 gold Mark, the information entropy of this hyperinflationary process was determined.
 Keywords: statistical methodology, information entropy, sample space expansion,
-broad money supply, hyperinflation
+broad money supply, hyperinflation.
 
 ### References
 Lacey LF (2021). Characterization of the probability and information entropy of a process with an
