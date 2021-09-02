@@ -6,10 +6,19 @@
     <description>Recent content in Webinars on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 18:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-09-16-webinar7/</link>
+      <pubDate>Thu, 16 Sep 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-09-16-webinar7/</guid>
+      <description>Laurence Francis Lacey will speak on the application of different functional forms of the expansion of the sample space with time in expansion of the broad money supply of US$ over the period 2001 to 2019.</description>
+    </item>
     
     <item>
       <title>Condition based maintenance - a guideline for choosing between repair and replacement</title>
