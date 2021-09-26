@@ -6,10 +6,19 @@
     <description>Recent content in post on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Sep 2021 18:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="https://young-istat.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assessing the impact of deprivation and ethnicity on COVID burden in England</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-10-14-webinar8/</link>
+      <pubDate>Thu, 14 Oct 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-10-14-webinar8/</guid>
+      <description>Dr. Tullia Padellini from Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London will speak on how the ethnically diverse and deprived communities have been differentially affected by the COVID-19 pandemic in the UK by assessing three different metrics of COVID-19 burden (test positivity, prevalence and vaccination rates).</description>
+    </item>
     
     <item>
       <title>Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation</title>

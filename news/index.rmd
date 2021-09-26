@@ -3,6 +3,18 @@ date: "2020-05-21"
 title: News
 ---
 
+
+## <u>**_Webinar Series: Assessing the impact of deprivation and ethnicity on COVID burden in England_**</u>
+<p style="font-size:15px">Updated on 2021-09-26</p>
+
+[Dr. Tullia Padellini](https://tulliapadellini.github.io/) from Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London will speak on how the ethnically diverse and deprived communities have been differentially affected by the COVID-19 pandemic in the UK by assessing three different metrics of COVID-19 burden (test positivity, prevalence and vaccination rates). For more information about this webinar please visit [here](/webinars/posts/2021-10-14-webinar8/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-the-impact-of-deprivation-and-ethnicity-on-covid-tickets-179481081747).
+
+
+
+
+
 ## <u>**_Webinar Series: Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation_**</u>
 <p style="font-size:15px">Updated on 2021-09-01</p>
 

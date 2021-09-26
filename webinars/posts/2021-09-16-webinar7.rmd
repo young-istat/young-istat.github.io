@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2021-09-16T18:36:26+02:00"
 summary: Laurence Francis Lacey will speak on the application of different functional forms of the expansion of the sample space with time in expansion of the broad money supply of US$ over the period 2001 to 2019.
-type: postweb
+type: preweb
 tags:
 - post
 title: Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation 
@@ -55,5 +55,8 @@ hyperinflation. See [here](https://arxiv.org/abs/2107.05483).
 ### Registration
 - **Registration** is free and open to everyone. 
 - Please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-characterisation-of-information-entropy-of-a-process-tickets-169393419277) to register.
+
+### Webinar Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sZNEp6NlRTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Category: [<u>Webinars</u>](/webinars/)

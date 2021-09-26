@@ -83,7 +83,7 @@ Hi, I am Fatima Jaouimaa and I’m a PhD student in Statistics at the University
 <br>
 
 ## <img src="pic_silvia.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Ordinary Member
-Hi! My name is Silvia and I am a postdoctoral researcher in University College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity.
+Hi! My name is Silvia and I am a lecturer in the School of Mathematics and Statistics, University College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity.
 My personal web page. See my personal [webpage](https://silviadangelo.github.io/).
 
 <br>
