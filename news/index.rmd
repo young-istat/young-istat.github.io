@@ -3,6 +3,12 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_Webinar Series: Estimating energy allocation between somatic and gonadic growth_**</u>
+<p style="font-size:15px">Updated on 2021-11-01</p>
+
+[Dr Hideyasu Shimadzu](https://www.lboro.ac.uk/departments/maths/staff/hideyasu-shimadzu/) from Loughborough University, UK will speak on the nature of the challenges associated with quantifying the growth patterns and energy allocation strategies of living organisms and the interactions with broader biological communities in which they reside. For more information about this webinar please visit [here](/webinars/posts/2021-11-12-webinar9/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-energy-allocation-between-somatic-and-gonadic-growth-tickets-203112684507).
 
 ## <u>**_Webinar Series: Assessing the impact of deprivation and ethnicity on COVID burden in England_**</u>
 <p style="font-size:15px">Updated on 2021-09-26</p>

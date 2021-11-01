@@ -36,8 +36,8 @@ html {
 | **Name**                    | **Position**         | **Institute**                 |
 |-----------------------------|----------------------|-------------------------------|
 | <a href="#Rafael">Rafael de Andrade Moral</a> | Chair       | Maynooth University        |
-| <a href="#Shirin">Shirin Moghaddam</a>        | Vice-Chair        | University College Cork    |
-| <a href="#Amir">Amir Jalali</a>             | Secretary  | University College Cork  |
+| <a href="#Shirin">Shirin Moghaddam</a>        | Vice-Chair        | University of Limerick    |
+| <a href="#Amir">Amir Jalali</a>             | Secretary  | University of Limerick  |
 | <a href="#Davood">Davood Roshan</a>           | Website Manager  | NUI Galway                 |
 | <a href="#Niamh">Niamh Cahill</a>            | Outreach Officer  | Maynooth University         |
 | <a href="#Fatima">Fatima-Zahra Jaouimaa</a>   | Ordinary Member | University of Limerick     |
@@ -58,12 +58,12 @@ My name is Rafael, I am a Lecturer in Statistics at Maynooth University. I hold 
 <br>
 
 ## <img src="pic_shirin_mog.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Shirin"></a> Shirin Moghaddam -- Vice-Chair
-I obtained my PhD in Statistics from National University of Ireland, Galway after I had finished my Bachelor and Master degree in Statistics at the University of Tehran, Iran. Following my PhD, I joined the prostate cancer research group in UCD Conway Institute as a postdoctoral research fellow and worked on accurate grading and staging of prostate cancer. Currently, I am a Lecturer in Statistics at University College Cork. My research interests include Survival analysis, Bayesian approach and Machine learning, in particular, their application in cancer research.
+I obtained my PhD in Statistics from National University of Ireland, Galway after I had finished my Bachelor and Master degree in Statistics at the University of Tehran, Iran. Following my PhD, I joined the prostate cancer research group in UCD Conway Institute as a postdoctoral research fellow and worked on accurate grading and staging of prostate cancer. I am currently Lecturer in Statistics & Data Science in University of Limerick. My research interests include Survival analysis, Bayesian approach and Machine learning, in particular, their application in cancer research.
 
 <br>
 
 ## <img src="pic_amir_jal.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Amir"></a> Amir Jalali -- Secretary
-My name is Amir and I am a lecturer at University College Cork. I received my PhD from NUI Galway, where I worked on translational statistics and developed 'DynNom' package in R to visualise statistical models. During my postdoc in UCD, I've worked on developing predictive models for prostate cancer. My current research focuses on predictive models, model visualisation and cancer research. 
+My name is Amir and I am a lecturer at the University of Limerick. I received my PhD in Biostatistics from NUI Galway working on translational statistics, in which I have developed tools for communicating statistical models and visualising survival data. My research involves using statistical models and machine learning techniques in various biomedical domains, in particular, on prostate cancer diagnosis and progression. My research interest is in statistical modelling, clinical decision making and transnational statistics. 
 
 <br>
 

@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2021-10-14T18:36:26+02:00"
 summary: Dr. Tullia Padellini from Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London will speak on how the ethnically diverse and deprived communities have been differentially affected by the COVID-19 pandemic in the UK by assessing three different metrics of COVID-19 burden (test positivity, prevalence and vaccination rates).
-type: postweb
+type: preweb
 tags:
 - post
 title: Assessing the impact of deprivation and ethnicity on COVID burden in England
@@ -27,5 +27,9 @@ We analyse outcomes as weekly counts at the Lower Tier Local Authority (LTLA) le
 ### Registration
 - **Registration** is free and open to everyone. 
 - Please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-the-impact-of-deprivation-and-ethnicity-on-covid-tickets-179481081747) to register.
+
+### Webinar Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/262lAY4OaTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Category: [<u>Webinars</u>](/webinars/)

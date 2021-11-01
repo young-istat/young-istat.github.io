@@ -6,10 +6,19 @@
     <description>Recent content in Webinars on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Oct 2021 18:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Estimating energy allocation between somatic and gonadic growth</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-11-12-webinar9/</link>
+      <pubDate>Fri, 12 Nov 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-11-12-webinar9/</guid>
+      <description>Dr Hideyasu Shimadzu from Loughborough University, UK, will speak on the nature of the challenges associated with quantifying the growth patterns and energy allocation strategies of living organisms and the interactions with broader biological communities in which they reside.</description>
+    </item>
     
     <item>
       <title>Assessing the impact of deprivation and ethnicity on COVID burden in England</title>
