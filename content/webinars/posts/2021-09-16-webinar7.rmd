@@ -1,0 +1,62 @@
+---
+author: Davood Roshan
+date: "2021-09-16T18:36:26+02:00"
+summary: Laurence Francis Lacey will speak on the application of different functional forms of the expansion of the sample space with time in expansion of the broad money supply of US$ over the period 2001 to 2019.
+type: preweb
+tags:
+- post
+title: Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation 
+---
+**Date:** Thursday September 16th, 2021 <br>
+**Location:** Zoom (the link will be posted soon) <br>
+**Time:** 12.00pm WET <br>
+
+
+### Speaker
+Laurence Francis Lacey, Director of Lacey Solutions Ltd, Dublin, Ireland. 
+
+
+### Abstract
+
+There is a random variable (X) with a determined outcome (i.e., $X = x_0$), $p(x_0) = 1$.
+Consider $x_0$ to have a discrete uniform distribution over the integer interval $[1, s]$, where the
+size of the sample space (s) = 1, in the initial state, such that $p(x_0) = 1$. What is the
+probability of $x_0$ and the associated information entropy ($H$), as $s$ increases by expansion of
+different functional forms? Such a process has been characterised in the case of (1) a monoexponential expansion of the sample space; (2) a power function expansion; (3) double
+exponential expansion. What determines the different functional forms of the expansion of
+the sample space with time is the functional relationship between time and $n$ (no. of sample
+space doublings). If the expansion of the sample space occurred simultaneously via three (or
+more) independent processes, of different functional forms, the combined overall process
+can also be determined.
+
+The methodology was applied to the expansion of the broad money supply of $US
+over the period 2001-2019, as a real-world example of the mono-exponential expansion of
+the sample space. At any given time, the information entropy is related to the rate at which
+the sample space is expanding. In the context of the expansion of the broad money supply,
+the information entropy could be considered to be related to the “velocity” of the
+expansion of the money supply.
+
+The double exponential expansion of the sample space with time describes a
+“hyperinflationary” process. In terms of the fiat money supply, such an expansion would
+lead to hyperinflation such that the “money” would become increasingly “worthless” with
+time. Over the period from the middle of 1920 to the end of 1923, the purchasing power of
+the Weimar Republic paper Mark to purchase one gold Mark became close to zero (1 paper 
+Mark = $10^{-12}$ gold Mark). From the purchasing power of the paper Mark to purchase one
+gold Mark, the information entropy of this hyperinflationary process was determined.
+
+### References
+Lacey LF (2021). Characterization of the probability and information entropy of a process with an
+exponentially increasing sample space and its application to the Broad Money Supply. See [here](https://arxiv.org/abs/2105.14193).
+
+Lacey LF (2021). Characterization of the probability and information entropy of a process with an
+increasing sample space by different functional forms of expansion, with an application to
+hyperinflation. See [here](https://arxiv.org/abs/2107.05483).
+
+### Registration
+- **Registration** is free and open to everyone. 
+- Please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-characterisation-of-information-entropy-of-a-process-tickets-169393419277) to register.
+
+### Webinar Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sZNEp6NlRTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Category: [<u>Webinars</u>](/webinars/)

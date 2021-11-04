@@ -1,0 +1,53 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<ul>
+{{ $pages := .Pages }}
+{{ range first 10 (where .Pages "Type" "event") }}
+  <li>
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </li>
+  <div class="clearfix">
+      <div class="post-date pull-left">
+        <span class="li-small">
+           <small>{{ "Posted on " }}
+           {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
+           {{ .PublishDate.Format $dateFormat }}</small>
+        </span>
+      </div>
+    </div>
+  {{ .Summary }}<a href='{{ .RelPermalink }}'>&hellip; read more</a>
+  <br>
+  <br>
+{{ end }}
+</ul>
+
+<ul>
+{{ $pages := .Pages }}
+{{ range first 10 (where .Pages "Type" "web") }}
+  <li>
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </li>
+  <div class="clearfix">
+      <div class="post-date pull-left">
+        <span class="li-small">
+           <small>{{ "Posted on " }}
+           {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
+           {{ .PublishDate.Format $dateFormat }}</small>
+        </span>
+      </div>
+    </div>
+  {{ .Summary }}<a href='{{ .RelPermalink }}'>&hellip; read more</a>
+  <br>
+  <br>
+{{ end }}
+</ul>
+
+
+
+
+{{ end }}
+

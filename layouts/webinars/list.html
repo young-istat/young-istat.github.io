@@ -1,0 +1,67 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<font size="6">
+<p style="color:green";><u>Upcoming Webinars</p></u>
+</font>
+
+<ul>
+{{ $pages := .Pages }}
+{{ range first 10 (where .Pages "Type" "postweb") }}
+  <li>
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </li>
+  <div class="clearfix">
+      <div class="post-date pull-left">
+        <span class="li-small">
+           {{ "Date: " }}
+           {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
+           {{ .PublishDate.Format $dateFormat }}
+        </span>
+      </div>
+    </div>
+  {{ .Summary }}<a href='{{ .RelPermalink }}'>&hellip; read more</a>
+  <br>
+  <br>
+{{ end }}
+</ul>
+
+
+<hr>
+
+<br>
+
+<font size="6">
+<p style="color:green";><u>Past Webinars</p></u>
+</font>
+
+
+<ul>
+{{ $pages := .Pages }}
+{{ $paginator := .Paginate (where .Pages "Type" "preweb") }}
+{{ range .Paginator.Pages}}
+  <li>
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </li>
+  <div class="clearfix">
+      <div class="post-date pull-left">
+        <span class="li-small">
+           {{ "Date: " }}
+           {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
+           {{ .PublishDate.Format $dateFormat }}
+        </span>
+      </div>
+    </div>
+  {{ .Summary }}<a href='{{ .RelPermalink }}'>&hellip; read more</a>
+  <br>
+  <br>
+  {{ end }}
+{{partial "pagination.html" .}}
+</ul>
+
+{{ end }}
+

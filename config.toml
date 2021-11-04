@@ -1,0 +1,99 @@
+baseURL = "https://young-istat.github.io"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Young-ISA"
+theme = "cayman-hugo-theme"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Google analytics
+googleAnalytics = "UA-123456789-1"
+
+# Disqus comments
+disqusShortname = "yourdiscussshortname"
+
+# Syntax highlighting
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
+paginate = 1
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  # Header text, can be markdown
+  project_name = "Young-ISA"
+  project_tagline = "The Young Statisticians' Section of the Irish Statistical Association"
+
+  # Date format for post list and single pages
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "2006-01-02"
+
+  # Footer text, can be markdown
+  footer = "&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Email** &ensp;&ensp; young.istat@gmail.com \n \n &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Twitter** &ensp;&ensp; [@Young_Stats_ISA](https://twitter.com/Young_Stats_ISA) \n \n &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&copy; 2020 Young-ISA"
+
+  # If true, the CSS/JS for Katex math typesetting are enabled
+  katex = true
+
+  # Breakpoints
+  large_breakpoint = "64em"
+  medium_breakpoint = "42em"
+
+  # Header colors
+  header_heading_color = "#fff"
+  header_background_color = "#256439"    # previous green #2C7744
+  header_background_color_secondary = "#256439"
+
+  # Text colors
+  section_headings_color = "#256439"
+  body_text_color = "#606c71"
+  body_link_color = "#2C7744"   # previous blue "#1e6bb8"
+  blockquote_text_color = "#819198"
+
+  # Code colors
+  code_background_color = "#f3f6fa"
+  code_text_color = "#567482"
+
+  # Border colors
+  border_color = "#dce6f0"
+  table_border_color = "#e9ebec"
+  hr_border_color = "#eff0f1"
+
+[blackfriday]
+  hrefTargetBlank = true    # `true` opens external links in a new tab.
+ # extensions = ["hardLineBreak"]
+  
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Home"
+    url = "/home/"
+    weight = 1
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.nav]]
+    name = "News"
+    url = "/news/"
+    weight = 3
+  [[menu.nav]]
+    name = "Events"
+    url = "/events/"
+    weight = 4
+  [[menu.nav]]
+    name = "Webinars"
+    url = "/webinars/"
+    weight = 5
+  [[menu.nav]]
+    name = "Committee"
+    url = "/committee/"
+    weight = 6
+    
+
