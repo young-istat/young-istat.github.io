@@ -1,2 +1,0 @@
-- footer is note centerized. 
-- Responsive navigation bar for smartphone view
