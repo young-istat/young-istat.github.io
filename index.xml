@@ -1,59 +1,170 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Young-ISA</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Young-ISA</description>
+    <title>Young-ISA</title>
+    <link>https://young-istat.github.io/</link>
+    <description>Recent content on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://young-istat.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Young-ISA Twitter Poster Conference (#YISAPoster2020)</title>
-      <link>/posts/2020-07-15-poster-conference-2020/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <title>On the privilege of turning our world into data</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-12-16-webinar10/</link>
+      <pubDate>Thu, 16 Dec 2021 18:36:26 +0200</pubDate>
       
-      <guid>/posts/2020-07-15-poster-conference-2020/</guid>
-      <description>Date: July 15-16th, 2020 Location: Twitter
-Time: 12.00pm WET Wednesday, July 15th 2020 - 12.00pm WET Thursday, July 16th 2020 The #YISAPoster2020 Twitter Conference will be held entirely online over Twitter and aims to provide an opportunity for Statistician and Data Scientist around the world to meet online, share thier research and engage in scientific debate.
-Join the #YISAPoster2020 event:  Register: to submit a poster please register here.</description>
+      <guid>https://young-istat.github.io/webinars/posts/2021-12-16-webinar10/</guid>
+      <description>Dr Rohan Alexander from University of Toronto will speak on the origins of Data Science, and especially the contributions of Irish statisticians on the field.</description>
+    </item>
+    
+    <item>
+      <title>Estimating energy allocation between somatic and gonadic growth</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-11-12-webinar9/</link>
+      <pubDate>Fri, 12 Nov 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-11-12-webinar9/</guid>
+      <description>Dr Hideyasu Shimadzu from Loughborough University, UK, will speak on the nature of the challenges associated with quantifying the growth patterns and energy allocation strategies of living organisms and the interactions with broader biological communities in which they reside.</description>
+    </item>
+    
+    <item>
+      <title>Assessing the impact of deprivation and ethnicity on COVID burden in England</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-10-14-webinar8/</link>
+      <pubDate>Thu, 14 Oct 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-10-14-webinar8/</guid>
+      <description>Dr. Tullia Padellini from Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London will speak on how the ethnically diverse and deprived communities have been differentially affected by the COVID-19 pandemic in the UK by assessing three different metrics of COVID-19 burden (test positivity, prevalence and vaccination rates).</description>
+    </item>
+    
+    <item>
+      <title>Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-09-16-webinar7/</link>
+      <pubDate>Thu, 16 Sep 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-09-16-webinar7/</guid>
+      <description>Laurence Francis Lacey will speak on the application of different functional forms of the expansion of the sample space with time in expansion of the broad money supply of US$ over the period 2001 to 2019.</description>
+    </item>
+    
+    <item>
+      <title>Condition based maintenance - a guideline for choosing between repair and replacement</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-04-15-webinar6-copy/</link>
+      <pubDate>Thu, 22 Apr 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-04-15-webinar6-copy/</guid>
+      <description>Dr. Elham Mosayebi Omshi will speak on an adapted maintenance modeling framework for modeling the maintenance cost of a system.</description>
+    </item>
+    
+    <item>
+      <title>Condition based maintenance - a guideline for choosing between repair and replacement</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-04-15-webinar6/</link>
+      <pubDate>Thu, 22 Apr 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-04-15-webinar6/</guid>
+      <description>Dr. Elham Mosayebi Omshi will speak on an adapted maintenance modeling framework for modeling the maintenance cost of a system.</description>
+    </item>
+    
+    <item>
+      <title>Efficient Conversion Probability Estimator for Display Advertising</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-03-11-webinar5/</link>
+      <pubDate>Thu, 11 Mar 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-03-11-webinar5/</guid>
+      <description>Dr. Abdollah Safari from faculty of Pharmaceutical Sciences, University of British Colombia will speak on methods to estimate the conversion probability of an advertisement to quantify the value of an ad.</description>
+    </item>
+    
+    <item>
+      <title>Introductory data science, a fresh look</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-02-11-webinar4/</link>
+      <pubDate>Thu, 11 Feb 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-02-11-webinar4/</guid>
+      <description>Dr. Mine Çetinkaya-Rundel from the School of Mathematics, University of Edinburgh; Department of Statistical Science, Duke University; and RStudio will speak on a fresh approach to teaching data science at the introductory level and will introduce the design philosophy behind the curriculum as well as provide directions in assessment in this online teaching era.</description>
+    </item>
+    
+    <item>
+      <title>An introduction to the tidymodels package</title>
+      <link>https://young-istat.github.io/webinars/posts/2021-01-21-webinar3/</link>
+      <pubDate>Thu, 28 Jan 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2021-01-21-webinar3/</guid>
+      <description>Bruna Wundervald from the School of Mathematics, National University of Ireland, Maynooth will introduce tidymodels packages, and how they can be used for the pre-processing of data, and training and validation of machine learning models.</description>
+    </item>
+    
+    <item>
+      <title>Clustering Big Data with Mixed Features</title>
+      <link>https://young-istat.github.io/webinars/posts/2020-12-10-webinar2/</link>
+      <pubDate>Thu, 10 Dec 2020 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2020-12-10-webinar2/</guid>
+      <description>Joshua Tobin from the School of Computer Science &amp;amp; Statistics, Trinity College Dublin, will introduce a new clustering method for large mixed attribute datasets which adapts and extends the popular peak-finding technique. The algorithm presented is competent at deciding the correct number of clusters and executes with subquadratic complexity.</description>
+    </item>
+    
+    <item>
+      <title>Global Short-Term Forecasting of Covid-19 Cases</title>
+      <link>https://young-istat.github.io/webinars/posts/2020-11-12-webinar1/</link>
+      <pubDate>Thu, 12 Nov 2020 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2020-11-12-webinar1/</guid>
+      <description>Dr. Thiago de Paula Oliveira from the Roslin Institute, University of Edinburgh will speak on a new modelling framework of COVID-19 to forecast the number of cases, study the effects of covariates (such as lockdown policies), and generate forecasts for smaller regions within countries and up to six days ahead.</description>
+    </item>
+    
+    <item>
+      <title>Young-ISA Twitter Poster Conference (#YISAPoster2020)</title>
+      <link>https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020/</link>
+      <pubDate>Thu, 21 May 2020 18:58:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020/</guid>
+      <description>This Twitter Poster Conference aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage in scientific discussion</description>
+    </item>
+    
+    <item>
+      <title>Committee 2021 - 2022</title>
+      <link>https://young-istat.github.io/committee/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://young-istat.github.io/committee/</guid>
+      <description>html { scroll-behavior: smooth; } #myBtn { display: none; /* Hidden by default */ position: fixed; /* Fixed/sticky position */ bottom: 20px; /* Place the button at the bottom of the page */ right: 30px; /* Place the button 30px from the right */ z-index: 99; /* Make sure it does not overlap */ border: none; /* Remove borders */ outline: none; /* Remove outline */ background-color: #256439; /* Set a background color */ color: white; /* Text color */ cursor: pointer; /* Add a mouse pointer on hover */ padding: 15px; /* Some padding */ border-radius: 10px; /* Rounded corners */ font-size: 16px; /* Increase font size */ font-family: &#34;</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://young-istat.github.io/news/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://young-istat.github.io/news/</guid>
+      <description>Webinar Series: On the privilege of turning our world into data Updated on 2021-11-01 Dr Rohan Alexander from University of Toronto will speak on the origins of Data Science, and especially the contributions of Irish statisticians on the field. For more information about this webinar please visit here.
+ Webinar Series: Estimating energy allocation between somatic and gonadic growth Updated on 2021-11-01 Dr Hideyasu Shimadzu from Loughborough University, UK will speak on the nature of the challenges associated with quantifying the growth patterns and energy allocation strategies of living organisms and the interactions with broader biological communities in which they reside.</description>
     </item>
     
     <item>
       <title>Inaugural Young-ISA Meeting</title>
-      <link>/posts/2019-09-01-inaugural-meeting/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <link>https://young-istat.github.io/events/posts/2019-09-01-inaugural-meeting/</link>
+      <pubDate>Sun, 01 Sep 2019 18:36:26 +0200</pubDate>
       
-      <guid>/posts/2019-09-01-inaugural-meeting/</guid>
-      <description>Date: Friday October 4, 2019 Location: Glenroyal Hotel, Maynooth Time: 10.00 - 19.00 The full program is available here.
-The Young Statisticians’ Section of the Irish Statistical Association (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association. This inaugural event will gather together early career statisticians from across Ireland for a series of talks on career development in academia and industry.</description>
+      <guid>https://young-istat.github.io/events/posts/2019-09-01-inaugural-meeting/</guid>
+      <description>This inaugural event will gather together early career statisticians from across Ireland for a series of talks on career development in academia and industry</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://young-istat.github.io/home/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/emoji-support/</guid>
-      <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.
-The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.
-</description>
+      <guid>https://young-istat.github.io/home/</guid>
+      <description>The Young Statisticians’ Section of the Irish Statistical Association is dedicated to the creation and promotion of a network of career-young statisticians in Ireland, supporting their professional development, organizing events and activities, and providing an interface with ISA.</description>
     </item>
     
     <item>
-      <title>Actual post</title>
-      <link>/posts/actual/</link>
-      <pubDate>Mon, 10 Sep 2018 18:58:26 +0200</pubDate>
+      <title>About</title>
+      <link>https://young-istat.github.io/about/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/actual/</guid>
-      <description>An actual post with some information on this theme</description>
+      <guid>https://young-istat.github.io/about/</guid>
+      <description>The Young Statisticians’ Section of the Irish Statistical Association (Young-ISA) aims to create and cultivate a network of career-young statisticians across Ireland, statisticians in the early stages of their careers. The ISA established the Young-ISA to support social and professional opportunities for career-young statisticians within the ISA community.
+The Young-ISA Section focuses on:
+ Networking – Create and promote a network of career-young statisticians in Ireland. Young-ISA is a forum, for undergraduate and postgraduate students, researchers, lecturers and professionals, in all fields of Statistics, across academia, industry and other research institutions, to exchange and discuss ideas.</description>
     </item>
     
   </channel>
