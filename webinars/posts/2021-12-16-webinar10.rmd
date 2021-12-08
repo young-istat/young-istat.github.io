@@ -13,7 +13,7 @@ title: On the privilege of turning our world into data
 ### Join the Webinar
 
   - **Webinar** is free and open to everyone. 
-  - Click [here](/webinars/webinar10_calendar.ics) to download the calendar invite to the meeting. 
+  - To download the calendar invite to the meeting right click [here](/webinars/webinar10_calendar.ics) and click on 'Save Link As'. 
   - Or, alternatively, the **link** to the webinar is: https://us02web.zoom.us/j/86960753282?pwd=QTJhQ1RabkdVckJKMnBzMGFZWWdVQT09 <br>
 
 
