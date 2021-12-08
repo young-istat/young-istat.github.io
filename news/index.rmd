@@ -3,6 +3,14 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_Webinar Series: On the privilege of turning our world into data_**</u>
+<p style="font-size:15px">Updated on 2021-11-01</p>
+
+Dr Rohan Alexander from University of Toronto will speak on the origins of Data Science, and especially the contributions of Irish statisticians on the field. For more information about this webinar please visit [here](/webinars/posts/2021-12-16-webinar10/). 
+
+
+
+
 ## <u>**_Webinar Series: Estimating energy allocation between somatic and gonadic growth_**</u>
 <p style="font-size:15px">Updated on 2021-11-01</p>
 
