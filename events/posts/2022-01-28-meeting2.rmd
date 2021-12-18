@@ -1,0 +1,37 @@
+---
+author: Davood Roshan
+date: "2021-12-18T18:36:26+02:00"
+summary: The 2nd Young-ISA meeting is dedicated to Communication and Reproducibility in Statistics.
+type: postevent
+tags:
+- post
+title: 2nd Young-ISA Meeting
+---
+**Date:** Friday January 28, 2022 <br>
+**Location:** University of Limerick <br>
+**Time:** 10.00 - 19.00 <br>
+
+
+The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
+
+This event is the 2nd Young-ISA meeting that will gather together early career statisticians from across Ireland for a series of talks dedicated to Communication and Reproducibility in Statistics. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers.
+
+### Invited Speakers
+
+[Prof. Andrew Parnell](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/andrew-parnell), Prfoessor of Statistics, Maynooth University. <br>
+[Prof Ailish Hannigan](https://www.ul.ie/hri/person/hri-member/prof-ailish-hannigan), Professor of Biomedical Statistics, University of Limerick. <br>
+
+### Programme
+Please visit later for the detailed programme. 
+
+
+### Registration
+
+The event is open to all early career statisticians (including postgraduate and PhD students, postdoctoral researchers and lecturers) and all ISA members.
+
+There is **no charge** for attending this event. To register please use the Eventbrite link [here](https://www.eventbrite.ie/e/2nd-young-isa-meeting-tickets-229761511867) by Wednesday, 26 January 2022.
+
+<br>
+<br>
+
+Category: [<u>Events</u>](/events/)

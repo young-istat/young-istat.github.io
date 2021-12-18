@@ -6,10 +6,19 @@
     <description>Recent content in Events on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 18:58:26 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Dec 2021 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="https://young-istat.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2nd Young-ISA Meeting</title>
+      <link>https://young-istat.github.io/events/posts/2022-01-28-meeting2/</link>
+      <pubDate>Sat, 18 Dec 2021 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/events/posts/2022-01-28-meeting2/</guid>
+      <description>The 2nd Young-ISA meeting is dedicated to Communication and Reproducibility in Statistics.</description>
+    </item>
     
     <item>
       <title>Young-ISA Twitter Poster Conference (#YISAPoster2020)</title>

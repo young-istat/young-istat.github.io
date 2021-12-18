@@ -3,6 +3,22 @@ date: "2020-05-21"
 title: News
 ---
 
+
+## <u>**_Young-ISA Christmas quiz_**</u>
+<p style="font-size:15px">Updated on 2021-12-18</p>
+
+The Young-ISA is delighted to invite everyone to take part in our Christmas quiz [here](https://forms.gle/Ma3Bn8H3EArcDmPU7)!
+
+The deadline for answers is 12 pm on 24th December 2021. Happy Christmas!
+
+
+## <u>**_2nd Young-ISA Meeting_**</u>
+<p style="font-size:15px">Updated on 2021-12-18</p>
+This event is the 2nd Young-ISA meeting that will gather together early career statisticians from across Ireland for a series of talks dedicated to Communication and Reproducibility in Statistics. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers. Read more [here](/events/posts/2022-01-28-meeting2/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/2nd-young-isa-meeting-tickets-229761511867).
+
+
 ## <u>**_Webinar Series: On the privilege of turning our world into data_**</u>
 <p style="font-size:15px">Updated on 2021-11-01</p>
 
