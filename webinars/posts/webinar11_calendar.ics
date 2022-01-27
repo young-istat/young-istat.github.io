@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Dublin
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Dublin
+X-LIC-LOCATION:Europe/Dublin
+BEGIN:DAYLIGHT
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211216T135119Z
+DTSTART;TZID=Europe/Dublin:20220210T120000
+DTEND;TZID=Europe/Dublin:20220210T130000
+SUMMARY:Y-ISA webinar
+UID:20211216T135119Z-81613517399@fe80:0:0:0:e2:8eff:fe2d:d6f8ens5
+TZID:Europe/Dublin
+DESCRIPTION:Andrew Simpkin is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/81613517399\n\nMeeting ID
+ : 816 1351 7399\nOne tap mobile\n+35315369320\,\,81613517399# Ireland\n+
+ 35316533895\,\,81613517399# Ireland\n\nDial by your location\n        +3
+ 53 1 536 9320 Ireland\n        +353 1 653 3895 Ireland\n        +353 1 6
+ 53 3897 Ireland\n        +353 1 653 3898 Ireland\n        +353 6 163 903
+ 1 Ireland\n        +353 1 240 8941 Ireland\n        +1 346 248 7799 US (
+ Houston)\n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782
+  US (Tacoma)\n        +1 312 626 6799 US (Chicago)\n        +1 929 205 6
+ 099 US (New York)\n        +1 301 715 8592 US (Washington DC)\nMeeting I
+ D: 816 1351 7399\nFind your local number: https://us02web.zoom.us/u/kc48
+ kh9pcB\n\n
+LOCATION:https://us02web.zoom.us/j/81613517399
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

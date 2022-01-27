@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2021-12-16T18:36:26+02:00"
 summary: Dr Rohan Alexander from University of Toronto will speak on the origins of Data Science, and especially the contributions of Irish statisticians on the field.
-type: postweb
+type: preweb
 tags:
 - post
 title: On the privilege of turning our world into data
@@ -13,7 +13,7 @@ title: On the privilege of turning our world into data
 ### Join the Webinar
 
   - **Webinar** is free and open to everyone. 
-  - To download the calendar invite to the meeting right click [here](/webinars/webinar10_calendar.ics) and click on 'Save Link As'. 
+  - Click [here](/webinars/posts/webinar10_calendar.ics) to download the calendar invite to the meeting. . 
   - Or, alternatively, the **link** to the webinar is: https://us02web.zoom.us/j/86960753282?pwd=QTJhQ1RabkdVckJKMnBzMGFZWWdVQT09 <br>
 
 

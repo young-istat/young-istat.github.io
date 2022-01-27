@@ -6,10 +6,19 @@
     <description>Recent content in Webinars on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Dec 2021 18:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Feb 2022 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stochastic invasion of variants of concern and effectiveness of border controls in a population with heterogeneous immunity.</title>
+      <link>https://young-istat.github.io/webinars/posts/2022-02-10-webinar11/</link>
+      <pubDate>Thu, 10 Feb 2022 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2022-02-10-webinar11/</guid>
+      <description>Jacob Curran-Sebastian from University of Manchester will speak on the use of a multi-type branching process model to understand the stochastic invasion of SARS-CoV-2 variants of concern into a country where a vaccination program is ongoing and where part of the population exhibits immunity due to prior infection with a resident strain.</description>
+    </item>
     
     <item>
       <title>On the privilege of turning our world into data</title>

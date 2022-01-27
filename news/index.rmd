@@ -4,6 +4,13 @@ title: News
 ---
 
 
+## <u>**_Webinar Series: Stochastic invasion of variants of concern and effectiveness of border controls in a population with heterogeneous immunity_**</u>
+<p style="font-size:15px">Updated on 2022-01-27</p>
+
+[Jacob Curran-Sebastian](https://twitter.com/CurranSebastian) from University of Manchester will speak on the use of a multi-type branching process model to understand the stochastic invasion of SARS-CoV-2 variants of concern into a country where a vaccination program is ongoing and where part of the population exhibits immunity due to prior infection with a resident strain. For more information about this webinar please visit [here](/webinars/posts/2022-02-10-webinar11/). 
+
+
+
 ## <u>**_Young-ISA Christmas quiz_**</u>
 <p style="font-size:15px">Updated on 2021-12-18</p>
 

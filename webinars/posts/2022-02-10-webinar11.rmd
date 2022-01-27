@@ -1,0 +1,27 @@
+---
+author: Davood Roshan
+date: "2022-02-10T18:36:26+02:00"
+summary: Jacob Curran-Sebastian from University of Manchester will speak on the use of a multi-type branching process model to understand the stochastic invasion of SARS-CoV-2 variants of concern into a country where a vaccination program is ongoing and where part of the population exhibits immunity due to prior infection with a resident strain. 
+type: postweb
+tags:
+- post
+title: Stochastic invasion of variants of concern and effectiveness of border controls in a population with heterogeneous immunity.
+---
+**Date:** Thursday February 10th, 2022 <br>
+**Time:** 12.00pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - Click [here](/webinars/posts/webinar11_calendar.ics) to download the calendar invite to the meeting. 
+  - Or, alternatively, the **link** to the webinar is: https://us02web.zoom.us/j/81613517399 <br>
+
+
+### Speaker
+[Jacob Curran-Sebastian](https://twitter.com/CurranSebastian) from University of Manchester
+
+
+### Abstract
+The emergence of SARS-CoV-2 in December 2019 as well as of novel variants of concern (VoCs) has created a focus on border controls as a defence against importing infected cases into a population. Border restrictions are known to have only limited effectiveness in delaying the ingress of infected cases, but the ability of an imported strain to establish itself in a society is complicated by the levels of non-pharmaceutical interventions (NPIs) and by how advanced the vaccination programme against the existing resident strain is. Taking the United Kingdom as an example, we use a multi-type branching process model to understand the stochastic invasion of a VoC into a country where a vaccination program is ongoing and where part of the population exhibits immunity due to prior infection with a resident strain. We use this framework to obtain the probability that an imported strain ultimately becomes established in the population. Furthermore, we quantify the time after which the system’s dynamics can be well approximated by a deterministic model, at which point the epidemic grows exponentially, as well as the uncertainty around this time scale. We consider different border control schemes and levels of NPIs in place to assess their efficacy in delaying and controlling the proliferation of novel VoCs, highlighting the difficulty in relying on border controls alone to prevent their importation.
+
+Category: [<u>Webinars</u>](/webinars/)
