@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2022-02-10T18:36:26+02:00"
 summary: Jacob Curran-Sebastian from University of Manchester will speak on the use of a multi-type branching process model to understand the stochastic invasion of SARS-CoV-2 variants of concern into a country where a vaccination program is ongoing and where part of the population exhibits immunity due to prior infection with a resident strain. 
-type: postweb
+type: preweb
 tags:
 - post
 title: Stochastic invasion of variants of concern and effectiveness of border controls in a population with heterogeneous immunity.
