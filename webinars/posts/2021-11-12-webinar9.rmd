@@ -23,4 +23,8 @@ Quantifying the growth patterns and energy allocation strategies of livings is e
 - **Registration** is free and open to everyone. 
 - Please click [here](https://www.eventbrite.ie/e/y-isa-webinar-series-energy-allocation-between-somatic-and-gonadic-growth-tickets-203112684507) to register.
 
+### Webinar Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ht9fCZ9xxuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Category: [<u>Webinars</u>](/webinars/)

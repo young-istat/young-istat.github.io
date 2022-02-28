@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2021-12-18T18:36:26+02:00"
 summary: The 2nd Young-ISA meeting is dedicated to Communication and Reproducibility in Statistics.
-type: postevent
+type: preevent
 tags:
 - post
 title: 2nd Young-ISA Meeting

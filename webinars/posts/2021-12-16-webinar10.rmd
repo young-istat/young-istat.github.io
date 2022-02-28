@@ -24,5 +24,7 @@ Dr Rohan Alexander from University of Toronto
 ### Abstract
 I will begin by discussing the origins of data science, especially mentioning the contributions of Irish statisticians. I will turn to what I see data science as, and what I see are some of our roles and responsibilities as quantitatively interested folks. I will then go through various applications including: understanding the effect of elections; hate speech detection; and the reproducibility of COVID-19 pre-prints. While going those applications I will focus more on what I learned and how I developed, rather than specific results. I will close with a series of open questions.
 
+### Webinar Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XxtwcvSkV3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Category: [<u>Webinars</u>](/webinars/)
