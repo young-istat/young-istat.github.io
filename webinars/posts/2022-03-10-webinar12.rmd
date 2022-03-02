@@ -1,0 +1,30 @@
+---
+author: Davood Roshan
+date: "2022-03-10T18:36:26+02:00"
+summary: Gabriel Rodrigues Palma from Hamilton Institute, Maynooth University will speak about a new machine learning method called Pattern-Based Prediction (PBP) for predicting insect outbreaks based on a time series of aphids, pests species of cereal crops.
+type: postweb
+tags:
+- post
+title:  Pattern Based prediction, a new machine learning method for detecting population outbreaks.
+---
+**Date:** Thursday March 10th, 2022 <br>
+**Time:** 12.00pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - Click [here](/webinars/posts/webinar12_calendar.ics) to download the calendar invite to the meeting. 
+  - Or, alternatively, the **link** to the webinar is: https://us02web.zoom.us/j/86189257369?pwd=Z3hPY2ZhbjRVTGc0UFdMSENhSnNrZz09 <br>
+
+
+### Speaker
+Gabriel Rodrigues Palma from Hamilton Institute, Maynooth University, Ireland.
+
+
+### Abstract
+Insect outbreaks are among the most important biotic disturbances in forests and agroecosystems that cause economic and ecological damage. This phenomenon depends on a variety of biological and physical factors. However, given the complexity of these systems, predicting outbreaks becomes a focus of research. Recently, Hilker and Westerhoff (2007) proposed a method called Alert Zone Procedure (AZP) that is compatible with animal outbreak forecasting. This method needs to be enhanced to be able to provide better predictive power. Forecasting and classification tasks have been improved by Machine Learning algorithms that are applied in many domains of science based on the purpose of understanding how algorithms can ”learn” these tasks. For the outbreak context, in general, many methods have been developed to enhance predictions such as Recurrent Neural Networks, Random Forests, and Support Vector Machines.
+Here we propose the novel Pattern-Based Prediction (PBP) method for predicting population outbreaks. It is based on the Alert Zone Procedure, combined with elements from statistical machine learning.
+
+
+
+Category: [<u>Webinars</u>](/webinars/)

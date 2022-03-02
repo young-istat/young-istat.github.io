@@ -4,6 +4,14 @@ title: News
 ---
 
 
+## <u>**_Webinar Series: Pattern Based prediction, a new machine learning method for detecting population outbreaks_**</u>
+<p style="font-size:15px">Updated on 2022-03-02</p>
+
+Gabriel Rodrigues Palma from Hamilton Institute, Maynooth University will speak about a new machine learning method called Pattern-Based Prediction (PBP) for predicting insect outbreaks based on a time series of aphids, pests species of cereal crops. For more information about this webinar please visit [here](/webinars/posts/2022-03-10-webinar12/). 
+
+
+
+
 ## <u>**_Webinar Series: Stochastic invasion of variants of concern and effectiveness of border controls in a population with heterogeneous immunity_**</u>
 <p style="font-size:15px">Updated on 2022-01-27</p>
 

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Dublin
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Dublin
+X-LIC-LOCATION:Europe/Dublin
+BEGIN:DAYLIGHT
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220302T112400Z
+DTSTART;TZID=Europe/Dublin:20220310T120000
+DTEND;TZID=Europe/Dublin:20220310T130000
+SUMMARY:Y-ISA webinar - March 2022
+UID:20220302T112400Z-86189257369@fe80:0:0:0:4a8:d2ff:feeb:3902ens5
+TZID:Europe/Dublin
+DESCRIPTION:Andrew Simpkin is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86189257369?pwd=Z3hPY2Zhb
+ jRVTGc0UFdMSENhSnNrZz09\n\nMeeting ID: 861 8925 7369\nPasscode: 602641\n
+ One tap mobile\n+35361639031\,\,86189257369#\,\,\,\,*602641# Ireland\n+3
+ 5312408941\,\,86189257369#\,\,\,\,*602641# Ireland\n\nDial by your locat
+ ion\n        +353 6 163 9031 Ireland\n        +353 1 240 8941 Ireland\n 
+        +353 1 536 9320 Ireland\n        +353 1 653 3895 Ireland\n       
+  +353 1 653 3897 Ireland\n        +353 1 653 3898 Ireland\n        +1 92
+ 9 205 6099 US (New York)\n        +1 253 215 8782 US (Tacoma)\n        +
+ 1 301 715 8592 US (Washington DC)\n        +1 312 626 6799 US (Chicago)\
+ n        +1 346 248 7799 US (Houston)\n        +1 669 900 6833 US (San J
+ ose)\nMeeting ID: 861 8925 7369\nPasscode: 602641\nFind your local numbe
+ r: https://us02web.zoom.us/u/kbg4FGp8T9\n\n
+LOCATION:https://us02web.zoom.us/j/86189257369?pwd=Z3hPY2ZhbjRVTGc0UFdMSE
+ NhSnNrZz09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
