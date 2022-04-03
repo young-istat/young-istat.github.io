@@ -6,10 +6,19 @@
     <description>Recent content in Webinars on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 18:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 14 Apr 2022 18:36:26 +0200</lastBuildDate>
     
 	<atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evaluation of credit risk measures using structural models</title>
+      <link>https://young-istat.github.io/webinars/posts/2022-04-12-webinar13/</link>
+      <pubDate>Thu, 14 Apr 2022 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2022-04-12-webinar13/</guid>
+      <description>Dr. Zahra Eskandari from Central Tehran Branch, Islamic Azad University, Tehran, Iran will speak about the estimation methods of economic capital where has been recently become an appropriate capital to cover unexpected losses in financial institutions, especially banks. Accurate estimation of economic capital is therefore essential to protect banks against the risks.</description>
+    </item>
     
     <item>
       <title>Pattern Based prediction, a new machine learning method for detecting population outbreaks.</title>

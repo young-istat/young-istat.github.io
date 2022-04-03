@@ -1,0 +1,29 @@
+---
+author: Davood Roshan
+date: "2022-04-14T18:36:26+02:00"
+summary: Dr. Zahra Eskandari from Central Tehran Branch, Islamic Azad University, Tehran, Iran will speak about the estimation methods of economic capital where has been recently become an appropriate capital to cover unexpected losses in financial institutions, especially banks. Accurate estimation of economic capital is therefore essential to protect banks against the risks.
+type: postweb
+tags:
+- post
+title: Evaluation of credit risk measures using structural models
+---
+**Date:** Thursday April 14th, 2022 <br>
+**Time:** 12.00pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - Click [here](/webinars/posts/webinar13_calendar.ics) to download the calendar invite to the meeting. 
+  - Or, alternatively, the **link** to the Microsoft Teams webinar is: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQwYzBjNjUtMTFlNy00YTBjLWI2NjEtMmM3ZTQ4ZjAzZmYx%40thread.v2/0?context=%7b%22Tid%22%3a%2213e3b186-c446-4aab-9c6d-9ab9bb76816c%22%2c%22Oid%22%3a%22d294b876-a237-4185-b5d6-ea53d15f88e7%22%7d <br>
+
+
+### Speaker
+Dr. Zahra Eskandari from Central Tehran Branch, Islamic Azad University, Tehran, Iran.
+
+
+### Abstract
+Banks are exposed to a variety of risks and the risks can lead to significant financial losses. The consequences of losses might be financial crises. So the financial crisis is one of the most important challenges for financial institutions. To overcome this challenge, a financial institution, especially a bank, must have an accurate estimate of the risks involved and maintain adequate capital to protect the bank. In recent years, economic capital, as the appropriate capital to cover unexpected loss, has become a more accurate measure for estimating the required capital to deal with risks.
+In this presentation, we are going to discuss about estimating the economic capital of a selected Iranian bank's portfolio which includes publicly traded companies using Monte Carlo simulation with two approaches of structural models. The first approach is to use the random matrix method in order to take fluctuating asset correlations into account and the second one is the classical Merton method which does not take into account the fluctuations of correlations. The results show that the bank ‘s risk will be significantly underestimated if the classical Merton approach is used.
+
+
+Category: [<u>Webinars</u>](/webinars/)

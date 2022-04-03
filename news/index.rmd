@@ -3,6 +3,12 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_Webinar Series: Evaluation of credit risk measures using structural models_**</u>
+<p style="font-size:15px">Updated on 2022-04-03</p>
+
+Dr. Zahra Eskandari from Central Tehran Branch, Islamic Azad University, Tehran, Iran will speak about the estimation methods of economic capital where has been recently become an appropriate capital to cover unexpected losses in financial institutions, especially banks. Accurate estimation of economic capital is therefore essential to protect banks against the risks. For more information about this webinar please visit [here](/webinars/posts/2022-04-12-webinar13/). 
+
+
 
 ## <u>**_Webinar Series: Pattern Based prediction, a new machine learning method for detecting population outbreaks_**</u>
 <p style="font-size:15px">Updated on 2022-03-02</p>
