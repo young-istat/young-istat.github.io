@@ -72,7 +72,7 @@ I am Davood Roshan, a *young* statistician and lecturer of Statistical Science a
 
 <br>
 
-## <img src="pics_Silvia.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Ordinary Member
+## <img src="pic_silvia_new.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Ordinary Member
 Hi! My name is Silvia and I am a lecturer in the School of Computer Science and Statistics, Trinity College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity. See my personal [webpage](https://silviadangelo.github.io/).
 
 
