@@ -3,19 +3,36 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_3rd Young-ISA Meeting_**</u>
+<p style="font-size:15px">Updated on 2022-09-07</p>
+This event is the 3rd Young-ISA meeting that will gather together early career statisticians from across Ireland for a series of talks dedicated to collaborative workflow in Statistics and Data Science, using tools such as Github to carry out projects within teams. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers. Read more [here](/events/posts/2022-10-07-meeting3/). 
+
+For registration please visit [here](https://www.eventbrite.ie/e/3rd-young-isa-event-collaborative-workflow-in-data-science-tickets-414540029387?aff=ebdssbdestsearch).
+
+---
+
+## <u>**_Young-ISA 3rd Twitter Poster Conference (#YISAPoster2022)_**</u>
+<p style="font-size:15px">Updated on 2022-09-07</p>
+
+The 3rd **#YISAPoster2022** Twitter Conference will be held entirely online over [Twitter](https://twitter.com/Young_Stats_ISA) on October 5th 2022 and aims to provide an opportunity for Statistician and Data Scientist around the world to meet online, share thier research and engage in scientific debate. For more information on how to join the **#YISAPoster2022** event please visit [here](/events/posts/2022-10-05-poster-conference-2022/). 
+
+
+---
+
 ## <u>**_Webinar Series: Evaluation of credit risk measures using structural models_**</u>
 <p style="font-size:15px">Updated on 2022-04-03</p>
 
 Dr. Zahra Eskandari from Central Tehran Branch, Islamic Azad University, Tehran, Iran will speak about the estimation methods of economic capital where has been recently become an appropriate capital to cover unexpected losses in financial institutions, especially banks. Accurate estimation of economic capital is therefore essential to protect banks against the risks. For more information about this webinar please visit [here](/webinars/posts/2022-04-12-webinar13/). 
 
 
+---
 
 ## <u>**_Webinar Series: Pattern Based prediction, a new machine learning method for detecting population outbreaks_**</u>
 <p style="font-size:15px">Updated on 2022-03-02</p>
 
 Gabriel Rodrigues Palma from Hamilton Institute, Maynooth University will speak about a new machine learning method called Pattern-Based Prediction (PBP) for predicting insect outbreaks based on a time series of aphids, pests species of cereal crops. For more information about this webinar please visit [here](/webinars/posts/2022-03-10-webinar12/). 
 
-
+---
 
 
 ## <u>**_Webinar Series: Stochastic invasion of variants of concern and effectiveness of border controls in a population with heterogeneous immunity_**</u>
@@ -23,7 +40,7 @@ Gabriel Rodrigues Palma from Hamilton Institute, Maynooth University will speak 
 
 [Jacob Curran-Sebastian](https://twitter.com/CurranSebastian) from University of Manchester will speak on the use of a multi-type branching process model to understand the stochastic invasion of SARS-CoV-2 variants of concern into a country where a vaccination program is ongoing and where part of the population exhibits immunity due to prior infection with a resident strain. For more information about this webinar please visit [here](/webinars/posts/2022-02-10-webinar11/). 
 
-
+---
 
 ## <u>**_Young-ISA Christmas quiz_**</u>
 <p style="font-size:15px">Updated on 2021-12-18</p>
@@ -32,6 +49,7 @@ The Young-ISA is delighted to invite everyone to take part in our Christmas quiz
 
 The deadline for answers is 12 pm on 24th December 2021. Happy Christmas!
 
+---
 
 ## <u>**_2nd Young-ISA Meeting_**</u>
 <p style="font-size:15px">Updated on 2021-12-18</p>
@@ -39,6 +57,7 @@ This event is the 2nd Young-ISA meeting that will gather together early career s
 
 For registration please visit [here](https://www.eventbrite.ie/e/2nd-young-isa-meeting-tickets-229761511867).
 
+---
 
 ## <u>**_Webinar Series: On the privilege of turning our world into data_**</u>
 <p style="font-size:15px">Updated on 2021-11-01</p>
@@ -46,7 +65,7 @@ For registration please visit [here](https://www.eventbrite.ie/e/2nd-young-isa-m
 Dr Rohan Alexander from University of Toronto will speak on the origins of Data Science, and especially the contributions of Irish statisticians on the field. For more information about this webinar please visit [here](/webinars/posts/2021-12-16-webinar10/). 
 
 
-
+---
 
 ## <u>**_Webinar Series: Estimating energy allocation between somatic and gonadic growth_**</u>
 <p style="font-size:15px">Updated on 2021-11-01</p>
@@ -54,6 +73,8 @@ Dr Rohan Alexander from University of Toronto will speak on the origins of Data 
 [Dr Hideyasu Shimadzu](https://www.lboro.ac.uk/departments/maths/staff/hideyasu-shimadzu/) from Loughborough University, UK will speak on the nature of the challenges associated with quantifying the growth patterns and energy allocation strategies of living organisms and the interactions with broader biological communities in which they reside. For more information about this webinar please visit [here](/webinars/posts/2021-11-12-webinar9/). 
 
 For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-energy-allocation-between-somatic-and-gonadic-growth-tickets-203112684507).
+
+---
 
 ## <u>**_Webinar Series: Assessing the impact of deprivation and ethnicity on COVID burden in England_**</u>
 <p style="font-size:15px">Updated on 2021-09-26</p>
@@ -63,7 +84,7 @@ For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-s
 For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-the-impact-of-deprivation-and-ethnicity-on-covid-tickets-179481081747).
 
 
-
+---
 
 
 ## <u>**_Webinar Series: Characterisation of the probability and information entropy of a process with an increasing sample space of different functional forms, with applications to (1) the Broad Money Supply and (2) Hyperinflation_**</u>
@@ -73,7 +94,7 @@ Laurence Francis Lacey, Director of Lacey Solutions Ltd, will speak on the appli
 
 For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-characterisation-of-information-entropy-of-a-process-tickets-169393419277).
 
-
+---
 
 ## <u>**_Webinar Series: Condition based maintenance - a guideline for choosing between repair and replacement_**</u>
 <p style="font-size:15px">Updated on 2021-03-15</p>
@@ -82,6 +103,7 @@ Dr. Elham Mosayebi Omshi from the Department of Mathematics, Statistics and Comp
 
 For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-series-guideline-of-choosing-between-repair-and-replacement-tickets-146486931355).
 
+---
 
 ## <u>**_Webinar Series: Efficient Conversion Probability Estimator for Display Advertising_**</u>
 <p style="font-size:15px">Updated on 2021-01-28</p>
@@ -90,6 +112,8 @@ For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-s
 
 For registration please visit [here](https://www.eventbrite.ie/e/138800214177).
 
+---
+
 ## <u>**_Webinar Series: Introductory data science, a fresh look_**</u>
 <p style="font-size:15px">Updated on 2021-01-28</p>
 
@@ -97,7 +121,7 @@ For registration please visit [here](https://www.eventbrite.ie/e/138800214177).
 
 For registration please visit [here](https://www.eventbrite.ie/e/138791776941).
 
-
+---
 
 
 ## <u>**_Webinar Series: An introduction to the tidymodels package_**</u>
@@ -106,6 +130,8 @@ For registration please visit [here](https://www.eventbrite.ie/e/138791776941).
 [Bruna Wundervald](https://brunaw.com/) from the School of Mathematics, National University of Ireland, Maynooth will introduce tidymodels packages, and how they can be used for the pre-processing of data, and training and validation of machine learning models. For more information about this webinar please visit [here](/webinars/posts/2021-01-21-webinar3/). 
 
 For registration please visit [here](https://www.eventbrite.ie/e/135974925663).
+
+---
 
 ## <u>**_Webinar Series: Confirmed Speakers for the New Year_**</u>
 <p style="font-size:15px">Updated on 2020-12-15</p>
@@ -120,7 +146,7 @@ Our confirmed speakers for the January, February and March 2021 Young ISA webina
 
 For more information about these webinars please click [here](/webinars/). 
 
-
+---
 
 ## <u>**_Webinar Series: Clustering Big Data with Mixed Features_**</u>
 <p style="font-size:15px">Updated on 2020-12-02</p>

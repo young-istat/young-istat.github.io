@@ -1,6 +1,6 @@
 ---
 title: "Young-ISA Twitter Poster Conference (#YISAPoster2020)"
-author: "hauke96"
+author: "davood"
 date: '2020-05-21T18:58:26+02:00'
 tags: post
 type: preevent

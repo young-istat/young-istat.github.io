@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2022-04-14T18:36:26+02:00"
 summary: Dr. Zahra Eskandari from Central Tehran Branch, Islamic Azad University, Tehran, Iran will speak about the estimation methods of economic capital where has been recently become an appropriate capital to cover unexpected losses in financial institutions, especially banks. Accurate estimation of economic capital is therefore essential to protect banks against the risks.
-type: postweb
+type: preweb
 tags:
 - post
 title: Evaluation of credit risk measures using structural models
