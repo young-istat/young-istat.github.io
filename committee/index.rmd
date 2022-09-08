@@ -43,10 +43,9 @@ html {
 | <a href="#Fatima">Fatima-Zahra Jaouimaa</a>   | Ordinary Member | University of Limerick     |
 | <a href="#James">James Ng</a>              | Ordinary Member  | Trinity College Dublin |
 | <a href="#Jonathan">Jonathan Henderson</a>              | Ordinary Member  | Queen's University Belfast     |
+| <a href="#Gabriel">Gabriel Rodriques Palma</a>             | Ordinary Member            | Maynooth University |
 | <a href="#Rabia">Rabia Naqvi</a>             | Ordinary Member            | University College Cork  |
 | <a href="#Lisa">Lisa McFetridge</a>         | Ordinary Member  | Queen's University Belfast |
-
-
 
 <br>
 
@@ -72,7 +71,7 @@ I am Davood Roshan, a *young* statistician and lecturer of Statistical Science a
 
 <br>
 
-## <img src="pic_silvia_new.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Ordinary Member
+## <img src="pic_silvia_new.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Outreach Officer
 Hi! My name is Silvia and I am a lecturer in the School of Computer Science and Statistics, Trinity College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity. See my personal [webpage](https://silviadangelo.github.io/).
 
 
@@ -93,6 +92,12 @@ James Ng is Assistant Professor in Statistics and Data Science at Trinity Colleg
 I am Jonathan Henderson, and I am a PhD student in statistics at Queen’s University Belfast. I graduated in 2020 with an MSci in Mathematics and Statistics & Operational Research. My PhD is based in spatial statistics in particular, using point pattern analysis to examine the loss of retinal ganglion cells in glaucoma.
 
 <br>
+
+## <img src="pic_gabriel.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Gabriel"></a> Gabriel Rodriques Palma -- Ordinary Member
+I graduated with first-class honours BSc in Biological Sciences from the University of São Paulo. Since starting my undergraduate degree, I have participated in several statistics, mathematical modelling, and machine learning projects. Thanks to these opportunities, I love being involved in multidisciplinary projects focusing on ecological and entomological research. I am a PhD researcher in Statistical Ecology at the Hamilton Institute of Maynooth University, funded by Science Foundation Ireland’s Centre for Research Training in Foundations of Data Science programme. My PhD project is “Statistical Modelling and machine learning applied to automating animal monitoring systems”.
+
+<br>
+
 
 
 <!-- ## <img src="" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rabia"></a> Rabia Naqvi -- Ordinary Member -->

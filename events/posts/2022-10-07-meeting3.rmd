@@ -30,7 +30,7 @@ Please check later for the full program.
 
 
 ### Registration
-The event is open to all early career statisticians (including postgraduate and PhD students, postdoctoral researchers and lecturers) and all ISA members. If you attended CASI in 2022 you are already an ISA member. If you are not yet a member, click [here](https://istat.ie/n2020/join-isa/) (membership is free for students).
+The event is **free to attend for ISA members**. If you attended CASI in 2022 you are already an ISA member. If you are not yet a member, click [here](https://istat.ie/n2020/join-isa/) (membership is free for students).
 
 There is **no charge** for attending this event. To register please use the Eventbrite link [here](https://www.eventbrite.ie/e/3rd-young-isa-event-collaborative-workflow-in-data-science-tickets-414540029387?aff=ebdssbdestsearch).
 
