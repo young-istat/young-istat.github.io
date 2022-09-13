@@ -10,12 +10,12 @@ title: 3rd Young-ISA Meeting
 
 **Date:** Friday October 7th, 2022 <br>
 **Location:** Room AD2-010, Bernal Institute, University of Limerick <br>
-**Time:** 10.00 - 16.30 <br>
-
+**Time:** 10.00 - 17.00 <br>
+**Theme of the event:** Collaborative workflow in Statistics and Data Science <br>
 
 The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
 
-This event is the 3rd Young-ISA meeting that will bring together many career-young statisticians in Ireland to focus on collaborative workflow in Statistics and Data Science, using tools such as Github to carry out projects within teams. We will host **two keynote talks and a round table** featuring Dr Isabella Gollini (UCD) and Dr Fernando de Pol Mayer (MU), as well as **short research talks** delivered by career-young researchers from different Irish universities, distributed over two presentation rounds.
+This event is the 3rd Young-ISA meeting that will bring together many career-young statisticians in Ireland to focus on **collaborative workflow in Statistics and Data Science**, using tools such as Github to carry out projects within teams. We will host **two keynote talks and a round table** featuring Dr Isabella Gollini (UCD) and Dr Fernando de Pol Mayer (MU), as well as **short research talks** delivered by career-young researchers from different Irish universities, distributed over two presentation rounds.
 
 **The winners of the Young-ISA Twitter Poster Conference will be announced at this event.** Please check [here](/events/posts/2022-10-05-poster-conference-2022/) for more detail on how to participate. 
 

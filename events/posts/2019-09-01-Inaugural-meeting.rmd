@@ -10,6 +10,8 @@ title: Inaugural Young-ISA Meeting
 **Date:** Friday October 4, 2019 <br>
 **Location:** Glenroyal Hotel, Maynooth <br>
 **Time:** 10.00 - 19.00 <br>
+**Theme of the event:** Career evelopment in academia and industry <br>
+
 
 **The full program is available [here](/events/inaug_meeting_program_full.pdf).**
 
@@ -18,7 +20,7 @@ title: Inaugural Young-ISA Meeting
 
 The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
 
-This inaugural event will gather together early career statisticians from across Ireland for a series of talks on career development in academia and industry. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers.
+This inaugural event will gather together early career statisticians from across Ireland for a series of talks on **career development in academia and industry**. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers.
 
 **Invited Speakers:**<br>
 Dr. Norma Bargary, Lecturer in Statistics, University of Limerick. <br>

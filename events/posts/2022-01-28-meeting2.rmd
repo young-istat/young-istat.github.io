@@ -11,11 +11,12 @@ title: 2nd Young-ISA Meeting
 **Date:** Friday January 28, 2022 <br>
 **Location:** University of Limerick - **Online** <br>
 **Time:** 10.00 - 16.30 <br>
+**Theme of the event:** Communication and Reproducibility in Statistics <br>
 
 
 The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
 
-This event is the 2nd Young-ISA meeting that will gather together early career statisticians from across Ireland for a series of talks dedicated to Communication and Reproducibility in Statistics. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers.
+This event is the 2nd Young-ISA meeting that will gather together early career statisticians from across Ireland for a series of talks dedicated to **Communication and Reproducibility in Statistics**. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers.
 
 ### Invited Speakers
 
