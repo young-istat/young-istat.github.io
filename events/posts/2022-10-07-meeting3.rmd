@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2022-09-07T19:36:26+02:00"
 summary: The 3rd Young-ISA meeting is dedicated to Collaborative Workflow in Data Science.
-type: postevent
+type: preevent
 tags:
 - post
 title: 3rd Young-ISA Meeting

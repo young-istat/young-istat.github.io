@@ -1,6 +1,6 @@
 ---
 date: "2020-05-21"
-title: Committee 2021 - 2022
+title: Committee 2022 - 2023
 ---
 <style type="text/css">
 html {
@@ -110,6 +110,18 @@ I graduated with first-class honours BSc in Biological Sciences from the Univers
 Lisa is a Lecturer in Statistics in the Mathematical Sciences Research Centre at Queen’s University Belfast. She completed her PhD in 2014, which developed robust joint models to analyse changing biomarkers and the risk of death for haemodialysis patients. Alongside furthering this work, Lisa’s current research interests focus on the advancement of mixed effects models, analysis of emotions using machine learning techniques, innovative survival analysis for medical research and discrete choice modelling of consumer demand. Lisa is the Education Officer of the Irish Statistical Association, Treasurer of the International Biometric Society British and Irish Region and is a member of the RSS Conferences & Events Programme Board. Her online profile can be found [webpage](https://pure.qub.ac.uk/portal/en/persons/lisa-mccrink%285eca193a-7244-48ee-b484-83df3775f13b%29.html)
 
 
+## Past Executive Committees
+  * [2018-2019](/pastcommittees/committee-2018-2019/)
+
+  * [2019-2020](/pastcommittees/committee-2019-2020/)
+
+  * [2020-2021](/pastcommittees/committee-2020-2021/)
+
+  * [2021-2022](/pastcommittees/committee-2021-2022/)
+
+
+
+
 <script>
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
@@ -128,3 +140,4 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+
