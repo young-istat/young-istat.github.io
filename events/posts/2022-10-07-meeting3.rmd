@@ -34,6 +34,36 @@ The event is **free to attend for ISA members**. If you attended CASI in 2022 yo
 
 To register for the event please use the Eventbrite link [here](https://www.eventbrite.ie/e/3rd-young-isa-event-collaborative-workflow-in-data-science-tickets-414540029387?aff=ebdssbdestsearch).
 
+
+### Photo Gallery
+
+```{r, echo=FALSE, warning=FALSE}
+library(slickR)
+
+paths <- c(
+  "/events/posts/image/meeting_3_img0.jpg",
+  "/events/posts/image/meeting_3_img1.jpg",
+  "/events/posts/image/meeting_3_img2.jpg",
+  "/events/posts/image/meeting_3_img3.jpg",
+  "/events/posts/image/meeting_3_img4.jpg",  
+  "/events/posts/image/meeting_3_img5.jpg",  
+  "/events/posts/image/meeting_3_img6.jpg",  
+  "/events/posts/image/meeting_3_img7.jpg",  
+  "/events/posts/image/meeting_3_img8.jpg",  
+  "/events/posts/image/meeting_3_img9.jpg",
+  "/events/posts/image/meeting_3_img10.jpg",  
+  "/events/posts/image/meeting_3_img11.jpg",  
+  "/events/posts/image/meeting_3_img12.jpg",  
+  "/events/posts/image/meeting_3_img13.jpg",  
+  "/events/posts/image/meeting_3_img14.jpg"
+)
+
+slickR(obj=paths)+ 
+  settings(dots = TRUE)
+
+```
+
+<br>
 <br>
 <br>
 
