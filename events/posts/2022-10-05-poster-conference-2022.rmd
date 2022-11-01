@@ -33,6 +33,60 @@ keyword-hashtags beginning at 12:00pm WET on October 5th 2022.
 
 <br>
 
+### Poster Gallery
+
+```{r, echo=FALSE, warning=FALSE}
+library(slickR)
+
+paths <- c(
+  "/events/posts/image/YISA_Poster_2022_img1.png",
+  "/events/posts/image/YISA_Poster_2022_img9.png",
+  "/events/posts/image/YISA_Poster_2022_img12.png",
+  "/events/posts/image/YISA_Poster_2022_img6.png",
+  "/events/posts/image/YISA_Poster_2022_img10.png",
+  "/events/posts/image/YISA_Poster_2022_img2.png",
+  "/events/posts/image/YISA_Poster_2022_img3.png",
+  "/events/posts/image/YISA_Poster_2022_img4.png",
+  "/events/posts/image/YISA_Poster_2022_img5.png",
+  "/events/posts/image/YISA_Poster_2022_img7.png",
+  "/events/posts/image/YISA_Poster_2022_img8.png",
+  "/events/posts/image/YISA_Poster_2022_img11.png",
+  "/events/posts/image/YISA_Poster_2022_img13.png",
+  "/events/posts/image/YISA_Poster_2022_img14.png",
+  "/events/posts/image/YISA_Poster_2022_img15.png",
+  "/events/posts/image/YISA_Poster_2022_img16.png",
+  "/events/posts/image/YISA_Poster_2022_img17.png"
+)
+
+slickR(obj=paths,height='80%')+ 
+  settings(dots = TRUE)
+
+```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
