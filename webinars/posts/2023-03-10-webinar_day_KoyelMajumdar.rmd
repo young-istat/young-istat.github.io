@@ -1,6 +1,6 @@
 ---
 author: Davood Roshan
-date: "2023-03-10T18:38:26+02:00"
+date: "2023-03-10T18:40:26+02:00"
 summary: Koyel Majumdar, from School of Mathematics and Statistics, University College Dublin, Ireland will talk about a family of novel beta mixture models with application in DNA methylation process.
 type: postweb
 tags:
@@ -8,12 +8,12 @@ tags:
 title: betaclust, a family of mixture models for beta-valued DNA methylation data
 ---
 **Date:** Friday, March 10th 2023 <br>
-**Time:** 11.30am WET <br>
+**Time:** 11.00am WET <br>
 
 ### Join the Webinar
 
   - **Webinar** is free and open to everyone. 
-  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-workshop-on-statistics-in-medicine-tickets-545951665127).
 
 
 ### Speaker

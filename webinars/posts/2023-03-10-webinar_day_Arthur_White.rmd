@@ -1,6 +1,6 @@
 ---
 author: Davood Roshan
-date: "2023-03-10T18:36:26+02:00"
+date: "2023-03-10T18:39:26+02:00"
 summary: Dr. Arthur White from the School of Computer Science and Statistics in Trinity College Dublin will talk about a general and easily implementable approach to incorporate various types of expert opinion into parametric survival models, focusing on opinions about survival at various landmark time points.
 type: postweb
 tags:
@@ -8,12 +8,12 @@ tags:
 title: Direct Incorporation of Expert Opinion into Parametric Survival Models to Inform Survival Extrapolation
 ---
 **Date:** Friday, March 10th 2023 <br>
-**Time:** 12:00pm WET <br>
+**Time:** 11:30am WET <br>
 
 ### Join the Webinar
 
   - **Webinar** is free and open to everyone. 
-  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-workshop-on-statistics-in-medicine-tickets-545951665127).
 
 
 ### Speaker

@@ -1,6 +1,6 @@
 ---
 author: Davood Roshan
-date: "2023-03-10T18:40:26+02:00"
+date: "2023-03-10T18:38:26+02:00"
 summary: Prof. John Newell from the School of Mathematical and Statistical Sciences, University of Galway will walk us through his more than 20 years of experience in development and application of biostatistical theory in clinical trials, observational clinical research, Sports and Exercise Science and in the emerging field of Translational Statistics.
 type: postweb
 tags:
@@ -8,12 +8,12 @@ tags:
 title: Title to be updated
 ---
 **Date:** Friday, March 10th 2023 <br>
-**Time:** 11.00am WET <br>
+**Time:** 12.00am WET <br>
 
 ### Join the Webinar
 
   - **Webinar** is free and open to everyone. 
-  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-workshop-on-statistics-in-medicine-tickets-545951665127).
 
 
 ### Speaker
