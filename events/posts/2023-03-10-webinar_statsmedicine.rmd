@@ -1,0 +1,52 @@
+---
+author: Davood Roshan
+date: "2022-09-07T19:36:26+02:00"
+summary: The 1st Young-ISA webinar day is dedicated to Statistics in Medicine.
+type: postevent
+tags:
+- post
+title: 1st Young-ISA webinar day
+---
+
+**Date:** Friday March 10th, 2023 <br>
+**Location:** Online <br>
+**Time:** 11am - 12.30pm <br>
+**Theme of the event:** Statistics in Medicine <br>
+
+The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
+
+Our **1st Young-ISA webinar day** is an event that has emerged from our [monthly webinar series](/webinars) and aims to bring together many career-young statisticians in Ireland to focus on **application of statistical science in medicine**. We will have **one keynote speaker**, [Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/) from University of Galway who will walk us through his more than 20 years of experience in development and application of biostatistical theory in clinical trials, observational clinical research, Sports and Exercise Science and in the emerging field of Translational Statistics.
+
+We will also have **two presentations** delivered by our career-young researchers, [Koyel Majumdar](https://www.linkedin.com/in/koyel-majumdar-0b261b154/?originalSubdomain=ie) (UCD) and [Dr. Arthur White](https://www.tcd.ie/research/profiles/?profile=arwhite) (TCD) who are going to discuss the application of their research works in medical science. 
+
+
+### Invited Speakers
+
+[Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/), Professor in Biostatistics, University of Galway. <br>
+
+[Koyel Majumdar](https://www.linkedin.com/in/koyel-majumdar-0b261b154/?originalSubdomain=ie), PhD student in Statistics, University College Dublin. <br>
+
+[Dr. Arthur White](https://www.tcd.ie/research/profiles/?profile=arwhite), Asistant Professor in Statistics, Trinity College Dublin. <br>
+
+<br>
+
+### Programme
+
+| Time          | Speaker           | Title                                                                      |
+|----------------------|--------------------------------|-------------------------------------------------------------------------|
+| 11:00 - 11:30 | Prof. John Newell | [TBD](/webinars/posts/2023-03-10-webinar_day_johnnewell/) |
+| 11:30 - 12:00 | Koyel Majumdar    | [betaclust: a family of mixture models for beta-valued DNA methylation data](/webinars/posts/2023-03-10-webinar_day_koyelmajumdar/) |
+| 12:00 - 12:30 | Dr. Arthur White     | [Direct Incorporation of Expert Opinion into Parametric Survival Models to Inform Survival Extrapolation](/webinars/posts/2023-03-10-webinar_day_arthur_white/) |
+
+<br>
+
+### Registration
+Registration is free and open to everyone.
+
+To register for the event please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+
+
+<br>
+<br>
+
+Category: [<u>Events</u>](/events/)

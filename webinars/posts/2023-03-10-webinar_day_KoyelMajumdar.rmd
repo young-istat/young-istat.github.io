@@ -1,0 +1,39 @@
+---
+author: Davood Roshan
+date: "2023-03-10T18:38:26+02:00"
+summary: Koyel Majumdar, from School of Mathematics and Statistics, University College Dublin, Ireland will talk about a family of novel beta mixture models with application in DNA methylation process.
+type: postweb
+tags:
+- post
+title: betaclust, a family of mixture models for beta-valued DNA methylation data
+---
+**Date:** Friday, March 10th 2023 <br>
+**Time:** 11.30am WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Koyel_Majumdar.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rafael"></a> [Koyel Majumdar](https://www.linkedin.com/in/koyel-majumdar-0b261b154/?originalSubdomain=ie), PhD student in Statistics, School of Mathematics and Statistics, University College Dublin, Ireland
+
+Koyel Majumdar is a 3rd year PhD student at University College Dublin. She has a bachelor's degree in Electronics and Communication Engineering from India and a master's degree in Data and Computational Science from University College Dublin. She was previously employed in an MNC as a software developer, handling large sales and financial data. Her main area of interest is biostatistics and wants to apply her knowledge to improve human health and work towards the advancement of drugs for the common benefit. She is currently working on developing apposite epigenetic models for large beta-valued DNA methylation data. Outside of research, Koyel is a trained Indian classical dancer with a keen interest in reading and cooking.
+
+
+### Abstract
+
+The DNA methylation process has been extensively studied for its role in cancer. Promoter cytosine-guanine dinucleotide (CpG) island hypermethylation has been shown to silence tumour suppressor genes. The methylation state of a CpG site is hypermethylated if both the alleles are methylated, hypomethylated if neither of the alleles are methylated and hemimethylated otherwise. Identifying the differentially methylated CpG (DMC) sites between benign and tumour samples can help understand the disease. 
+
+Methylation values are beta distributed and known as beta values. Due to a lack of suitable methods for analysing the beta values, they are usually transformed into Gaussian distributed M-values for modelling. The DMCs are identified using M-values or beta values via multiple t-tests but this can be computationally expensive. Also, subjectively chosen thresholds are often selected to identify the methylation state of a CpG site, and based on this, DMCs are identified between different samples.
+
+We propose a family of novel beta mixture models (BMMs) which use a model-based clustering approach to cluster the CpG sites in their innate beta form to (i) objectively identify methylation state thresholds and (ii) identify the DMCs between different samples. The family of BMMs employs different parameter constraints that are applicable to different study settings. Parameter estimation proceeds via an Expectation-Maximisation algorithm, with a novel approximation during the M-step providing tractability and computational feasibility.
+
+The performance of the BMMs is assessed through a thorough simulation study, and the BMMs are used to analyse a prostate cancer dataset and an esophageal squamous cell carcinoma dataset. The BMM approach objectively identifies methylation state thresholds and identifies more DMCs between the benign and tumour samples in the prostate and esophageal cancer data than conventional methods, in a computationally efficient manner. The empirical cumulative distribution function of the DMCs related to genes implicated in carcinogenesis indicates hypermethylation of CpG sites in the tumour samples in both cancer settings.
+
+An R package betaclust is provided to facilitate the widespread use of the developed BMMs to provide objective thresholds to determine methylation state and to computationally efficiently identify DMCs by clustering DNA methylation data in its innate form.
+
+
+Category: [<u>Events</u>](/events/posts/2023-03-10-webinar_statsmedicine/)

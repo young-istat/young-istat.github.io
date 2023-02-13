@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Hugo 0.71.0" />
+  <link rel="stylesheet" href="https://young-istat.github.io/css/normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+  
+  
+  
+  <link rel="stylesheet" href="https://young-istat.github.io/css/cayman.5c0c014730286cb08b988ea364b538d9038cc3dbf36efe88146b293e79dcb90e.css">
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+  <title>betaclust, a family of mixture models for beta-valued DNA methylation data | Young-ISA</title>
+</head>
+
+<body>
+  <section class="page-header">
+  <h1 class="project-name">
+    Young-ISA
+  </h1>
+  <h2 class="project-tagline">
+    The Young Statisticians&rsquo; Section of the Irish Statistical Association
+  </h2>
+  <nav>
+    
+    
+      
+      
+      
+      
+      <a href="/home/" class="btn">Home</a>
+    
+      
+      
+      
+      
+      <a href="/about/" class="btn">About</a>
+    
+      
+      
+      
+      
+      <a href="/news/" class="btn">News</a>
+    
+      
+      
+      
+      
+      <a href="/events/" class="btn">Events</a>
+    
+      
+      
+      
+      
+      <a href="/webinars/" class="btn">Webinars</a>
+    
+      
+      
+      
+      
+      <a href="/committee/" class="btn">Committee</a>
+    
+  </nav>
+</section>
+
+  <section class="main-content">
+    
+  <h1>betaclust, a family of mixture models for beta-valued DNA methylation data</h1>
+  
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p><strong>Date:</strong> Friday, March 10th 2023 <br>
+<strong>Time:</strong> 11.30am WET <br></p>
+<div id="join-the-webinar" class="section level3">
+<h3>Join the Webinar</h3>
+<ul>
+<li><strong>Webinar</strong> is free and open to everyone.</li>
+<li>To register for the webinar please use the Eventbrite link <a href="https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127">here</a>.</li>
+</ul>
+</div>
+<div id="speaker" class="section level3">
+<h3>Speaker</h3>
+<div id="koyel-majumdar-phd-student-in-statistics-school-of-mathematics-and-statistics-university-college-dublin-ireland" class="section level5">
+<h5><img src="/webinars/posts/image/pic_Koyel_Majumdar.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rafael"></a> <a href="https://www.linkedin.com/in/koyel-majumdar-0b261b154/?originalSubdomain=ie">Koyel Majumdar</a>, PhD student in Statistics, School of Mathematics and Statistics, University College Dublin, Ireland</h5>
+<p>Koyel Majumdar is a 3rd year PhD student at University College Dublin. She has a bachelor’s degree in Electronics and Communication Engineering from India and a master’s degree in Data and Computational Science from University College Dublin. She was previously employed in an MNC as a software developer, handling large sales and financial data. Her main area of interest is biostatistics and wants to apply her knowledge to improve human health and work towards the advancement of drugs for the common benefit. She is currently working on developing apposite epigenetic models for large beta-valued DNA methylation data. Outside of research, Koyel is a trained Indian classical dancer with a keen interest in reading and cooking.</p>
+</div>
+</div>
+<div id="abstract" class="section level3">
+<h3>Abstract</h3>
+<p>The DNA methylation process has been extensively studied for its role in cancer. Promoter cytosine-guanine dinucleotide (CpG) island hypermethylation has been shown to silence tumour suppressor genes. The methylation state of a CpG site is hypermethylated if both the alleles are methylated, hypomethylated if neither of the alleles are methylated and hemimethylated otherwise. Identifying the differentially methylated CpG (DMC) sites between benign and tumour samples can help understand the disease.</p>
+<p>Methylation values are beta distributed and known as beta values. Due to a lack of suitable methods for analysing the beta values, they are usually transformed into Gaussian distributed M-values for modelling. The DMCs are identified using M-values or beta values via multiple t-tests but this can be computationally expensive. Also, subjectively chosen thresholds are often selected to identify the methylation state of a CpG site, and based on this, DMCs are identified between different samples.</p>
+<p>We propose a family of novel beta mixture models (BMMs) which use a model-based clustering approach to cluster the CpG sites in their innate beta form to (i) objectively identify methylation state thresholds and (ii) identify the DMCs between different samples. The family of BMMs employs different parameter constraints that are applicable to different study settings. Parameter estimation proceeds via an Expectation-Maximisation algorithm, with a novel approximation during the M-step providing tractability and computational feasibility.</p>
+<p>The performance of the BMMs is assessed through a thorough simulation study, and the BMMs are used to analyse a prostate cancer dataset and an esophageal squamous cell carcinoma dataset. The BMM approach objectively identifies methylation state thresholds and identifies more DMCs between the benign and tumour samples in the prostate and esophageal cancer data than conventional methods, in a computationally efficient manner. The empirical cumulative distribution function of the DMCs related to genes implicated in carcinogenesis indicates hypermethylation of CpG sites in the tumour samples in both cancer settings.</p>
+<p>An R package betaclust is provided to facilitate the widespread use of the developed BMMs to provide objective thresholds to determine methylation state and to computationally efficiently identify DMCs by clustering DNA methylation data in its innate form.</p>
+<p>Category: <a href="/events/posts/2023-03-10-webinar_statsmedicine/"><u>Events</u></a></p>
+</div>
+
+
+    <footer class="site-footer">
+  <span class="site-footer-credits">
+    <p style="text-align: center;">
+    <p>                                      <strong>Email</strong>    <a href="mailto:young.istat@gmail.com">young.istat@gmail.com</a></p>
+<p>                                      <strong>Twitter</strong>    <a href="https://twitter.com/Young_Stats_ISA">@Young_Stats_ISA</a></p>
+<p>                                              © 2020 Young-ISA</p>
+
+    </p>
+  </span>
+</footer>
+
+  </section>
+  
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-123456789-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+</body>
+</html>

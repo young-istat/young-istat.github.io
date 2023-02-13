@@ -1,0 +1,32 @@
+---
+author: Davood Roshan
+date: "2023-03-10T18:40:26+02:00"
+summary: Prof. John Newell from the School of Mathematical and Statistical Sciences, University of Galway will walk us through his more than 20 years of experience in development and application of biostatistical theory in clinical trials, observational clinical research, Sports and Exercise Science and in the emerging field of Translational Statistics.
+type: postweb
+tags:
+- post
+title: Title to be updated
+---
+**Date:** Friday, March 10th 2023 <br>
+**Time:** 11.00am WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_John_Newell.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rafael"></a> [Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/) from the School of Mathematical and Statistical Sciences, University of Galway, Ireland
+
+John Newell is the Professor of Biostatistics in the School of Mathematical and Statistical Sciences, University of Galway, an Adjunct Senior Research Fellow in the Department of Mathematics and Statistics, University of Canterbury, New Zealand and former Head of the Biostatistics Unit of the HRB Clinical Research Facility,  University of Galway. 
+
+Prof. Newell is a member of the  University of Galway, [Health Data Science Research Cluster](https://sonrai.shinyapps.io/Sonrai_Research_Cluster/), a group of researchers and students interested in the development and application of statistical and computational methods to clinical and molecular biological data. His primary areas of research in Biostatistics are in the theory and application of statistical methods in clinical trials of health service and population health interventions and in the development of novel analytic approaches in Sports and Exercise Science. His research interests include statistical modelling, statistical computing, design and analysis of cluster randomised trials, smoothing techniques and derivative estimation, survival analysis, tree based classification problems and biostatistics in elite sports.
+
+
+### Abstract
+TBD
+
+
+Category: [<u>Events</u>](/events/posts/2023-03-10-webinar_statsmedicine/)

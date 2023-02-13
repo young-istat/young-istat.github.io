@@ -6,10 +6,46 @@
     <description>Recent content in post on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Sep 2022 19:36:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2023 18:40:26 +0200</lastBuildDate>
     
 	<atom:link href="https://young-istat.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Title to be updated</title>
+      <link>https://young-istat.github.io/webinars/posts/2023-03-10-webinar_day_johnnewell/</link>
+      <pubDate>Fri, 10 Mar 2023 18:40:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2023-03-10-webinar_day_johnnewell/</guid>
+      <description>Prof. John Newell from the School of Mathematical and Statistical Sciences, University of Galway will walk us through his more than 20 years of experience in development and application of biostatistical theory in clinical trials, observational clinical research, Sports and Exercise Science and in the emerging field of Translational Statistics.</description>
+    </item>
+    
+    <item>
+      <title>betaclust, a family of mixture models for beta-valued DNA methylation data</title>
+      <link>https://young-istat.github.io/webinars/posts/2023-03-10-webinar_day_koyelmajumdar/</link>
+      <pubDate>Fri, 10 Mar 2023 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2023-03-10-webinar_day_koyelmajumdar/</guid>
+      <description>Koyel Majumdar, from School of Mathematics and Statistics, University College Dublin, Ireland will talk about a family of novel beta mixture models with application in DNA methylation process.</description>
+    </item>
+    
+    <item>
+      <title>Direct Incorporation of Expert Opinion into Parametric Survival Models to Inform Survival Extrapolation</title>
+      <link>https://young-istat.github.io/webinars/posts/2023-03-10-webinar_day_arthur_white/</link>
+      <pubDate>Fri, 10 Mar 2023 18:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2023-03-10-webinar_day_arthur_white/</guid>
+      <description>Dr. Arthur White from the School of Computer Science and Statistics in Trinity College Dublin will talk about a general and easily implementable approach to incorporate various types of expert opinion into parametric survival models, focusing on opinions about survival at various landmark time points.</description>
+    </item>
+    
+    <item>
+      <title>1st Young-ISA webinar day</title>
+      <link>https://young-istat.github.io/events/posts/2023-03-10-webinar_statsmedicine/</link>
+      <pubDate>Wed, 07 Sep 2022 19:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/events/posts/2023-03-10-webinar_statsmedicine/</guid>
+      <description>The 1st Young-ISA webinar day is dedicated to Statistics in Medicine.</description>
+    </item>
     
     <item>
       <title>3rd Young-ISA Meeting</title>

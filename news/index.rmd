@@ -3,6 +3,16 @@ date: "2020-05-21"
 title: News
 ---
 
+## <u>**_1st Young-ISA webinar day: Statistics in Medicine_**</u>
+<p style="font-size:15px">Updated on 2023-02-13</p>
+
+Our **1st Young-ISA webinar day** is an event that has emerged from our [monthly webinar series](/webinars) and aims to bring together many career-young statisticians in Ireland to focus on **application of statistical science in medicine**. We will have **one keynote speaker**, [Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/) and **two invited speakers** delivered by our career-young researchers, [Koyel Majumdar](https://www.linkedin.com/in/koyel-majumdar-0b261b154/?originalSubdomain=ie) (UCD) and [Dr. Arthur White](https://www.tcd.ie/research/profiles/?profile=arwhite) (TCD) who are going to discuss the application of their research works in medical science. For more information about this event please visit [here](/events/posts/2023-03-10-webinar_statsmedicine/).
+
+For registration please visit [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+
+---
+
+
 ## <u>**_3rd Young-ISA Meeting_**</u>
 <p style="font-size:15px">Updated on 2022-09-07</p>
 This event is the 3rd Young-ISA meeting that will gather together early career statisticians from across Ireland for a series of talks dedicated to collaborative workflow in Statistics and Data Science, using tools such as Github to carry out projects within teams. Keynote talks will be given by established professionals in both fields with the remainder of the two sessions devoted to showcasing some of the research projects conducted in universities across Ireland by postgraduate and post-doctoral researchers. Read more [here](/events/posts/2022-10-07-meeting3/). 

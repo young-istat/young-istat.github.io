@@ -1,0 +1,31 @@
+---
+author: Davood Roshan
+date: "2023-03-10T18:36:26+02:00"
+summary: Dr. Arthur White from the School of Computer Science and Statistics in Trinity College Dublin will talk about a general and easily implementable approach to incorporate various types of expert opinion into parametric survival models, focusing on opinions about survival at various landmark time points.
+type: postweb
+tags:
+- post
+title: Direct Incorporation of Expert Opinion into Parametric Survival Models to Inform Survival Extrapolation
+---
+**Date:** Friday, March 10th 2023 <br>
+**Time:** 12:00pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-webinar-day-statistics-in-medicine-tickets-545951665127).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Arthur_White.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rafael"></a> [Dr. Arthur White](https://www.tcd.ie/research/profiles/?profile=arwhite), Assistant Professor in Statistics, School of Computer Science and Statistics in Trinity College Dublin, Ireland
+
+Arthur White is Assistant Professor in Statistics and Optimization in the School of Computer Science and Statistics in Trinity College Dublin. His research covers computational and applied statistics. He is an active collaborator in a number of interdisciplinary projects related to health and immunology. He is a statistician in the National Centre for Pharmacoeconomics (NCPE) where he has reviewed many of the health technology assessments of pharmaceutical products submitted to the HSE for funding. 
+
+
+### Abstract
+
+We present a general and easily implementable approach to incorporate various types of expert opinion into parametric survival models, focusing on opinions about survival at various landmark time points. This can be done using Bayesian or frequentist frameworks. In the Bayesian approach, expert opinion is included through a loss function and in the frequentist approach by penalizing the likelihood function. In both cases the core idea is the same, and it is straightforward to apply our method to various popular parametric survival models, such as the exponential, Weibull and log-normal distribution. This approach is of particular interest in the context of health technology assessments (HTAs), in which the cost-effectiveness of new drugs and other pharmaceutical products are evaluated, often from the perspective of a national payer such as the HSE. One of the most challenging aspects of HTAs is that they require projections for the costs and effectiveness associated with a treatment over a much longer time frame than is normally available. This often necessitates the extrapolation of survival data, and can result in quite different survival projections depending on the parametric model being used. This in turn presents the decision maker with considerable uncertainty. We apply our method to data from a leukemia trial, using previously elicited expert opinion on survival probabilities at years 4 and 5. This leads to projections with reduced parametric and structural uncertainty that are more aligned with the expert opinion.
+
+
+Category: [<u>Events</u>](/events/posts/2023-03-10-webinar_statsmedicine/)
