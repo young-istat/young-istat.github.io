@@ -5,15 +5,15 @@ summary: Prof. John Newell from the School of Mathematical and Statistical Scien
 type: postweb
 tags:
 - post
-title: Title to be updated
+title: Translational Statistics - A 20 Year Journey to Health Data Science
 ---
 **Date:** Friday, March 10th 2023 <br>
-**Time:** 12.00am WET <br>
+**Time:** 12.00pm WET <br>
 
 ### Join the Webinar
 
   - **Webinar** is free and open to everyone. 
-  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-workshop-on-statistics-in-medicine-tickets-545951665127).
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-online-workshop-on-statistics-in-medicine-tickets-545951665127).
 
 
 ### Speaker
@@ -26,7 +26,9 @@ Prof. Newell is a member of the  University of Galway, [Health Data Science Rese
 
 
 ### Abstract
-TBD
+In this talk I will give a personal perspective on the different aspects of the word 'translation' with respect to the discipline of Statistics and the emergence of Health Data Science. 
+
+Interesting collaborations will be presented involving combinations of small, narrow, tall and wide datasets all of which have an interesting aspect that was not apparent at the start.  These include alternative approaches to translate results from time to event problems such as mean residual life, permutation tests for paired survival problems and dynamic nomograms. 
 
 
 Category: [<u>Events</u>](/events/posts/2023-03-10-webinar_statsmedicine/)

@@ -5,7 +5,7 @@ summary: This online workshop aims to bring together many career-young statistic
 type: postevent
 tags:
 - post
-title: Young-ISA workshop on Statistics in Medicine
+title: Young-ISA online workshop on Statistics in Medicine
 ---
 
 **Date:** Friday March 10th, 2023 <br>
@@ -15,7 +15,7 @@ title: Young-ISA workshop on Statistics in Medicine
 
 The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
 
-Our **Young-ISA workshop on Statistics in Medicine** is an event that has emerged from our [monthly webinar series](/webinars) and aims to bring together many career-young statisticians in Ireland to focus on **application of statistical science in medicine**. 
+Our **Young-ISA online workshop on Statistics in Medicine** is an event that has emerged from our [monthly webinar series](/webinars) and aims to bring together many career-young statisticians in Ireland to focus on **application of statistical science in medicine**. 
 
 Our **keynote speaker** will be [Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/) from University of Galway. [Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/) will walk us through his more than 20 years of experience in development and application of biostatistical theory in clinical trials, observational clinical research, Sports and Exercise Science and in the emerging field of Translational Statistics.
 
@@ -37,14 +37,14 @@ Further, we will have two invited talks from [Dr. Arthur White](https://www.tcd.
 |-----------------------------|------------------------------------|-----------------------------------------------------------------------|-----------------------|
 | 11:00 - 11:30 |[<img src="/webinars/posts/image/pic_Koyel_Majumdar.png">](https://www.linkedin.com/in/koyel-majumdar-0b261b154/?originalSubdomain=ie)[Koyel Majumdar](https://www.linkedin.com/in/koyel-majumdar-0b261b154/?originalSubdomain=ie) |  [betaclust: a family of mixture models for beta-valued DNA methylation data](/webinars/posts/2023-03-10-webinar_day_koyelmajumdar/)  |[Visit here](/webinars/posts/2023-03-10-webinar_day_koyelmajumdar/) |
 | 11:30 - 12:00 | [<img src="/webinars/posts/image/pic_Arthur_White.png">](https://www.tcd.ie/research/profiles/?profile=arwhite) [Dr. Arthur White](https://www.tcd.ie/research/profiles/?profile=arwhite)     | [Direct Incorporation of Expert Opinion into Parametric Survival Models to Inform Survival Extrapolation](/webinars/posts/2023-03-10-webinar_day_arthur_white/) |[Visit here](/webinars/posts/2023-03-10-webinar_day_arthur_white/) |
-| 12:00 - 12:30 |[<img src="/webinars/posts/image/pic_John_Newell.png">](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/)  [Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/) | [TBD](/webinars/posts/2023-03-10-webinar_day_johnnewell/) |[Visit here](/webinars/posts/2023-03-10-webinar_day_johnnewell/) |
+| 12:00 - 12:30 |[<img src="/webinars/posts/image/pic_John_Newell.png">](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/)  [Prof. John Newell](https://www.universityofgalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/johnnewell/) | [Translational Statistics: A 20 Year Journey to Health Data Science](/webinars/posts/2023-03-10-webinar_day_johnnewell/) |[Visit here](/webinars/posts/2023-03-10-webinar_day_johnnewell/) |
 
 <br>
 
 ### Registration
 Registration is free and open to everyone.
 
-To register for the event please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-workshop-on-statistics-in-medicine-tickets-545951665127).
+To register for the event please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-online-workshop-on-statistics-in-medicine-tickets-545951665127).
 
 
 <br>

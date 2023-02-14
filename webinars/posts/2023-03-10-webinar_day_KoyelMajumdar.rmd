@@ -13,7 +13,7 @@ title: betaclust, a family of mixture models for beta-valued DNA methylation dat
 ### Join the Webinar
 
   - **Webinar** is free and open to everyone. 
-  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-workshop-on-statistics-in-medicine-tickets-545951665127).
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/y-isa-online-workshop-on-statistics-in-medicine-tickets-545951665127).
 
 
 ### Speaker
