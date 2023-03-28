@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2023-03-10T18:39:26+02:00"
 summary: Dr. Arthur White from the School of Computer Science and Statistics in Trinity College Dublin will talk about a general and easily implementable approach to incorporate various types of expert opinion into parametric survival models, focusing on opinions about survival at various landmark time points.
-type: postweb
+type: preweb
 tags:
 - post
 title: Direct Incorporation of Expert Opinion into Parametric Survival Models to Inform Survival Extrapolation

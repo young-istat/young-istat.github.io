@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2023-03-10T18:40:26+02:00"
 summary: Koyel Majumdar, from School of Mathematics and Statistics, University College Dublin, Ireland will talk about a family of novel beta mixture models with application in DNA methylation process.
-type: postweb
+type: preweb
 tags:
 - post
 title: betaclust, a family of mixture models for beta-valued DNA methylation data

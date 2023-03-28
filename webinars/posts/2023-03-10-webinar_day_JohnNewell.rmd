@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2023-03-10T18:38:26+02:00"
 summary: Prof. John Newell from the School of Mathematical and Statistical Sciences, University of Galway will walk us through his more than 20 years of experience in development and application of biostatistical theory in clinical trials, observational clinical research, Sports and Exercise Science and in the emerging field of Translational Statistics.
-type: postweb
+type: preweb
 tags:
 - post
 title: Translational Statistics - A 20 Year Journey to Health Data Science

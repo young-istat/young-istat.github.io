@@ -2,7 +2,7 @@
 author: Davood Roshan
 date: "2022-09-07T19:36:26+02:00"
 summary: This online workshop aims to bring together many career-young statisticians in Ireland to focus on application of statistics in medicine.
-type: postevent
+type: preevent
 tags:
 - post
 title: Young-ISA online workshop on Statistics in Medicine
