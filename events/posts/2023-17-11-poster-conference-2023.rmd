@@ -1,0 +1,93 @@
+---
+title: "Young-ISA Twitter Poster Conference (#YISAPoster2023)"
+author: "davood"
+date: '2022-09-07T18:58:26+02:00'
+tags: post
+type: postevent
+summary: This is the 4rd Twitter Poster Conference organised by Young-ISA aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage
+  in scientific discussion
+---
+
+**Date:** November 9-10th, 2023 <br>
+**Location:** Twitter - [\@Young_Stats_ISA](https://twitter.com/Young_Stats_ISA)<br>
+**Time:** 12.00pm WET Thursday, November 9th 2023 - 12.00pm WET Friday, November 10th 2023 <br>
+
+
+The **#YISAPoster2023** Twitter Poster Conference is an online conference in Statistics and Data Science organized by **Young-ISA** and promoted by the [Irish Statistical Association](https://istat.ie/).
+
+
+The event is held entirely on [Twitter](https://twitter.com/Young_Stats_ISA) and aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage in scientific discussion.
+
+Participants can share their work by tweeting a research poster or infographic using the hashtag **#YISAPoster2023** and engage and discuss with others’ by commenting, retweeting and liking.
+
+<br>
+
+### Join the #YISAPoster2023 Conference:
+- **Share** a poster or infographic concerning your research in any Statistics and Data Science related topic and elicit reactions and discuss with the community.
+
+- **Tweet** your poster with a title, the hashtag **#YISAPoster2023** and any other relevant
+keyword-hashtags beginning at 12:00pm WET on November 9th 2023.
+
+- **Engage** and discuss with the other participants throughout the conference by commenting on their **#YISAPoster2023** posters, as well as answering their questions on your poster. Promote others’ research via re-tweets and likes.
+
+
+<br>
+
+<!-- ### Poster Gallery -->
+
+<!-- ```{r, echo=FALSE, warning=FALSE} -->
+<!-- library(slickR) -->
+
+<!-- paths <- c( -->
+<!--   "/events/posts/image/YISA_Poster_2022_img1.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img9.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img12.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img6.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img10.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img2.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img3.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img4.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img5.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img7.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img8.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img11.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img13.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img14.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img15.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img16.png", -->
+<!--   "/events/posts/image/YISA_Poster_2022_img17.png" -->
+<!-- ) -->
+
+<!-- slickR(obj=paths,height='80%')+  -->
+<!--   settings(dots = TRUE) -->
+
+<!-- ``` -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+Category: [<u>Events</u>](/events/)

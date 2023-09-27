@@ -6,10 +6,15 @@
     <description>Recent content in Events on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Sep 2022 19:36:26 +0200</lastBuildDate>
-    
-	<atom:link href="https://young-istat.github.io/events/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 19 Sep 2023 19:36:26 +0200</lastBuildDate><atom:link href="https://young-istat.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4th Young-ISA Meeting</title>
+      <link>https://young-istat.github.io/events/posts/2023-11-17-meeting4/</link>
+      <pubDate>Tue, 19 Sep 2023 19:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/events/posts/2023-11-17-meeting4/</guid>
+      <description>The 4th Young-ISA meeting is dedicated to Researcher&amp;rsquo;s Toolkit - Publication, Progression, and People.</description>
+    </item>
     
     <item>
       <title>3rd Young-ISA Meeting</title>
@@ -36,6 +41,15 @@
       
       <guid>https://young-istat.github.io/events/posts/2022-10-05-poster-conference-2022/</guid>
       <description>This is the 3rd Twitter Poster Conference organised by Young-ISA aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage in scientific discussion</description>
+    </item>
+    
+    <item>
+      <title>Young-ISA Twitter Poster Conference (#YISAPoster2023)</title>
+      <link>https://young-istat.github.io/events/posts/2023-17-11-poster-conference-2023/</link>
+      <pubDate>Wed, 07 Sep 2022 18:58:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/events/posts/2023-17-11-poster-conference-2023/</guid>
+      <description>This is the 4rd Twitter Poster Conference organised by Young-ISA aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage in scientific discussion</description>
     </item>
     
     <item>
