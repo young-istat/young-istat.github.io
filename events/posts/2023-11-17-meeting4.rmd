@@ -1,8 +1,8 @@
 ---
 author: Davood Roshan
 date: "2023-09-19T19:36:26+02:00"
-summary: The 4th Young-ISA meeting is dedicated to Researcher's Toolkit - Publication, Progression, and People.
-type: postevent
+summary: "The 4th Young-ISA meeting is dedicated to Researcher's Toolkit - Publication, Progression, and People."
+type: preevent
 tags:
 - post
 title: 4th Young-ISA Meeting

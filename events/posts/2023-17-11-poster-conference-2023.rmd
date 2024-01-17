@@ -3,7 +3,7 @@ title: "Young-ISA Twitter Poster Conference (#YISAPoster2023)"
 author: "davood"
 date: '2022-09-07T18:58:26+02:00'
 tags: post
-type: postevent
+type: preevent
 summary: This is the 4rd Twitter Poster Conference organised by Young-ISA aims to provide an opportunity for Statisticians and Data Scientists around the world to meet online, share their research and engage
   in scientific discussion
 ---
