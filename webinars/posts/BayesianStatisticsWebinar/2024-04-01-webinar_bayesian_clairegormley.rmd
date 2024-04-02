@@ -1,0 +1,32 @@
+---
+author: Gabriel Palma
+date: "2023-04-01T19:36:26+02:00"
+summary: Prof. Claire Gormley is in the School of Mathematics and Statistics where she conducts research in statistics and teaches statistics to undergraduate and graduate students. She is the co-director of the Science Foundation Ireland Centre for Research Training (CRT) in Foundations of Data Science, with co-directors Prof. James Gleeson (UL) and Prof. David Malone (MU). The CRT will train over 120 PhD students from 2019 to 2026 in the foundations of data science. Prof. Gormley is a Principal Investigator in the VistaMilk Research Centre for Precision Pasture-based Dairying and a Funded Investigator in the Insight Centre for Data Analytics. Her research develops novel, apposite statistical methods, largely based on latent variable models, for the analysis of high dimensional data, often of mixed type. The methods she develops are often motivated by and solve applied problems across a range of disciplines, including epigenetics, metabolomics, genomics, social science, sports science and political science. 
+type: postweb
+tags:
+- post
+title: Bayesian nonparametric modelling of network data
+---
+**Date:** Friday, April 19th 2024 <br>
+**Time:** 9:30am WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the event please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zPVUFDW7hUa72YYh_YBVyVf5diHPK9hKlZHeXh9uPr5URERCRDQyQlpNOEQzVDBLU0ZTOVlBSEk3Qy4u).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_clairegormley.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Claire"></a> [Prof. Claire Gormley](https://people.ucd.ie/claire.gormley), Professor in Statistics, University College Dublin, Ireland
+
+Prof. Claire Gormley is in the School of Mathematics and Statistics where she conducts research in statistics and teaches statistics to undergraduate and graduate students. She is the co-director of the Science Foundation Ireland Centre for Research Training (CRT) in Foundations of Data Science, with co-directors Prof. James Gleeson (UL) and Prof. David Malone (MU). The CRT will train over 120 PhD students from 2019 to 2026 in the foundations of data science. Prof. Gormley is a Principal Investigator in the VistaMilk Research Centre for Precision Pasture-based Dairying and a Funded Investigator in the Insight Centre for Data Analytics. Her research develops novel, apposite statistical methods, largely based on latent variable models, for the analysis of high dimensional data, often of mixed type. The methods she develops are often motivated by and solve applied problems across a range of disciplines, including epigenetics, metabolomics, genomics, social science, sports science and political science.
+
+### Abstract
+
+Interactions between actors are frequently represented using a network. The latent position model is widely used for analysing network data, whereby each actor is positioned in a latent space. Inferring the dimension of this space is challenging. Often, for simplicity, two dimensions are used or model selection criteria are employed to select the dimension, but this requires choosing a criterion and the computational expense of fitting multiple models.
+Here the latent shrinkage position model (LSPM) is proposed which intrinsically infers the ef- fective dimension of the latent space. The LSPM employs a Bayesian nonparametric multiplicative truncated gamma process prior that ensures shrinkage of the variance of the latent positions across higher dimensions. Dimensions with non-negligible variance are deemed most useful to describe the observed network, inducing automatic inference on the latent space dimension. While the LSPM is applicable to many network types, logistic and Poisson LSPMs are developed here for binary and count networks respectively. Inference proceeds via a Markov chain Monte Carlo algorithm, where novel surrogate proposal distributions reduce the computational burden.
+The LSPM’s properties are assessed through simulation studies, and its utility is illustrated through application to real network datasets. Extensions to the LSPM that permit clustering of nodes are available as is a variational approach to inference for improved computational eﬀiciency.
+
+
+Category: [<u>Events</u>](/events/posts/2024-04-01-webinar_bayesian_statistics/)

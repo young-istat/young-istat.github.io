@@ -1,0 +1,32 @@
+---
+author: Gabriel Palma
+date: "2024-04-01T18:39:26+02:00"
+summary: Matteo Giordano is an Assistant Professor (Ricercatore a Tempo Determinato di Tipo A) of Statistics at the Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS) of the University of  Turin. I am also a Research Affiliate at Collegio Carlo Alberto, within the "de Castro" Statistics Initiative. Previously, I was a Postdoctoral Research Assistant at the Department of Statistics of the University of  Oxford, mentored by Prof. Judith Rousseau. While in Oxford, I was also affiliated to Jesus College.
+
+type: postweb
+tags:
+- post
+title: Nonparametric Bayesian intensity estimation for covariate-driven inhomogeneous point processes
+---
+**Date:** Friday, April 19th 2024 <br>
+**Time:** 10:00am WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the event please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zPVUFDW7hUa72YYh_YBVyVf5diHPK9hKlZHeXh9uPr5URERCRDQyQlpNOEQzVDBLU0ZTOVlBSEk3Qy4u).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_matteogiordano.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="matteo"></a> [Dr. Matteo Giordano](https://matteogiordano.weebly.com/), Assistant Professor in Statistics, University of  Turin, Italy
+
+Matteo Giordano is an Assistant Professor (Ricercatore a Tempo Determinato di Tipo A) of Statistics at the Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS) of the University of  Turin. I am also a Research Affiliate at Collegio Carlo Alberto, within the "de Castro" Statistics Initiative. Previously, I was a Postdoctoral Research Assistant at the Department of Statistics of the University of  Oxford, mentored by Prof. Judith Rousseau. While in Oxford, I was also affiliated to Jesus College.
+
+
+### Abstract
+
+The talk will consider nonparametric Bayesian estimation of the intensity function of an inhomogeneous Poisson point process in the important case where the intensity depends on covariates, based on the observation of a single realisation of the point pattern over a large area. It is shown how the presence of covariates allows to borrow information from far away locations in the observation window, enabling consistent inference in the growing domain asymptotics. In particular, minimax-optimal posterior contraction rates under both global and point-wise loss functions are derived. The rates in global loss are obtained under conditions on the prior distribution resembling those in the well established theory of Bayesian nonparametrics, here combined with concentration inequalities for functionals of stationary processes to control certain random covariate-dependent loss functions appearing in the analysis. The local rates are derived with an ad-hoc study that builds on recent advances in the theory of Pólya tree priors, extended to the present multivariate setting with a novel construction that makes use of the random geometry induced by the covariates. Joint work with Alisa Kirichenko and Judith Rousseau.
+
+
+Category: [<u>Events</u>](/events/posts/2024-04-01-webinar_bayesian_statistics/)
