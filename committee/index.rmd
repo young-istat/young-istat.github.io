@@ -1,6 +1,6 @@
 ---
 date: "2020-05-21"
-title: Committee 2023 - 2024
+title: Committee 2024 - 2025
 ---
 <style type="text/css">
 html {
@@ -32,20 +32,20 @@ html {
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Back to top</button>
 
-
-| **Name**                    | **Position**         | **Institute**                 |
-|-----------------------------|----------------------|-------------------------------|
-| <a href="#Shirin">Shirin Moghaddam</a> | Chair     | University of Limerick        |
-| <a href="#Davood">Davood Roshan</a>    | Vice-Chair| University of Galway          |
-| <a href="#Silvia">Silvia D'Angelo</a>    | Secretary  | Trinity College Dublin   |
-| <a href="#Gabriel"> Gabriel Rodriques Palma </a>| Website Manager  | Maynooth University                 |
-| <a href="#Kate"> Kate Finucane</a>             | Outreach Officer            | University College Dublin  |
-|<a href = "#Amir"> Amir Jalali </a>| Ordinary Member| University of Limerick|
-| <a href="#Fatima"> Fatima-Zahra Jaouimaa</a>   | Ordinary Member | Lillys Pharmacy & Health Store    |
-| <a href="#Jonathan"> Jonathan Henderson</a> | Ordinary Member  | Queen’s University Belfast    |
-| <a href="#Autumn"> Autumn O'Donnell </a>              | Ordinary Member  | University College Cork |
-| <a href="#Catherine"> Catherine Higgins</a> | Ordinary Member  | University College Dublin  |
-| <a href="#James"> James Sweeney </a>         | Ordinary Member  | University of Limerick  |
+| **Name**                           | **Position**                    | **Institute**                              |
+|------------------------------------|--------------------------------|--------------------------------------------|
+| <a href="#Shirin">Shirin Moghaddam</a>                   | Chair                          | University of Limerick                     |
+| <a href="#Gabriel">Gabriel Rodriques Palma</a>            | Vice-Chair                     | Maynooth University                        |
+| <a href="#Kate">Kate Finucane</a>                      | Secretary                      | University College Dublin                  |
+| <a href="#Nastaran">Nastaran Sharifian</a>                 | Website Manager                | University of Galway                       |
+| <a href="#Catherine">Catherine Higgins</a>                  | Outreach Officer               | University College Dublin                  |
+| <a href="#Emily">Emily Gribbin</a>                      | Ordinary Member                | University of Edinburgh                    |
+| <a href="#Silvia">Silvia D'Angelo</a>                    | Ordinary Member                | Trinity College Dublin                     |
+| <a href="#Owen">Owen McGrath</a>                       | Ordinary Member                | University of Limerick       |
+| <a href="#Luke">Luke Kelly</a>                        | Ordinary Member                | University College Cork                   |
+| <a href="#Fatima">Fatima-Zahra Jaouimaa</a>              | Industry-representative        | Lillys Pharmacy & Health Store    |
+| <a href="#James">James Sweeney</a>                      | ISA representative             | University of Limerick                     |
+| <a href="#Autumn">Autumn O'Donnell</a>                   | Ordinary Member                | University College Cork                            |
 
 <br>
 
@@ -55,45 +55,40 @@ I obtained my PhD in Statistics from National University of Ireland, Galway afte
 <br>
 
 
-## <img src="pic_davood_rosh.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Davood"></a> Davood Roshan -- Vice-Chair
-I am Davood Roshan, a *young* statistician and lecturer of Statistical Science at University of Galway. My primary research interest is in the longitudinal analysis of clinical biomarkers. In particular, I am interested in developing individualised and dynamic reference ranges for clinical biomarkers that are recorded longitudinally over time. My research domain includes but not limited to medicine, sport, engineering, finance and etc. I also have special interest in translational statistics, data visualisations and data science with a focus on developing predictive tools. See my academic [webpage](https://www.nuigalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/davoodroshansangachin/).
-
-<br>
-
-## <img src="pic_silvia_new.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Secretary
-Hi! My name is Silvia and I am a lecturer in the School of Computer Science and Statistics, Trinity College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity. See my personal [webpage](https://silviadangelo.github.io/).
-
-
-<br>
-
-## <img src="pic_gabriel.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Gabriel"></a> Gabriel Rodriques Palma -- Website Manager
+## <img src="pic_gabriel.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Gabriel"></a> Gabriel Rodrigues Palma -- Vice-Chair
 I graduated with first-class honours BSc in Biological Sciences from the University of São Paulo. Since starting my undergraduate degree, I have participated in several statistics, mathematical modelling, and machine learning projects. Thanks to these opportunities, I love being involved in multidisciplinary projects focusing on ecological and entomological research. I am a PhD researcher in Statistical Ecology at the Hamilton Institute of Maynooth University, funded by Science Foundation Ireland’s Centre for Research Training in Foundations of Data Science programme. My PhD project is “Statistical Modelling and machine learning applied to automating animal monitoring systems”. See my personal [webpage](https://gabrielrpalma.com).
 
 <br>
 
-## <img src="pic_Kate_Finucane.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Kate"></a> Kate Finucane -- Outreach Officer
+## <img src="pic_Kate_Finucane.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Kate"></a> Kate Finucane -- Secretary
+
 I am Kate Finucane, a PhD researcher in the School of Mathematics and Statistics at University College Dublin. My research focuses on missing data imputation techniques using Bayesian methods, with applications to metabolomics. I hold a bachelor's degree in Physics and Astrophysics from Trinity College Dublin and a master's degree in Data and Computational Science from University College Dublin. I am also very passionate about scientific communication - I believe the public should be able to learn about the science they are funding! I am currently a producer of the Pint of Science Ireland podcast and have been involved in other podcasts, productions, and events in the past.
 
 <br>
 
-## <img src="pic_amir_jal.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Amir"></a> Amir Jalali -- Ordinary Member
-My name is Amir and I am a lecturer in Biostatistics in the School of Medicine at the University of Limerick. I am interested in statistical modelling, clinical decision-making, and transnational statistics. My research focuses on the application of statistical modelling and machine learning in cancer diagnostics and progression, particularly for prostate and breast cancers. I am also passionate about developing tools to facilitate the communication of statistical results to their target audience.
+## <img src="pic_Catherine_Higgins.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Catherine"></a> Catherine Higgins -- Outreach Officer
+My name is Catherine Higgins and I’m a PhD student in Statistics at University College Dublin, funded by the SFI CRT in Genomics Data Science. I graduated from the University of Galway (formerly NUI Galway) in 2021 with a BSc in Financial Mathematics and Economics. My research area is functional data analysis and my PhD is focused on the development of methods for gene regulatory network construction from high-throughput time course data.
 
 <br>
 
-## <img src="pic_fatima_jao.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Fatima"></a> Fatima-Zahra Jaouimaa -- Ordinary Member
+## <img src="pic_silvia_new.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Ordinary Member
+Hi! My name is Silvia and I am a lecturer in the School of Computer Science and Statistics, Trinity College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity. See my personal [webpage](https://silviadangelo.github.io/).
+
+<br>
+
+## <img src="pic_fatima_jao.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Fatima"></a> Fatima-Zahra Jaouimaa -- Industry representative
 Hi, I am Fatima Jaouimaa and I’m a PhD student in Statistics at the University of Limerick. I graduated with a BSc in Economics and Mathematical Sciences from the same university. My research area is survival analysis and in particular, I’m looking at multi-parameter regression in this setting.
 
 
 <br>
 
-## <img src="pic_jonathan.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Jonathan"></a> Jonathan Henderson -- Ordinary Member
-I am Jonathan Henderson, and I am a PhD student in statistics at Queen’s University Belfast. I graduated in 2020 with an MSci in Mathematics and Statistics & Operational Research. My PhD is based in spatial statistics in particular, using point pattern analysis to examine the loss of retinal ganglion cells in glaucoma.
+## <img src="pic_emily_gribbin.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Emily Gribbin -- Ordinary Member
+My name is Emily Gribbin and I am a Mathematics PhD student from the Mathematical Sciences Research Centre at Queen’s University Belfast, specialising in statistical methods for single-molecule imaging. I graduated from Queen’s University Belfast in 2022 with an MSci in Mathematics with Statistics and Operational Research. I am currently collaborating with the OCTOPUS Group from the Central Laser Facility in the Science and Technology Facilities Council to improve the efficiency of Fluorescence Localisation Imaging with Photobleaching (FLImP) using  reversible jump Markov chain Monte Carlo and hidden Markov models.
 
 <br>
 
-## <img src="pic_Catherine_Higgins.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Catherine"></a> Catherine Higgins -- Ordinary Member
-My name is Catherine Higgins and I’m a PhD student in Statistics at University College Dublin, funded by the SFI CRT in Genomics Data Science. I graduated from the University of Galway (formerly NUI Galway) in 2021 with a BSc in Financial Mathematics and Economics. My research area is functional data analysis and my PhD is focused on the development of methods for gene regulatory network construction from high-throughput time course data.
+## <img src="pic_Luke_kelly.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Luke"></a> Luke Kelly -- Ordinary Member
+I joined UCC in 2022 as a lecturer in statistics after postdoctoral positions in France and the United Kingdom. I am interested in developing statistical methodology and computational tools for phylogenetic inference and other applied problems. My personal webpage [https://lukejkelly.github.io] has more details of my academic background and research interests.
 
 <br>
 
@@ -112,6 +107,8 @@ My name is Autumn O’Donnell and I’m a PhD student in Statistics at Universit
   * [2021-2022](/pastcommittees/committee-2021-2022/)
   
   * [2022-2023](/pastcommittees/committee-2022-2023/)
+  
+  * [2023-2024](/pastcommittees/committee-2023-2024/)
 
 
 
