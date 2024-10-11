@@ -6,7 +6,16 @@
     <description>Recent content in Events on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2024 19:36:26 +0200</lastBuildDate><atom:link href="https://young-istat.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 19:36:26 +0200</lastBuildDate><atom:link href="https://young-istat.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Young-ISA webinar joint with Bernoulli Society on Bayesian Statistics.</title>
+      <link>https://young-istat.github.io/events/posts/2024-04-01-webinar_bayesian_statistics/</link>
+      <pubDate>Fri, 19 Apr 2024 19:36:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/events/posts/2024-04-01-webinar_bayesian_statistics/</guid>
+      <description>This webinar aims to bring together many career-young statisticians in Ireland to focus on the application and theoretical development of Bayesian statistics.</description>
+    </item>
+    
     <item>
       <title>The Young ISA Mentorship Programme</title>
       <link>https://young-istat.github.io/events/posts/2024-01-17-mentorshipprogramme/</link>
@@ -41,15 +50,6 @@
       
       <guid>https://young-istat.github.io/events/posts/2023-11-17-meeting4/</guid>
       <description>The 4th Young-ISA meeting is dedicated to Researcher&amp;rsquo;s Toolkit - Publication, Progression, and People.</description>
-    </item>
-    
-    <item>
-      <title>Young-ISA webinar joint with Bernoulli Society on Bayesian Statistics.</title>
-      <link>https://young-istat.github.io/events/posts/2024-04-01-webinar_bayesian_statistics/</link>
-      <pubDate>Sat, 01 Apr 2023 19:36:26 +0200</pubDate>
-      
-      <guid>https://young-istat.github.io/events/posts/2024-04-01-webinar_bayesian_statistics/</guid>
-      <description>This webinar aims to bring together many career-young statisticians in Ireland to focus on the application and theoretical development of Bayesian statistics.</description>
     </item>
     
     <item>
