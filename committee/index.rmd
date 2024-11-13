@@ -66,6 +66,12 @@ I am Kate Finucane, a PhD researcher in the School of Mathematics and Statistics
 
 <br>
 
+## <img src="pic_Nastaran_Sharifian.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Nastaran"></a> Nastaran Sharifian -- Website Manager
+
+I'm currently a postdoctoral researcher at the School of Mathematical and Statistical Sciences, University of Galway. My research focuses on longitudinal data analysis. I am working on HealIntel Project, With a focus on longitudinal functional data analysis. I finished a postdoc role on Statistical Learning, with a focus on Neural Networks, at the University of Limerick, Ireland on September 30, 2023. Before starting my first post doc , I was a Lecturer in Statistics, at Shahid Beheshti University. I have over 10 years of experience in research and lecturing a diverse array of statistical content. I finished my PhD and MSc degree, respectively, in Statistics and Mathematical Statistics, from Shahid Beheshti University, Tehran, Iran. I have worked on the longitudinal mixed data, and extended the inflated and mixture models for count, continuous, and ordinal correlated responses. 
+
+<br>
+
 ## <img src="pic_Catherine_Higgins.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Catherine"></a> Catherine Higgins -- Outreach Officer
 My name is Catherine Higgins and I’m a PhD student in Statistics at University College Dublin, funded by the SFI CRT in Genomics Data Science. I graduated from the University of Galway (formerly NUI Galway) in 2021 with a BSc in Financial Mathematics and Economics. My research area is functional data analysis and my PhD is focused on the development of methods for gene regulatory network construction from high-throughput time course data.
 
@@ -73,6 +79,11 @@ My name is Catherine Higgins and I’m a PhD student in Statistics at University
 
 ## <img src="pic_silvia_new.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Ordinary Member
 Hi! My name is Silvia and I am a lecturer in the School of Computer Science and Statistics, Trinity College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity. See my personal [webpage](https://silviadangelo.github.io/).
+
+<br>
+
+## <img src="pic_Owen_McGrath.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Owen"></a> Owen McGrath -- Ordinary Member
+I am a lecturer in Applied Statistics at the Technological University of the Shannon, and a PhD researcher in Statistics at the University of Limerick. I hold a BEng in Automation & Control Technology (LIT), BSc in Electronic Systems (LIT), HDipAppSc in Applied Mathematics (NUIG) and a MSc in Mathematical Modelling (UL). Having worked in the automotive, manufacturing, and aerospace industries, I’m particularly interested in industrial/engineering applications. My main research interests are reliability analysis, statistical process control, experimental design and accelerated life testing. In addition to statistics, I have a keen interest in motorcycles (and just about anything with a four-stroke petrol engine).
 
 <br>
 
