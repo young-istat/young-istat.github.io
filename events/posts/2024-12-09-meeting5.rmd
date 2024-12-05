@@ -1,5 +1,5 @@
 ---
-author: Gabriel Palma
+author: Nastaran Sharifian
 date: "2024-09-19T19:36:26+02:00"
 summary: "The 5th Young-ISA meeting is dedicated to Transferable Skills: Insights from Academia and Industry."
 type: postevent
@@ -33,7 +33,7 @@ Owen McGrath, Department of Mathematics and Statistics, University of Limerick. 
 
 ### Programme
 
-**The full program will be available soon.**
+**The full program is available [here](/events/posts/5th_Young_ISA_Meeting_Programme.pdf).**
 
 
 ### Registration
