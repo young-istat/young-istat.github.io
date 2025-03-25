@@ -1,0 +1,57 @@
+---
+author: Nastaran Sharifian
+date: "2025-03-25T13:38:26+02:00"
+summary: This webinar aims to bring together many career-young statisticians in Ireland to focus on the application of statistical ecology.
+type: postevent
+tags:
+- post
+title: Youn-ISA Webinar Joint with the BIR Committee on Statistical Ecology
+---
+
+**Date:** Thursday April 10th, 2025 <br>
+**Location:** Online <br>
+**Time:** 12 pm - 2:30 pm GMT <br>
+**Theme of the event:** Statistical Ecology <br>
+
+The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 to create and cultivate a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
+
+We are thrilled to announce our joint webinar with the British and Irish Region (BIR). The **Young-ISA webinar joint with the BIR Committee on Statistical Ecology** aims to bring together many career-young statisticians in Ireland to focus on the **application and theoretical development of statistical ecology**.
+
+
+### Invited Speakers
+
+[Prof Caroline Brophy](https://www.scss.tcd.ie/caroline.brophy/), Professor in Statistics, Trinity College Dublin.
+
+[Dr Rafael de Andrade Moral](https://rafamoral.github.io), Associate Professor in Statistics, Maynooth University.
+
+[Dr Virginia Morera-Pujol ](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0), Statistical Ecologist, University of Limerick.  
+
+[Yong Chen Goh](https://www.maynoothuniversity.ie/hamilton/our-people/yong-chen-goh), PhD student in Statistics, Maynooth University.  
+
+<br>
+
+### Programme
+
+  
+| Time          | Speaker | Title   | Abstract |
+| ------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 9:30- 9:40   | [<img src="/committee/pic_shirin_mog.png">](https://www.ul.ie/research/dr-shirin-moghaddam)[Dr. Shirin Moghaddam](https://www.ul.ie/research/dr-shirin-moghaddam) | Event openning| | 
+| 9:40- 10:10   | [<img src="/webinars/posts/image/pic_clairegormley.png">](https://people.ucd.ie/claire.gormley)[Dr. Claire Gormley](https://people.ucd.ie/claire.gormley) | [Bayesian nonparametric modelling of network data](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_clairegormley)| [Visit here](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_clairegormley)|
+| 10:10-10:40   | [<img src="/webinars/posts/image/pic_yongchengoh.png">](https://www.maynoothuniversity.ie/hamilton/our-people/yong-chen-goh) [Yong Chen Goh](https://www.maynoothuniversity.ie/hamilton/our-people/yong-chen-goh) | [Bayesian Additive Regression Trees for Non-Ignorable Missing Data](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_yongchengoh)  | [Visit here](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_yongchengoh)    | 
+| 10:40-11:10   | [<img src="/webinars/posts/image/pic_maeveupton.png">](https://www.ul.ie/research/dr-maeve-upton)[Dr. Maeve Upton](https://www.ul.ie/research/dr-maeve-upton)                         | [Bayesian generalised additive models for quantifying sea-level change](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_maeveupton)                              | [Visit here](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_maeveupton)     |
+| 11:10 - 11:40 | [<img src="/webinars/posts/image/pic_matteogiordano.png">](https://matteogiordano.weebly.com/)[Dr. Matteo Giordano](https://matteogiordano.weebly.com/)                                | [Nonparametric Bayesian intensity estimation for covariate-driven inhomogeneous point processes](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_matteogiordano) | [Visit here](/webinars/posts/BayesianStatisticsWebinar/2024-04-01-webinar_bayesian_matteogiordano) |
+| 11:40-12:00   | Discussion                                                                           | A general discussion about Bayesian statistics and its applications                                                                                                                   |                                                                                                   |
+
+
+<br>
+
+### Registration
+Registration is free and open to everyone.
+
+To register for the event please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zPVUFDW7hUa72YYh_YBVyVf5diHPK9hKlZHeXh9uPr5URERCRDQyQlpNOEQzVDBLU0ZTOVlBSEk3Qy4u).
+
+
+<br>
+<br>
+
+Category: [<u>Events</u>](/events/)
