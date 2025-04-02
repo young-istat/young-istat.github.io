@@ -1,0 +1,32 @@
+---
+author: Nastaran Sharifian
+date: "2025-04-10T07:45:26+02:00"
+summary: Rafael is an Associate Professor of Statistics at Maynooth University, Ireland. With a background in Biology and a PhD in Statistics from the University of São Paulo, Rafael has a deep passion for teaching and conducting research in statistical modelling applied to Ecology, Wildlife Management, Agriculture, and Environmental Science. As director of the Theoretical and Statistical Ecology Group, Rafael brings together a community of researchers who use mathematical and statistical tools to better understand the natural world. He also enjoys producing music videos and parodies to promote Statistics in social media and in the classroom.
+
+type: postweb
+tags:
+- post
+title: Bayesian hierarchical modelling applied to wildlife monitoring
+---
+**Date:** Thursday, April 10th 2025 <br>
+**Time:** 1:10pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the event please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zPVUFDW7hUa72YYh_YBVyVf5diHPK9hKlZHeXh9uPr5UQU9ZTDJRRlFVTEFVQlFPQ0ZBM0hIM0dQQy4u).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Rafael.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="matteo"></a> [Dr Rafael de Andrade Moral](https://rafamoral.github.io), Associate Professor in Statistics, Maynooth University, Ireland
+
+Rafael is an Associate Professor of Statistics at Maynooth University, Ireland. With a background in Biology and a PhD in Statistics from the University of São Paulo, Rafael has a deep passion for teaching and conducting research in statistical modelling applied to Ecology, Wildlife Management, Agriculture, and Environmental Science. As director of the Theoretical and Statistical Ecology Group, Rafael brings together a community of researchers who use mathematical and statistical tools to better understand the natural world. He also enjoys producing music videos and parodies to promote Statistics in social media and in the classroom.
+
+
+### Abstract
+
+In this talk, I will explore statistical advances in wildlife population monitoring, focussing on methods for estimating multispecies animal abundance. Traditional management approaches typically prioritise species of economic or ecological concern, leaving millions of others unmonitored. Yet, long-term monitoring is critical for understanding ecosystem dynamics, especially those influenced by climate change. In this context, I will firstly discuss a novel multispecies N-mixture modelling framework capable of estimating abundance and interspecies correlations for unmarked animal populations, while accounting for imperfect detection, zero-inflation, and serial autocorrelation. I will then introduce a novel framework, called the triple Poisson model, which can be used to estimate animal abundance using scarce data on animal vestiges (such as scats, fur and footprints). Although it does not incorporate spatial or temporal trends (and this is the object of future work), the framework offers better inference from limited observations, making vestige-based monitoring a more viable alternative for large-scale ecological studies. Finally, I will highlight the importance of adding a third dimension (plant biomass) to traditional wildlife monitoring programmes, which may be estimated remotely, reducing even further the costs of establishing a potential wildlife monitoring protocol.
+
+
+Category: [<u>Events</u>](/events/posts/2025-04-10-weinar_statistical_ecology/)

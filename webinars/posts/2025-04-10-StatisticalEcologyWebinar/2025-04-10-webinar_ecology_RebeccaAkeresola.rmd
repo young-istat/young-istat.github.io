@@ -1,0 +1,33 @@
+---
+author: Nastaran Sharifian
+date: "2025-04-10T07:45:26+02:00"
+summary: Rebecca is a final year PhD student at the MAC-MIGS Centre for Doctoral Training, Schoolof Mathematics, University of Edinburgh. Her PhD, in collaboration with BioSS, has involved developing movement model approaches, mostly applied to seabirds, for behavioral inference. She holds a BTech in Statistics from the Federal University of Technology, Akure(FUTA), Nigeria, followed by an MSc in Mathematics from the African Institute for Mathematical Sciences (AIMS), Rwanda.
+
+type: postweb
+tags:
+- post
+title: Observing the unobservable
+---
+**Date:** Thursday, April 10th 2025  <br>
+**Time:** 02:10pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the event please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zPVUFDW7hUa72YYh_YBVyVf5diHPK9hKlZHeXh9uPr5URERCRDQyQlpNOEQzVDBLU0ZTOVlBSEk3Qy4u).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Rebecca_Akeresola.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Maeve"></a> [Rebecca Akeresola](https://www.bioss.ac.uk/people/rakeresola), PhD Student in Statistics, University of Edinburgh, UK
+
+Rebecca is a final year PhD student at the MAC-MIGS Centre for Doctoral Training, Schoolof Mathematics, University of Edinburgh. Her PhD, in collaboration with BioSS, has involved developing movement model approaches, mostly applied to seabirds, for behavioral inference. She holds a BTech in Statistics from the Federal University of Technology, Akure(FUTA), Nigeria, followed by an MSc in Mathematics from the African Institute for Mathematical Sciences (AIMS), Rwanda.
+
+
+### Abstract
+
+Understanding animal movement and behaviour can aid spatial planning and inform effective conservation management. However, it is difficult to directly observe and record behaviours influencing animal movement in remote and hostile terrain such as the marine environment. As a result, underlying behaviours are often inferred from telemetry data using hidden Markov models (HMMs). However, these inferred behaviours are not typically validated due to difficulty obtaining ‘ground truth’ behavioural data, and conservation actions drawn from wrongly inferred behaviours may be ineffective. We investigate the validity of behaviours inferred from HMMs by considering a unique dataset from the Joint Nature Conservation Committee (JNCC). JNCC collected the dataset by visually tracking terns at selected UK breeding colonies – this involves following individual birds using a boat. The data consist of telemetry data on the boat’s location and data on terns’ observed behaviour. The latter serves as our ‘ground truth’ behavioural data. We infer terns’ behaviour by fitting HMMs to the former. Most importantly, we gain insights into the validity of HMM-inferred behaviours by comparing them to the ‘ground truth’ behavioral data using appropriate methods.
+
+
+
+Category: [<u>Events</u>](/events/posts/2025-04-10-weinar_statistical_ecology/)
