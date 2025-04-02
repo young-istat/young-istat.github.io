@@ -1,6 +1,6 @@
 ---
 author: Nastaran Sharifian
-date: "2025-03-25T13:38:26+02:00"
+date: "2025-04-02T08:41:26+02:00"
 summary: This webinar aims to bring together many career-young statisticians in Ireland to focus on the application of statistical ecology.
 type: postevent
 tags:
@@ -20,13 +20,13 @@ We are thrilled to announce our joint webinar with the British and Irish Region 
 
 ### Invited Speakers
 
-[Prof Caroline Brophy](https://www.scss.tcd.ie/caroline.brophy/), Professor in Statistics, Trinity College Dublin.
+[Prof Caroline Brophy](https://www.scss.tcd.ie/caroline.brophy/), Professor in Statistics, Trinity College Dublin, Ireland.
 
-[Dr Rafael de Andrade Moral](https://rafamoral.github.io), Associate Professor in Statistics, Maynooth University.
+[Dr Virginia Morera-Pujol ](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0), Postdoctoral Research Fellow, University College Dublin, Ireland.  
 
-[Dr Virginia Morera-Pujol ](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0), Postdoctoral Research Fellow, University College Dublin.  
+[Dr Rafael de Andrade Moral](https://rafamoral.github.io), Associate Professor in Statistics, Maynooth University, Ireland.
 
-[Rebecca Akeresola](https://www.bioss.ac.uk/people/rakeresola), PhD Student in Statistics, University of Edinburgh.  
+[Rebecca Akeresola](https://www.bioss.ac.uk/people/rakeresola), PhD Student in Statistics, University of Edinburgh, UK.  
 
 <br>
 
@@ -36,10 +36,10 @@ We are thrilled to announce our joint webinar with the British and Irish Region 
 | Time          | Speaker | Title   | Abstract |
 | ------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 12:00- 12:10   | [<img src="/committee/pic_shirin_mog.png">](https://www.ul.ie/research/dr-shirin-moghaddam)[Dr. Shirin Moghaddam](https://www.ul.ie/research/dr-shirin-moghaddam) | Event openning| | 
-| 12:10- 12:40   | [<img src="/webinars/posts/image/pic_Caroline_Brophy.png">](https://people.ucd.ie/claire.gormley)[Prof Caroline Brophy](https://www.scss.tcd.ie/caroline.brophy/) | []()| [Visit here]()|
-| 12:40-13:10   | [<img src="/webinars/posts/image/pic_Rafael.png">](https://rafamoral.github.io) [Dr Rafael de Andrade Moral](https://rafamoral.github.io) | [Bayesian Hierarchical Modelling Applied to Wildlife Monitoring]()  | [Visit here]()    | 
-| 13:10-13:40   | [<img src="/webinars/posts/image/pic_Virginia.png">](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0)[Dr Virginia Morera-Pujol ](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0)                         | []()                              | [Visit here]()     |
-| 13:40 - 14:10 | [<img src="/webinars/posts/image/pic_Rebecca_Akeresola.png">](https://www.bioss.ac.uk/people/rakeresola)[Rebecca Akeresola](https://www.bioss.ac.uk/people/rakeresola)                                | [Observing the unobservable]() | [Visit here]() |
+| 12:10- 12:40   | [<img src="/webinars/posts/image/pic_Caroline_Brophy.png">](https://www.scss.tcd.ie/caroline.brophy/)[Prof Caroline Brophy](https://www.scss.tcd.ie/caroline.brophy/) | [Statistical Modelling of Ecological Principles Can Advance Sustainable Agriculture](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_CarolineBrophy)| [Visit here](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_CarolineBrophy)|
+| 12:40-13:10  | [<img src="/webinars/posts/image/pic_Virginia.png">](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0)[Dr Virginia Morera-Pujol ](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0) | [Using Bayesian Hierarchical Models in INLA and Inlabru as Tools for Wildlife Management and Conservation](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_VirginiaMoreraPujo) | [Visit here](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_VirginiaMoreraPujo)     |
+| 13:10-13:40    | [<img src="/webinars/posts/image/pic_Rafael.png">](https://rafamoral.github.io) [Dr Rafael de Andrade Moral](https://rafamoral.github.io) | [Bayesian Hierarchical Modelling Applied to Wildlife Monitoring](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_RafaelMoral)  | [Visit here](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_RafaelMoral)    | 
+| 13:40 - 14:10 | [<img src="/webinars/posts/image/pic_Rebecca_Akeresola.png">](https://www.bioss.ac.uk/people/rakeresola)[Rebecca Akeresola](https://www.bioss.ac.uk/people/rakeresola)                                | [Observing the unobservable](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_RebeccaAkeresola) | [Visit here](/webinars/posts/2025-04-10-StatisticalEcologyWebinar/2025-04-10-webinar_ecology_RebeccaAkeresola) |
 | 14:10-14:30   | Discussion                                                                           | A general discussion about Statistical Ecology and its applications                                                                                                                   |                                                                                                   |
 
 
