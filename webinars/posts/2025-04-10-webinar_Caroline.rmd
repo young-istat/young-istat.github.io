@@ -1,0 +1,35 @@
+---
+author: Nastaran Sharifian
+date: "2025-03-10T18:38:26+02:00"
+summary: Prof. Caroline Brophy is a Professor in Statistics at the School of Computer Science and Statistics at Trinity College Dublin. Her research mainly involves developing statistical models for applications in Ecology, Agronomy and Climate Change studies. She has been deeply involved in the development of the family of Diversity-Interactions models for modelling the biodiversity and ecosystem function relationship. Professor Brophy is a lead PI of a Science Foundation Ireland funding award that is supporting research developing statistical methodologies for modelling the biodiversity and ecosystem function relationship. She is also the lead Coordinator of a Marie Skłodowska-Curie Actions (MSCA) Doctoral Network titled LegumeLegacy.
+type: postweb
+tags:
+- post
+title: Statistical modelling of ecological principles can advance sustainable agriculture
+---
+**Date:** Friday, Aprile 10th 2025 <br>
+**Time:** 12:10pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the webinar please use the Eventbrite link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zPVUFDW7hUa72YYh_YBVyVf5diHPK9hKlZHeXh9uPr5UQU9ZTDJRRlFVTEFVQlFPQ0ZBM0hIM0dQQy4u).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Caroline_Brophy.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rafael"></a> [Prof. Caroline Brophy](https://www.scss.tcd.ie/caroline.brophy/), Professor in Statistics, Trinity College Dublin, Ireland
+
+Prof. Caroline Brophy is a Professor in Statistics at the School of Computer Science and Statistics at Trinity College Dublin. Her research mainly involves developing statistical models for applications in Ecology, Agronomy and Climate Change studies. She has been deeply involved in the development of the family of Diversity-Interactions models for modelling the biodiversity and ecosystem function relationship. Professor Brophy is a lead PI of a Science Foundation Ireland funding award that is supporting research developing statistical methodologies for modelling the biodiversity and ecosystem function relationship. She is also the lead Coordinator of a Marie Skłodowska-Curie Actions (MSCA) Doctoral Network titled LegumeLegacy.
+
+
+### Abstract
+Manipulating the species diversity of a managed ecosystem can affect the outputs of the system. For example, combining complementary species in an ecosystem may increase outputs compared to a system with a single species. There is a long history of statistical modelling approaches for assessing the relationship between biodiversity and ecosystem outputs that vary in their ability to capture the challenges inherent in the data that arises from these types of studies.
+
+
+With agricultural production systems, the aim is often to produce high yields to feed growing human populations. Frequently these systems are sown with low species diversity and managed with high levels of synthetic nitrogen fertiliser to maximise production, which can lead to environmental problems such as high greenhouse gas emissions or low water quality. In the face of the climate and biodiversity crises, agricultural production systems are challenged to improve their sustainability, for example, by reducing harmful inputs such as synthetic fertilisers.
+
+
+in this talk, I will present the statistical challenges in modelling the relationship between species diversity and ecosystem outputs, and recent modelling advances to address them, including the Diversity-Interactions modelling approach and associated DImodels R package. I will also show how understanding ecological principles via statistical modelling can inform on optimal designs of agricultural production systems and be used to improve their sustainability.
+
+Category: [<u>Events</u>](/events/posts/2025-04-10-webinar_ecology/)

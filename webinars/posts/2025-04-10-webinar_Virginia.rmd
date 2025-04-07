@@ -1,0 +1,33 @@
+---
+author: Nastaran Sharifian
+date: "2025-03-10T18:38:26+02:00"
+summary: Dr. Virginia Morera-Pujo is a quantitative ecologist with an animal behaviour and movement ecology background. She sits at the interface between statistics and ecology as she is interested in the spatial modelling of species distributions and in the study of animal behaviour through the analyses of their movement, with applications to wildlife conservation and management. She has worked in marine environments, studying the migratory and foraging behaviour of pelagic seabirds, and in a more applied aspect, their interaction with fisheries, but she currently focuses on terrestrial ecosystems, particularly on species of management and conservation concern in Ireland, using Bayesian models to investigate their distributions.
+type: postweb
+tags:
+- post
+title: Observing the unobservable
+---
+**Date:** Friday, Aprile 10th 2025 <br>
+**Time:** 12:40pm WET <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the webinar please use the Eventbrite link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zPVUFDW7hUa72YYh_YBVyVf5diHPK9hKlZHeXh9uPr5UQU9ZTDJRRlFVTEFVQlFPQ0ZBM0hIM0dQQy4u).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Virginia.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rafael"></a> [Dr. Virginia Morera-Pujo](https://sites.google.com/view/virginiamorera-pujol/home?authuser=0), Postdoctoral Research Fellow, University College Dublin, Ireland
+
+
+Dr. Virginia Morera-Pujo is a quantitative ecologist with an animal behaviour and movement ecology background. She sits at the interface between statistics and ecology as she is interested in the spatial modelling of species distributions and in the study of animal behaviour through the analyses of their movement, with applications to wildlife conservation and management. She has worked in marine environments, studying the migratory and foraging behaviour of pelagic seabirds, and in a more applied aspect, their interaction with fisheries, but she currently focuses on terrestrial ecosystems, particularly on species of management and conservation concern in Ireland, using Bayesian models to investigate their distributions.
+
+
+### Abstract
+In wildlife management and conservation, having information on abundance and distribution of target species is essential. However, data for species of management and conservation concern are not always collected in a standardised and regular manner. Recent advances in modelling techniques provide tools that allow species distributions to be modelled from sparse and disparate datasets, which results in statistics and ecology being more interconnected than ever. However, while ecologists strive to enhance their statistical expertise and expand their modelling toolkit, effectively communicating these complex concepts to applied users—who may lack a background in statistics—remains a challenge. Bridging this gap is crucial, as the correct application and interpretation of such models can directly impact wildlife conservation and management.
+
+In this talk, I will share my experience using Bayesian models in inlabru to inform wildlife management in Ireland. I will also discuss strategies for presenting model results to stakeholders in a way that accurately reflects their complexity while remaining accessible to non-statisticians.
+
+
+Category: [<u>Events</u>](/events/posts/2025-04-10-webinar_ecology/)

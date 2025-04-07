@@ -6,7 +6,43 @@
     <description>Recent content in Webinars on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2024 18:39:26 +0200</lastBuildDate><atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 18:38:26 +0200</lastBuildDate><atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayesian hierarchical modelling applied to wildlife monitoring</title>
+      <link>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_rafael/</link>
+      <pubDate>Mon, 10 Mar 2025 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_rafael/</guid>
+      <description>Rafael is an Associate Professor of Statistics at Maynooth University, Ireland. With a background in Biology and a PhD in Statistics from the University of São Paulo, Rafael has a deep passion for teaching and conducting research in statistical modelling applied to Ecology, Wildlife Management, Agriculture, and Environmental Science. As director of the Theoretical and Statistical Ecology Group, Rafael brings together a community of researchers who use mathematical and statistical tools to better understand the natural world. He also enjoys producing music videos and parodies to promote Statistics in social media and in the classroom.</description>
+    </item>
+    
+    <item>
+      <title>Observing the unobservable</title>
+      <link>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_rebecca/</link>
+      <pubDate>Mon, 10 Mar 2025 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_rebecca/</guid>
+      <description>Rebecca is a final year PhD student at the MAC-MIGS Centre for Doctoral Training, Schoolof Mathematics, University of Edinburgh. Her PhD, in collaboration with BioSS, has involved developing movement model approaches, mostly applied to seabirds, for behavioral inference. She holds a BTech in Statistics from the Federal University of Technology, Akure(FUTA), Nigeria, followed by an MSc in Mathematics from the African Institute for Mathematical Sciences (AIMS), Rwanda.</description>
+    </item>
+    
+    <item>
+      <title>Observing the unobservable</title>
+      <link>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_virginia/</link>
+      <pubDate>Mon, 10 Mar 2025 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_virginia/</guid>
+      <description>Dr. Virginia Morera-Pujo is a quantitative ecologist with an animal behaviour and movement ecology background. She sits at the interface between statistics and ecology as she is interested in the spatial modelling of species distributions and in the study of animal behaviour through the analyses of their movement, with applications to wildlife conservation and management. She has worked in marine environments, studying the migratory and foraging behaviour of pelagic seabirds, and in a more applied aspect, their interaction with fisheries, but she currently focuses on terrestrial ecosystems, particularly on species of management and conservation concern in Ireland, using Bayesian models to investigate their distributions.</description>
+    </item>
+    
+    <item>
+      <title>Statistical modelling of ecological principles can advance sustainable agriculture</title>
+      <link>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_caroline/</link>
+      <pubDate>Mon, 10 Mar 2025 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_caroline/</guid>
+      <description>Prof. Caroline Brophy is a Professor in Statistics at the School of Computer Science and Statistics at Trinity College Dublin. Her research mainly involves developing statistical models for applications in Ecology, Agronomy and Climate Change studies. She has been deeply involved in the development of the family of Diversity-Interactions models for modelling the biodiversity and ecosystem function relationship. Professor Brophy is a lead PI of a Science Foundation Ireland funding award that is supporting research developing statistical methodologies for modelling the biodiversity and ecosystem function relationship. She is also the lead Coordinator of a Marie Skłodowska-Curie Actions (MSCA) Doctoral Network titled LegumeLegacy.</description>
+    </item>
+    
     <item>
       <title>Bayesian Additive Regression Trees for Non-Ignorable Missing Data</title>
       <link>https://young-istat.github.io/webinars/posts/bayesianstatisticswebinar/2024-04-01-webinar_bayesian_yongchengoh/</link>
