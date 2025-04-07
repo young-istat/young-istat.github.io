@@ -5,7 +5,7 @@ summary: Dr. Virginia Morera-Pujo is a quantitative ecologist with an animal beh
 type: postweb
 tags:
 - post
-title: Observing the unobservable
+title: Using Bayesian hierarchical models in INLA and inlabru as tools for wildlife management and conservation
 ---
 **Date:** Friday, Aprile 10th 2025 <br>
 **Time:** 12:40pm WET <br>
