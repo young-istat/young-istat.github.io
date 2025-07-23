@@ -98,7 +98,7 @@ My name is Emily Gribbin and I am a Mathematics PhD student from the Mathematica
 
 <br>
 
-## <img src="pic_Luke_kelly.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Luke"></a> Luke Kelly -- Ordinary Member
+## <img src="/pastcommittees/pic_Luke_kelly.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Luke"></a> Luke Kelly -- Ordinary Member
 I joined UCC in 2022 as a lecturer in statistics after postdoctoral positions in France and the United Kingdom. I am interested in developing statistical methodology and computational tools for phylogenetic inference and other applied problems. My personal webpage [https://lukejkelly.github.io] has more details of my academic background and research interests.
 
 <br>
