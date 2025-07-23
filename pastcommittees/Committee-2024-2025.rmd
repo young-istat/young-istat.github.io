@@ -1,0 +1,145 @@
+---
+date: "2024-10-26"
+title: Committee 2024 - 2025
+---
+<style type="text/css">
+html {
+  scroll-behavior: smooth;
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #256439; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 16px; /* Increase font size */
+  font-family: "Merriweather", Times, Georgia, serif;
+}
+
+#myBtn:hover {
+  background-color: rgba(37, 100, 57, 0.7); /* Add a dark-grey background on hover */
+}
+
+</style>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Back to top</button>
+
+| **Name**                           | **Position**                    | **Institute**                              |
+|------------------------------------|--------------------------------|--------------------------------------------|
+| <a href="#Shirin">Shirin Moghaddam</a>                   | Chair                          | University of Limerick                     |
+| <a href="#Gabriel">Gabriel Rodriques Palma</a>            | Vice-Chair                     | Maynooth University                        |
+| <a href="#Kate">Kate Finucane</a>                      | Secretary                      | University College Dublin                  |
+| <a href="#Nastaran">Nastaran Sharifian</a>                 | Website Manager                | University of Galway                       |
+| <a href="#Catherine">Catherine Higgins</a>                  | Outreach Officer               | University College Dublin                  |
+| <a href="#Emily">Emily Gribbin</a>                      | Ordinary Member                | University of Edinburgh                    |
+| <a href="#Silvia">Silvia D'Angelo</a>                    | Ordinary Member                | Trinity College Dublin                     |
+| <a href="#Owen">Owen McGrath</a>                       | Ordinary Member                | University of Limerick       |
+| <a href="#Luke">Luke Kelly</a>                        | Ordinary Member                | University College Cork                   |
+| <a href="#Fatima">Fatima-Zahra Jaouimaa</a>              | Industry-representative        | Lillys Pharmacy & Health Store    |
+| <a href="#James">James Sweeney</a>                      | ISA representative             | University of Limerick                     |
+| <a href="#Autumn">Autumn O'Donnell</a>                   | Ordinary Member                | University College Cork                            |
+
+<br>
+
+## <img src="/pastcommittees/pic_shirin_mog.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Shirin"></a> Shirin Moghaddam -- Chair
+I obtained my PhD in Statistics from National University of Ireland, Galway after I had finished my Bachelor and Master degree in Statistics at the University of Tehran, Iran. Following my PhD, I joined the prostate cancer research group in UCD Conway Institute as a postdoctoral research fellow and worked on accurate grading and staging of prostate cancer. I am currently Lecturer in Statistics & Data Science in University of Limerick. My research interests include Survival analysis, Bayesian approach and Machine learning, in particular, their application in cancer research.
+
+<br>
+
+
+## <img src="/pastcommittees/pic_gabriel.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Gabriel"></a> Gabriel Rodrigues Palma -- Vice-Chair
+I graduated with first-class honours BSc in Biological Sciences from the University of São Paulo. Since starting my undergraduate degree, I have participated in several statistics, mathematical modelling, and machine learning projects. Thanks to these opportunities, I love being involved in multidisciplinary projects focusing on ecological and entomological research. I am a PhD researcher in Statistical Ecology at the Hamilton Institute of Maynooth University, funded by Science Foundation Ireland’s Centre for Research Training in Foundations of Data Science programme. My PhD project is “Statistical Modelling and machine learning applied to automating animal monitoring systems”. See my personal [webpage](https://gabrielrpalma.com).
+
+<br>
+
+## <img src="/pastcommittees/pic_Kate_Finucane.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Kate"></a> Kate Finucane -- Secretary
+
+I am Kate Finucane, a PhD researcher in the School of Mathematics and Statistics at University College Dublin. My research focuses on missing data imputation techniques using Bayesian methods, with applications to metabolomics. I hold a bachelor's degree in Physics and Astrophysics from Trinity College Dublin and a master's degree in Data and Computational Science from University College Dublin. I am also very passionate about scientific communication - I believe the public should be able to learn about the science they are funding! I am currently a producer of the Pint of Science Ireland podcast and have been involved in other podcasts, productions, and events in the past.
+
+<br>
+
+## <img src="/pastcommittees/pic_Nastaran_Sharifian.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Nastaran"></a> Nastaran Sharifian -- Website Manager
+
+I'm currently a postdoctoral researcher at the School of Mathematical and Statistical Sciences, University of Galway. My research focuses on longitudinal data analysis. I am working on HealIntel Project, With a focus on longitudinal functional data analysis. I finished a postdoc role on Statistical Learning, with a focus on Neural Networks, at the University of Limerick, Ireland on September 30, 2023. Before starting my first post doc , I was a Lecturer in Statistics, at Shahid Beheshti University. I have over 10 years of experience in research and lecturing a diverse array of statistical content. I finished my PhD and MSc degree, respectively, in Statistics and Mathematical Statistics, from Shahid Beheshti University, Tehran, Iran. I have worked on the longitudinal mixed data, and extended the inflated and mixture models for count, continuous, and ordinal correlated responses. 
+
+<br>
+
+## <img src="/pastcommittees/pic_Catherine_Higgins.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Catherine"></a> Catherine Higgins -- Outreach Officer
+My name is Catherine Higgins and I’m a PhD student in Statistics at University College Dublin, funded by the SFI CRT in Genomics Data Science. I graduated from the University of Galway (formerly NUI Galway) in 2021 with a BSc in Financial Mathematics and Economics. My research area is functional data analysis and my PhD is focused on the development of methods for gene regulatory network construction from high-throughput time course data.
+
+<br>
+
+## <img src="/pastcommittees/pic_silvia_new.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Silvia"></a> Silvia D'Angelo -- Ordinary Member
+Hi! My name is Silvia and I am a lecturer in the School of Computer Science and Statistics, Trinity College Dublin. My research involves developing novel statistical methodology for various types of multidimensional data. I quite enjoy working on data-related problems and over the years I have had experience with many different types of data, such as social networks, metabolomic or genomic data. Outside of Statistics, I am a hiking and tag rugby enthusiast and enjoy every sort of outdoor activity. See my personal [webpage](https://silviadangelo.github.io/).
+
+<br>
+
+## <img src="/pastcommittees/pic_Owen_McGrath.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Owen"></a> Owen McGrath -- Ordinary Member
+I am a lecturer in Applied Statistics at the Technological University of the Shannon, and a PhD researcher in Statistics at the University of Limerick. I hold a BEng in Automation & Control Technology (LIT), BSc in Electronic Systems (LIT), HDipAppSc in Applied Mathematics (NUIG) and a MSc in Mathematical Modelling (UL). Having worked in the automotive, manufacturing, and aerospace industries, I’m particularly interested in industrial/engineering applications. My main research interests are reliability analysis, statistical process control, experimental design and accelerated life testing. In addition to statistics, I have a keen interest in motorcycles (and just about anything with a four-stroke petrol engine).
+
+<br>
+
+## <img src="/pastcommittees/pic_fatima_jao.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Fatima"></a> Fatima-Zahra Jaouimaa -- Industry representative
+Hi, I am Fatima Jaouimaa and I’m a PhD student in Statistics at the University of Limerick. I graduated with a BSc in Economics and Mathematical Sciences from the same university. My research area is survival analysis and in particular, I’m looking at multi-parameter regression in this setting.
+
+
+<br>
+
+## <img src="/pastcommittees/pic_emily_gribbin.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Emily Gribbin -- Ordinary Member
+My name is Emily Gribbin and I am a Mathematics PhD student from the Mathematical Sciences Research Centre at Queen’s University Belfast, specialising in statistical methods for single-molecule imaging. I graduated from Queen’s University Belfast in 2022 with an MSci in Mathematics with Statistics and Operational Research. I am currently collaborating with the OCTOPUS Group from the Central Laser Facility in the Science and Technology Facilities Council to improve the efficiency of Fluorescence Localisation Imaging with Photobleaching (FLImP) using  reversible jump Markov chain Monte Carlo and hidden Markov models.
+
+<br>
+
+## <img src="pic_Luke_kelly.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Luke"></a> Luke Kelly -- Ordinary Member
+I joined UCC in 2022 as a lecturer in statistics after postdoctoral positions in France and the United Kingdom. I am interested in developing statistical methodology and computational tools for phylogenetic inference and other applied problems. My personal webpage [https://lukejkelly.github.io] has more details of my academic background and research interests.
+
+<br>
+
+## <img src="/pastcommittees/pic_authumn.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Autumn"></a> Autumn O’Donnell -- Ordinary Member
+My name is Autumn O’Donnell and I’m a PhD student in Statistics at University College Cork, funded by the Human Capital Initiative Pillar 1. I graduated from the University College Cork in 2021 with an MSc in Data Science and Analytics and have a BEng in Biomedical Engineering from Cork Institute of Technology (now Munster Technological University). My research area is machine learning for survival analysis and my PhD is focused on the use of machine learning methodologies for incorporating genomic data into survival analysis for prostate cancer prognosis.
+
+<br>
+
+## Past Executive Committees
+  * [2018-2019](/pastcommittees/committee-2018-2019/)
+
+  * [2019-2020](/pastcommittees/committee-2019-2020/)
+
+  * [2020-2021](/pastcommittees/committee-2020-2021/)
+
+  * [2021-2022](/pastcommittees/committee-2021-2022/)
+  
+  * [2022-2023](/pastcommittees/committee-2022-2023/)
+  
+  * [2023-2024](/pastcommittees/committee-2023-2024/)
+
+
+
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
