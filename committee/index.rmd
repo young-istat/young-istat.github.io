@@ -41,9 +41,11 @@ html {
 | <a href="#Emily">Emily Gribbin</a>                  | Outreach Officer               | Queen’s University Belfast                  |
 | <a href="#Rafael">Rafael de Andrade Moral</a>                     | ISA representative             |  Maynooth University                      |
 | <a href="#Luke">Luke Kelly</a>                        | Ordinary Member                | University College Cork                   |
-| <a href="#Laura">Laura Byrne</a>                      | Ordinary Member                | Trinity College Dublin                    |
+| <a href="#Laura">Laura Byrne</a>                      | Ordinary Member                | University College Cork                   |
 | <a href="#Maeve">Maeve Upton </a>                       | Ordinary Member                | University of Limerick       |
 | <a href="#Jack">Jack Peyton</a>                    | Ordinary Member                | Queen's University Belfast                     |
+| <a href="#Szymon">Szymon Urbas</a>                    | Ordinary Member                |  Maynooth University                     |
+| <a href="#Cornelius">Cornelius Fritz</a>                    | Ordinary Member                | Trinity College Dublin                     |
 
 
 
@@ -58,7 +60,8 @@ I graduated with first-class honours BSc in Biological Sciences from the Univers
 
 
 ## <img src="pic_authumn.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Autumn"></a> Autumn O’Donnell -- Vice-Chair
-My name is Autumn O’Donnell and I’m a PhD student in Statistics at University College Cork, funded by the Human Capital Initiative Pillar 1. I graduated from the University College Cork in 2021 with an MSc in Data Science and Analytics and have a BEng in Biomedical Engineering from Cork Institute of Technology (now Munster Technological University). My research area is machine learning for survival analysis and my PhD is focused on the use of machine learning methodologies for incorporating genomic data into survival analysis for prostate cancer prognosis.
+ My name is Autumn O'Donnell and I'm a postdoctoral researcher in Statistics at the University of Galway. I am currently working on an Insight Targeted Project with Endotronix Ltd., funded by Science Foundation Ireland, investigating the potential use of pressure sensor data for continuous cardiac output monitoring. My PhD is from University College Cork, where I graduated in 2025. My research focused on applying machine learning to incorporate genomic data into survival analysis for prostate cancer prognosis. 
+
 
 <br>
 
@@ -84,7 +87,7 @@ I joined UCC in 2022 as a lecturer in statistics after postdoctoral positions in
 <br>
 
 ## <img src="pic_laura_byrne.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Owen"></a> Laura Byrne -- Ordinary Member
-Hey! I'm Laura and I'm currently a postdoctoral researcher in the ADAPT Centre and the School of Computer Science and Statistics at Trinity College Dublin. I graduated from Maynooth University in 2020 with a BSc in Computer Science and Statistics and from Trinity College Dublin in 2025 with a PhD in Statistics. My research currently centres around the use of regression models for correlated responses and the design of experiments. My work has always been motivated by environmental concerns, particularly the facilitation of natural ecosystems whilst accommodating human needs (like increasing biodiversity in agronomic spaces). Despite my love of the natural world, you'll usually find me indoors with headphones and a game or book in my hands!
+Hey! I’m Laura and I’m currently a lecturer for Statistics at University College Cork. I graduated from Maynooth University in 2020 with a BSc in Computer Science and Statistics and from Trinity College Dublin in 2025 with a PhD in Statistics. My research currently centres around the use of regression models for correlated responses and the design of experiments. My work has always been motivated by environmental concerns, particularly the facilitation of natural ecosystems whilst accommodating human needs (like increasing biodiversity in agronomic spaces). Despite my love of the natural world, you’ll usually find me indoors with headphones and a game or book in my hands!
 
 <br>
 
@@ -99,6 +102,15 @@ My name is Jack Peyton, and I am a PhD student in Mathematics at Queen's Univers
 
 <br>
 
+## <img src="pic_Szymon_Urbas.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Szymon Urbas -- Ordinary Member
+I'm a lecturer in statistics at Maynooth University. I completed my PhD at Lancaster University as part of the STOR-i Centre for Doctoral Training. Prior to my current role, I worked as a postdoc at University College Dublin. My research interests are fairly wide but generally involve bespoke statistical models and computationally intensive inference methods. 
+          
+<br>
+            
+## <img src="pic_Cornelius_Fritz.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Cornelius Fritz -- Ordinary Member
+I am an Assistant Professor in Statistics at Trinity College Dublin. My research lies at the intersection of statistical methodology, political science, and network analysis, where I develop scalable models and methods for network data. My work is motivated by applications in the social sciences, such as analyzing patterns of political alliances, arms trade, legislative behavior, and media co-mentions. 
+          
+<br>
 
 
 
