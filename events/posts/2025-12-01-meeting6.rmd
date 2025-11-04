@@ -1,0 +1,55 @@
+---
+author: Nastaran Sharifian
+date: "2025-11-04T11:21:26+02:00"
+summary: "Statisticians in the World of Artificial Intelligence and Machine Learning."
+type: postevent
+tags:
+- post
+title: 6th Young-ISA Meeting
+---
+
+**Date:** Monday December 1th, 2025 <br>
+**Location:** [UCC Banking Hall (UCC Centre for Executive Education)](https://maps.app.goo.gl/HERSLape7wug8zsJA), University College Cork (UCC) <br>
+**Time:** 9 am - 5 pm GMT <br>
+**Theme of the event:** Statisticians in the World of Artificial Intelligence and Machine Learning <br>
+
+The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 with the objectives of creating and cultivating a network of career-young statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
+
+This event is the 6th Young-ISA meeting that will bring together many career-young statisticians in Ireland to focus on **Statisticians in the World of Artificial Intelligence and Machine Learning**. This event offers early career researchers and PhD students an excellent opportunity to gain insights into advancing their careers in academia. We will host **three keynote talks** where keynote speakers will share their perspectives on crucial aspects of this journey.
+
+There will also be a series of short research talks delivered by career-young researchers from different Irish universities, as well as a round table discussion with our keynote speakers on the theme of the event, with the opportunity for audience questions.
+
+Networking Activity:
+A new feature of this year’s event is the dedication of one of its sessions to a structured networking activity, offering participants the opportunity to engage in small-group discussions on key topics within the theme and to build professional connections with peers and experts. 
+
+**Poster Session:**
+We are delighted to announce that this year we will have an online poster session held on the Young-ISA LinkedIn. To take part in the poster competition please email your poster and abstract to young.istat@gmail.com during the period Monday November 24th to Friday November 28th (deadline 5pm). All posters received during this period will be posted on the Young-ISA LinkedIn account and considered for the poster prize of €100. The winner will be announced at the event on December 1st.  
+
+
+
+### Invited Speakers
+
+[Eric Wolsztynski](https://www.ucc.ie/en/matsci/people/ericwolsztynski/), School of Mathematical Sciences, University College Cork. <br>
+
+[Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot), Department of Computer Science, Maynooth University.  <br>
+
+[Andrew Simpkin](https://research.universityofgalway.ie/en/persons/andrew-simpkin-3/), School of Mathematical and Statistical Sciences, University of Galway.  <br>
+
+
+### Programme
+
+**Coming Soon**
+
+
+### Registration
+The event is **free to attend for ISA members**. If you attended CASI in 2025 you are already an ISA member. If you are not yet a member, click [here](https://istat.ie/n2020/join-isa/) (membership is free for students).
+
+To register for the event please use the Eventbrite link [here](https://www.eventbrite.ie/e/6th-young-isa-meeting-tickets-1908539215169?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl).
+
+
+
+<br>
+<br>
+<br>
+
+Category: [<u>Events</u>](/events/)
