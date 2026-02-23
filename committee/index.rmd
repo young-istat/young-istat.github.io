@@ -66,7 +66,7 @@ I graduated with first-class honours BSc in Biological Sciences from the Univers
 <br>
 
 ## <img src="pic_Catherine_Higgins.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Catherine"></a> Catherine Higgins -- Secretary
-My name is Catherine Higgins and I’m a PhD student in Statistics at University College Dublin, funded by the SFI CRT in Genomics Data Science. I graduated from the University of Galway (formerly NUI Galway) in 2021 with a BSc in Financial Mathematics and Economics. My research area is functional data analysis and my PhD is focused on the development of methods for gene regulatory network construction from high-throughput time course data.
+My name is Catherine Higgins and I’m a postdoctoral researcher in Statistics at University College Dublin. I completed my PhD at University College Dublin as part of the Research Ireland Centre for Research Training in Genomics Data Science. Prior to this, I graduated from the University of Galway with a BSc in Financial Mathematics and Economics. My research focuses on spatial functional data analysis.
 
 <br>
 
