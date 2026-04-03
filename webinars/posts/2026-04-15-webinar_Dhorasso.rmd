@@ -1,0 +1,38 @@
+---
+author: Nastaran Sharifian
+date: "2026-03-31T18:38:26+02:00"
+summary: "I am a PhD student in Statistics at Trinity College Dublin (TCD), working under the supervision of Dr. Jason Wyse in the School of Computer Science & Statistics.
+
+My research focuses on sequential Bayesian inference for infectious disease modelling. I develop and apply particle filtering (Sequential Monte Carlo) methods for real-time estimation of transmission dynamics from epidemic data, with an emphasis on computationally efficient algorithms for state-space epidemic models.
+
+My recent work includes developing sequential Monte Carlo squared methods for online inference in stochastic epidemic models and ensemble data assimilation approaches for sequential Bayesian inference."
+type: postweb
+tags:
+- post
+title: "Sequential Bayesian analysis of time-varying transmission in stratified epidemic renewal models"
+---
+**Date:** Wednesday, Apr 15 2026 <br>
+**Time:** 13:40 pm to 14:10 pm <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/young-isa-annual-webinar-the-role-of-statisticians-in-reproducibility-tickets-1985580624097?aff=oddtdtcreator).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Dhorasso.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Anne"></a> [Dhorasso Junior Temfack Nguefack](https://scholar.google.com/citations?user=_YaIz0MAAAAJ&hl=en), PhD student, Trinity College Dublin, Ireland.
+
+I am a PhD student in Statistics at Trinity College Dublin (TCD), working under the supervision of Dr. Jason Wyse in the School of Computer Science & Statistics.
+
+My research focuses on sequential Bayesian inference for infectious disease modelling. I develop and apply particle filtering (Sequential Monte Carlo) methods for real-time estimation of transmission dynamics from epidemic data, with an emphasis on computationally efficient algorithms for state-space epidemic models.
+
+My recent work includes developing sequential Monte Carlo squared methods for online inference in stochastic epidemic models and ensemble data assimilation approaches for sequential Bayesian inference.
+
+
+### Abstract
+Age-specific differences in susceptibility, transmissibility, and social behavior drive heterogeneous epidemic dynamics that homogeneous models cannot capture. To address this, we develop a Bayesian age-stratified transmission model based on a semi-mechanistic renewal process, which links current infections to past incidence while accounting for population structure. The framework simultaneously reconstructs latent infection trajectories across age groups and infers time-varying transmissibility, enabling estimation of the instantaneous reproduction number. Inference is performed using a block sequential Monte Carlo (SMC) approach tailored for high-dimensional latent states, mitigating particle degeneracy by leveraging the weak coupling between age groups. We illustrate the method using COVID-19 data from Ireland, demonstrating the ability to infer age-specific transmissibility.
+ 
+
+Category: [<u>Events</u>](/events/posts/2026-04-15-webinar_role_statistician_reproducibility.rmd/)

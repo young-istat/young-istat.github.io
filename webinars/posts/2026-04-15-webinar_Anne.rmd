@@ -1,0 +1,30 @@
+---
+author: Nastaran Sharifian
+date: "2026-03-31T18:38:26+02:00"
+summary: Anne-Laure Boulesteix obtained a diploma in engineering from the Ecole Centrale Paris, a diploma in mathematics from the University of Stuttgart (2001) and a PhD in statistics (2005) from the Ludwig Maximilian University (LMU) of Munich. After a postdoc phase in medical statistics, she joined the Medical School of the University of Munich as a junior professor (2009) and professor (2012). She is working at the interface between biostatistics, machine learning and medicine with a particular focus on metascience and evaluation of methods. She is a steering committee member of the STRATOS initiative, founding member of the LMU Open Science Center and president of the German Region of the International Biometric Society.
+type: postweb
+tags:
+- post
+title: "Towards appropriate study designs and reliable empirical evidence in methodological research: recent developments"
+---
+**Date:** Wednesday, Apr 15 2026 <br>
+**Time:** 12:10 pm to 12:40 pm <br>
+
+### Join the Webinar
+
+  - **Webinar** is free and open to everyone. 
+  - To register for the webinar please use the Eventbrite link [here](https://www.eventbrite.ie/e/young-isa-annual-webinar-the-role-of-statisticians-in-reproducibility-tickets-1985580624097?aff=oddtdtcreator).
+
+
+### Speaker
+
+##### <img src="/webinars/posts/image/pic_Anne.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Anne"></a> [Professor Anne-Laure Boulesteix](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html), Professor for Biometry in Molecular Medicine, Ludwig Maximilian University Munich, Germany.
+
+Anne-Laure Boulesteix obtained a diploma in engineering from the Ecole Centrale Paris, a diploma in mathematics from the University of Stuttgart (2001) and a PhD in statistics (2005) from the Ludwig Maximilian University (LMU) of Munich. After a postdoc phase in medical statistics, she joined the Medical School of the University of Munich as a junior professor (2009) and professor (2012). She is working at the interface between biostatistics, machine learning and medicine with a particular focus on metascience and evaluation of methods. She is a steering committee member of the STRATOS initiative, founding member of the LMU Open Science Center and president of the German Region of the International Biometric Society.
+
+
+### Abstract
+Statisticians are often keen to analyze the statistical aspects of the so-called “replication crisis in science“. They condemn fishing expeditions and are involved in designing studies across empirical scientific fields applying statistical methods, such as health sciences. But what about good practice issues and study designs in their own - methodological - research, i.e. research considering statistical (or more generally, computational) methods as research objects? When developing and evaluating new statistical methods and data analysis tools, do statisticians and data scientists adhere to the good practice principles and scientific rigor they promote in fields which apply statistics and data science? Or do they oversell their new methods? In the last few years, statisticians have started to make substantial efforts to address what may be called the replication crisis in the context of methodological research in statistics. In this presentation, I will give an overview of recent positive developments including own projects and projects by others. Promising concepts include for example study protocols, confirmatory research, neutral teams, appropriate handling of method failure, research synthesis, replication studies, and real data based simulation designs.
+ 
+
+Category: [<u>Events</u>](/events/posts/2026-04-15-webinar_role_statistician_reproducibility.rmd/)

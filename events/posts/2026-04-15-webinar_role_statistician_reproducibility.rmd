@@ -1,0 +1,56 @@
+---
+author: Nastaran Sharifian
+date: "2026-03-31T08:41:26+02:00"
+summary: This webinar aims to bring together many career-young statisticians in Ireland to focus on the application of statistical ecology.
+type: postevent
+tags:
+- post
+title: "Young-ISA Annual Webinar: The Role of Statisticians in Reproducibility. "
+---
+
+**Date:** Wednesday, April 15th, 2026 <br>
+**Location:** Online <br>
+**Time:** 12.00 - 14:30 (Irish time) <br>
+**Theme of the event:** Statisticians in Reproducibility <br>
+
+The **Young Statisticians' Section of the <a href="https://istat.ie/" target="_blank">Irish Statistical Association**</a> (Young-ISA) was formed in 2019 to create and cultivate a network of young career statisticians across Ireland, supporting their professional development and providing a link to the Irish Statistical Association.</p>
+
+We are thrilled to announce our joint webinar with the British and Irish Region (BIR). The **Young-ISA Annual Webinar** on **the Role of Statisticians in Reproducibility** aims to bring together many career-young statisticians in Ireland to focus on the **application and theoretical development of statistical ecology**.
+
+
+### Invited Speakers
+[Prof. Anne-Laure Boulesteix](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html), Professor for Biometry in Molecular Medicine, Ludwig Maximilian University Munich, Germany.
+
+[Dr. Isabella Gollini ](https://people.ucd.ie/isabella.gollini), Assistant Professor in Statistics, University College Dublin, Ireland.  
+
+[Dr. Neil Wright](https://www.ndph.ox.ac.uk/team/neil-wright), Postdoctoral Researcher, University of Oxford, UK.
+
+[Dhorasso Junior Temfack Nguefack](https://scholar.google.com/citations?user=_YaIz0MAAAAJ&hl=en), PhD Student in Statistics, Trinity College Dublin, Ireland.   
+
+<br>
+
+### Programme
+
+  
+| Time          | Speaker | Title   | Abstract |
+| ------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 12:00- 12:10   | [<img src="/committee/pic_gabriel.png">](https://www.gabrielrpalma.com/)[Dr. Gabriel Rodrigues Palma](https://www.gabrielrpalma.com/) | Event openning| | 
+| 12:10- 12:40   | [<img src="/webinars/posts/image/pic_Anne.png">](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html)[Prof. Anne-Laure Boulesteix](https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html) | [Towards appropriate study designs and reliable empirical evidence in methodological research: recent developments](/webinars/posts/2026-04-15-webinar_Anne) | [Visit here](/webinars/posts/2026-04-15-webinar_Anne)|
+| 12:40-13:10  | [<img src="/webinars/posts/image/pic_Isabella.png">](https://people.ucd.ie/isabella.gollini)[Dr. Isabella Gollini ](https://people.ucd.ie/isabella.gollini) | [Programming, collaborations and reproducibility: roles and tools when using R](/webinars/posts/2026-04-15-webinar_Isabella) | [Visit here](/webinars/posts/2026-04-15-webinar_Isabella)     |
+| 13:10-13:40    | [<img src="/webinars/posts/image/pic_Neil.png">](https://www.ndph.ox.ac.uk/team/neil-wright) [Dr. Neil Wright](https://www.ndph.ox.ac.uk/team/neil-wright) | [Successes and challenges of reproducibility as an applied statistician](/webinars/posts/2026-04-15-webinar_Niel)  | [Visit here](/webinars/posts/2026-04-15-webinar_Niel)    | 
+| 13:40 - 14:10 | [<img src="/webinars/posts/image/pic_Dhorasso.png">](https://scholar.google.com/citations?user=_YaIz0MAAAAJ&hl=en)[Dhorasso Junior Temfack Nguefack](https://scholar.google.com/citations?user=_YaIz0MAAAAJ&hl=en)                                | [Sequential Bayesian analysis of time-varying transmission in stratified epidemic renewal models](/webinars/posts/2026-04-15-webinar_Dhorasso) | [Visit here](/webinars/posts/2026-04-15-webinar_Dhorasso) |
+| 14:10-14:30   | Discussion                                                                           | A general discussion about Statistical Ecology and its applications                                                                                                                   |                                                                                                   |
+
+
+<br>
+
+### Registration
+Registration is free and open to everyone.
+
+To register for the event please click [here](https://www.eventbrite.ie/e/young-isa-annual-webinar-the-role-of-statisticians-in-reproducibility-tickets-1985580624097?aff=ebdsoporgprofile).
+
+
+<br>
+<br>
+
+Category: [<u>Events</u>](/events/)

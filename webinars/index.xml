@@ -6,7 +6,48 @@
     <description>Recent content in Webinars on Young-ISA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Mar 2025 18:38:26 +0200</lastBuildDate><atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 18:38:26 +0200</lastBuildDate><atom:link href="https://young-istat.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming, collaborations and reproducibility: roles and tools when using R</title>
+      <link>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_isabella/</link>
+      <pubDate>Tue, 31 Mar 2026 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_isabella/</guid>
+      <description>I am Assistant Professor in Statistics at University College Dublin since September 2017 where I also served as Programme Director of the BSc and BA degrees in Statistics in 2018-2020.
+I am Associate Editor for the Journal of Statistical Software and The R Journal since March 2021.
+During my research activity I have been working closely with scientists with different expertise (e.g. social scientists, engineers, geographers, computer scientists, etc.) in order to yield important practical results as well as developments of new statistical techniques. An important part of my research activity is concerning the design of free software packages to make the research findings accessible to end users both in or outside academia.
+I have been invited to present my work at several international conferences and seminars including as Keynote speaker at useR!2017 meeting - the most important international conference for users of the R statistical software.</description>
+    </item>
+    
+    <item>
+      <title>Sequential Bayesian analysis of time-varying transmission in stratified epidemic renewal models</title>
+      <link>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_dhorasso/</link>
+      <pubDate>Tue, 31 Mar 2026 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_dhorasso/</guid>
+      <description>I am a PhD student in Statistics at Trinity College Dublin (TCD), working under the supervision of Dr. Jason Wyse in the School of Computer Science &amp;amp; Statistics.
+My research focuses on sequential Bayesian inference for infectious disease modelling. I develop and apply particle filtering (Sequential Monte Carlo) methods for real-time estimation of transmission dynamics from epidemic data, with an emphasis on computationally efficient algorithms for state-space epidemic models.
+My recent work includes developing sequential Monte Carlo squared methods for online inference in stochastic epidemic models and ensemble data assimilation approaches for sequential Bayesian inference.</description>
+    </item>
+    
+    <item>
+      <title>Successes and challenges of reproducibility as an applied statistician</title>
+      <link>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_neil/</link>
+      <pubDate>Tue, 31 Mar 2026 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_neil/</guid>
+      <description>Neil Wright is a senior statistician in Oxford Population Health at the University of Oxford. His work focuses on applying statistical methods to large-scale population health research, with particular interests in cardiovascular epidemiology and the use of multi-omics data. He leads the planning and implementation of analyses for a range of observational and genetic studies in collaboration with other scientists. He also provides statistical support, develops code and resources, contributes to teaching, and supervises postgraduate taught and research students.</description>
+    </item>
+    
+    <item>
+      <title>Towards appropriate study designs and reliable empirical evidence in methodological research: recent developments</title>
+      <link>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_anne/</link>
+      <pubDate>Tue, 31 Mar 2026 18:38:26 +0200</pubDate>
+      
+      <guid>https://young-istat.github.io/webinars/posts/2026-04-15-webinar_anne/</guid>
+      <description>Anne-Laure Boulesteix obtained a diploma in engineering from the Ecole Centrale Paris, a diploma in mathematics from the University of Stuttgart (2001) and a PhD in statistics (2005) from the Ludwig Maximilian University (LMU) of Munich. After a postdoc phase in medical statistics, she joined the Medical School of the University of Munich as a junior professor (2009) and professor (2012). She is working at the interface between biostatistics, machine learning and medicine with a particular focus on metascience and evaluation of methods. She is a steering committee member of the STRATOS initiative, founding member of the LMU Open Science Center and president of the German Region of the International Biometric Society.</description>
+    </item>
+    
     <item>
       <title>Bayesian hierarchical modelling applied to wildlife monitoring</title>
       <link>https://young-istat.github.io/webinars/posts/2025-04-10-webinar_rafael/</link>
