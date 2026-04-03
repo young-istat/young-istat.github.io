@@ -28,4 +28,4 @@ Practices to improve reproducibility and transparency have become central to the
 In this talk, I will discuss several approaches to reproducibility that I attempt to integrate into my work. Drawing on experience in leading and implementing statistical analyses, collaborating with others, providing statistical support, and teaching, I will reflect on the successes and challenges of different practices. I will also offer some practical suggestions and 'survival tips' for statisticians aiming to adopt and promote reproducible practices in their work.
  
 
-Category: [<u>Events</u>](/events/posts/2026-04-15-webinar_role_statistician_reproducibility.rmd/)
+Category: [<u>Events</u>](/events/posts/2026-04-15-webinar_role_statistician_reproducibility/)

@@ -41,4 +41,4 @@ Programming is a crucial part of a statistician's job to initiate and carry out 
 In this talk, I will go through some of the main aspects associated with the different roles that we can assume when collaborating in programming. I will then focus on the tools we can use to ensure reproducibility, organise and share our projects in the context of R programming.
  
 
-Category: [<u>Events</u>](/events/posts/2026-04-15-webinar_role_statistician_reproducibility.rmd/)
+Category: [<u>Events</u>](/events/posts/2026-04-15-webinar_role_statistician_reproducibility)
