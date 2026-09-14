@@ -1,0 +1,154 @@
+---
+date: "2025-07-23"
+title: Committee 2025 - 2026
+---
+<style type="text/css">
+html {
+  scroll-behavior: smooth;
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #256439; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 16px; /* Increase font size */
+  font-family: "Merriweather", Times, Georgia, serif;
+}
+
+#myBtn:hover {
+  background-color: rgba(37, 100, 57, 0.7); /* Add a dark-grey background on hover */
+}
+
+</style>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Back to top</button>
+
+| **Name**                           | **Position**                    | **Institute**                              |
+|------------------------------------|--------------------------------|--------------------------------------------|
+| <a href="#Gabriel">Gabriel Rodriques Palma</a>                   | Chair                          | Maynooth University                     |
+| <a href="#Autumn">Autumn O'Donnell</a>            | Vice-Chair                     | University of Galway                         |
+| <a href="#Catherine">Catherine Higgins</a>                     | Secretary                      | University College Dublin                  |
+| <a href="#Nastaran">Nastaran Sharifian</a>                 | Website Manager                | University of Galway                       |
+| <a href="#Emily">Emily Gribbin</a>                  | Outreach Officer               | Queen’s University Belfast                  |
+| <a href="#Rafael">Rafael de Andrade Moral</a>                     | ISA representative             |  Maynooth University                      |
+| <a href="#Luke">Luke Kelly</a>                        | Ordinary Member                | University College Cork                   |
+| <a href="#Laura">Laura Byrne</a>                      | Ordinary Member                | University College Cork                   |
+| <a href="#Maeve">Maeve Upton </a>                       | Ordinary Member                | University of Limerick       |
+| <a href="#Jack">Jack Peyton</a>                    | Ordinary Member                | Queen's University Belfast                     |
+| <a href="#Szymon">Szymon Urbas</a>                    | Ordinary Member                |  Maynooth University                     |
+| <a href="#Cornelius">Cornelius Fritz</a>                    | Ordinary Member                | Trinity College Dublin                     |
+
+
+
+<br>
+
+
+## <img src="pic_gabriel.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Gabriel"></a> Gabriel Rodrigues Palma -- Chair
+I graduated with first-class honours BSc in Biological Sciences from the University of São Paulo. Since starting my undergraduate degree, I have participated in several statistics, mathematical modelling, and machine learning projects. Thanks to these opportunities, I love being involved in multidisciplinary projects focusing on ecological and entomological research. I am a PhD researcher in Statistical Ecology at the Hamilton Institute of Maynooth University, funded by Science Foundation Ireland’s Centre for Research Training in Foundations of Data Science programme. My PhD project is “Statistical Modelling and machine learning applied to automating animal monitoring systems”. See my personal [webpage](https://gabrielrpalma.com).
+
+
+<br>
+
+
+## <img src="pic_authumn.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Autumn"></a> Autumn O’Donnell -- Vice-Chair
+ My name is Autumn O'Donnell and I'm a postdoctoral researcher in Statistics at the University of Galway. I am currently working on an Insight Targeted Project with Endotronix Ltd., funded by Science Foundation Ireland, investigating the potential use of pressure sensor data for continuous cardiac output monitoring. My PhD is from University College Cork, where I graduated in 2025. My research focused on applying machine learning to incorporate genomic data into survival analysis for prostate cancer prognosis. 
+
+
+<br>
+
+## <img src="pic_Catherine_Higgins.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Catherine"></a> Catherine Higgins -- Secretary
+My name is Catherine Higgins and I’m a postdoctoral researcher in Statistics at University College Dublin. I completed my PhD at University College Dublin as part of the Research Ireland Centre for Research Training in Genomics Data Science. Prior to this, I graduated from the University of Galway with a BSc in Financial Mathematics and Economics. My research focuses on spatial functional data analysis.
+
+<br>
+
+## <img src="pic_Nastaran_Sharifian.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Nastaran"></a> Nastaran Sharifian -- Website Manager
+
+I'm currently a postdoctoral researcher at the School of Mathematical and Statistical Sciences, University of Galway. My research focuses on longitudinal data analysis. I am working on HealIntel Project, With a focus on longitudinal functional data analysis. I finished a postdoc role on Statistical Learning, with a focus on Neural Networks, at the University of Limerick, Ireland on September 30, 2023. Before starting my first post doc , I was a Lecturer in Statistics, at Shahid Beheshti University. I have over 10 years of experience in research and lecturing a diverse array of statistical content. I finished my PhD and MSc degree, respectively, in Statistics and Mathematical Statistics, from Shahid Beheshti University, Tehran, Iran. I have worked on the longitudinal mixed data, and extended the inflated and mixture models for count, continuous, and ordinal correlated responses. 
+
+<br>
+
+## <img src="pic_emily_gribbin.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Emily Gribbin -- Outreach Officer
+My name is Emily Gribbin and I am a Mathematics PhD student from the Mathematical Sciences Research Centre at Queen’s University Belfast, specialising in statistical methods for single-molecule imaging. I graduated from Queen’s University Belfast in 2022 with an MSci in Mathematics with Statistics and Operational Research. I am currently collaborating with the OCTOPUS Group from the Central Laser Facility in the Science and Technology Facilities Council to improve the efficiency of Fluorescence Localisation Imaging with Photobleaching (FLImP) using  reversible jump Markov chain Monte Carlo and hidden Markov models.
+
+<br>
+
+## <img src="pic_Luke_kelly.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Luke"></a> Luke Kelly -- Ordinary Member
+I joined UCC in 2022 as a lecturer in statistics after postdoctoral positions in France and the United Kingdom. I am interested in developing statistical methodology and computational tools for phylogenetic inference and other applied problems. My personal webpage [https://lukejkelly.github.io] has more details of my academic background and research interests.
+
+<br>
+
+## <img src="pic_laura_byrne.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Owen"></a> Laura Byrne -- Ordinary Member
+Hey! I’m Laura and I’m currently a lecturer for Statistics at University College Cork. I graduated from Maynooth University in 2020 with a BSc in Computer Science and Statistics and from Trinity College Dublin in 2025 with a PhD in Statistics. My research currently centres around the use of regression models for correlated responses and the design of experiments. My work has always been motivated by environmental concerns, particularly the facilitation of natural ecosystems whilst accommodating human needs (like increasing biodiversity in agronomic spaces). Despite my love of the natural world, you’ll usually find me indoors with headphones and a game or book in my hands!
+
+<br>
+
+## <img src="pic_maeve.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Fatima"></a> Maeve Upton -- Ordinary Member
+My name is Maeve Upton. I am a postdoctoral researcher specialising in statistical modelling, employing spatial temporal models with Bayesian frameworks. My current research focuses on developing statistical models to accurately estimate real-time power generation capacity of renewable energy sources in Ireland. I graduated from Trinity College Dublin in 2018 with a BSc in Physics and Astrophysics, followed by a PhD in Statistics in 2023 from Maynooth University. My PhD project developed a series of statistical models to analyse historical sea level records using proxy data from salt marshes and Bayesian Hierarchical techniques.
+
+
+<br>
+
+## <img src="pic_jack_peyton.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Jack Peyton -- Ordinary Member
+My name is Jack Peyton, and I am a PhD student in Mathematics at Queen's University Belfast, where I specialise in developing statistical methods for single molecule localisation microscopy. I graduated from Queen's with an MSci in Mathematics. Currently, I work with colleagues in the OCTOPUS Group at the UK Central Laser Facility to develop statistically driven methods of analysing single molecule localisation data, with a particular focus in spatial modelling.
+
+<br>
+
+## <img src="pic_Szymon_Urbas.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Szymon Urbas -- Ordinary Member
+I'm a lecturer in statistics at Maynooth University. I completed my PhD at Lancaster University as part of the STOR-i Centre for Doctoral Training. Prior to my current role, I worked as a postdoc at University College Dublin. My research interests are fairly wide but generally involve bespoke statistical models and computationally intensive inference methods. 
+          
+<br>
+            
+## <img src="pic_Cornelius_Fritz.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Cornelius Fritz -- Ordinary Member
+I am an Assistant Professor in Statistics at Trinity College Dublin. My research lies at the intersection of statistical methodology, political science, and network analysis, where I develop scalable models and methods for network data. My work is motivated by applications in the social sciences, such as analyzing patterns of political alliances, arms trade, legislative behavior, and media co-mentions. 
+          
+<br>
+
+
+
+
+## Past Executive Committees
+  * [2018-2019](/pastcommittees/committee-2018-2019/)
+
+  * [2019-2020](/pastcommittees/committee-2019-2020/)
+
+  * [2020-2021](/pastcommittees/committee-2020-2021/)
+
+  * [2021-2022](/pastcommittees/committee-2021-2022/)
+  
+  * [2022-2023](/pastcommittees/committee-2022-2023/)
+  
+  * [2023-2024](/pastcommittees/committee-2023-2024/)
+  
+  * [2024-2025](/pastcommittees/committee-2024-2025/)
+
+
+
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+

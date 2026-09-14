@@ -35,17 +35,17 @@ html {
 | **Name**                           | **Position**                    | **Institute**                              |
 |------------------------------------|--------------------------------|--------------------------------------------|
 | <a href="#Gabriel">Gabriel Rodriques Palma</a>                   | Chair                          | Maynooth University                     |
-| <a href="#Autumn">Autumn O'Donnell</a>            | Vice-Chair                     | University of Galway                         |
+| <a href="#Autumn">Autum Johnson</a>            | Vice-Chair                     | University of Galway                         |
 | <a href="#Catherine">Catherine Higgins</a>                     | Secretary                      | University College Dublin                  |
 | <a href="#Nastaran">Nastaran Sharifian</a>                 | Website Manager                | University of Galway                       |
 | <a href="#Emily">Emily Gribbin</a>                  | Outreach Officer               | Queen’s University Belfast                  |
 | <a href="#Rafael">Rafael de Andrade Moral</a>                     | ISA representative             |  Maynooth University                      |
-| <a href="#Luke">Luke Kelly</a>                        | Ordinary Member                | University College Cork                   |
 | <a href="#Laura">Laura Byrne</a>                      | Ordinary Member                | University College Cork                   |
 | <a href="#Maeve">Maeve Upton </a>                       | Ordinary Member                | University of Limerick       |
 | <a href="#Jack">Jack Peyton</a>                    | Ordinary Member                | Queen's University Belfast                     |
 | <a href="#Szymon">Szymon Urbas</a>                    | Ordinary Member                |  Maynooth University                     |
 | <a href="#Cornelius">Cornelius Fritz</a>                    | Ordinary Member                | Trinity College Dublin                     |
+| <a href="#Rachel">Rachel McInerney </a>                        | Ordinary Member                | Maynooth University                    |
 
 
 
@@ -59,8 +59,8 @@ I graduated with first-class honours BSc in Biological Sciences from the Univers
 <br>
 
 
-## <img src="pic_authumn.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Autumn"></a> Autumn O’Donnell -- Vice-Chair
- My name is Autumn O'Donnell and I'm a postdoctoral researcher in Statistics at the University of Galway. I am currently working on an Insight Targeted Project with Endotronix Ltd., funded by Science Foundation Ireland, investigating the potential use of pressure sensor data for continuous cardiac output monitoring. My PhD is from University College Cork, where I graduated in 2025. My research focused on applying machine learning to incorporate genomic data into survival analysis for prostate cancer prognosis. 
+## <img src="pic_authumn.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Autumn"></a> Autum Johnson -- Vice-Chair
+My name is Autum Johnson and I'm a Postdoctoral Researcher in Statistics at the University of Galway. I am currently working on the EU-funded SMARTSHAPE project, which focuses on non-invasive continuous blood pressure monitoring. My broad research focus is in medical and health statistics, with specific interests in survival analysis, clinical trial design, and the implementation of machine learning in healthcare. My PhD is from University College Cork, where I graduated in 2025. My research focused on applying machine learning to incorporate genomic data into survival analysis for prostate cancer prognosis.
 
 
 <br>
@@ -72,17 +72,13 @@ My name is Catherine Higgins and I’m a postdoctoral researcher in Statistics a
 
 ## <img src="pic_Nastaran_Sharifian.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Nastaran"></a> Nastaran Sharifian -- Website Manager
 
-I'm currently a postdoctoral researcher at the School of Mathematical and Statistical Sciences, University of Galway. My research focuses on longitudinal data analysis. I am working on HealIntel Project, With a focus on longitudinal functional data analysis. I finished a postdoc role on Statistical Learning, with a focus on Neural Networks, at the University of Limerick, Ireland on September 30, 2023. Before starting my first post doc , I was a Lecturer in Statistics, at Shahid Beheshti University. I have over 10 years of experience in research and lecturing a diverse array of statistical content. I finished my PhD and MSc degree, respectively, in Statistics and Mathematical Statistics, from Shahid Beheshti University, Tehran, Iran. I have worked on the longitudinal mixed data, and extended the inflated and mixture models for count, continuous, and ordinal correlated responses. 
+I am a Postdoctoral Researcher at the School of Mathematical and Statistical Sciences, University of Galway. I have recently been awarded a Research Ireland Public Service Fellowship. From October 2026, I will lead a project hosted by the Food Safety Authority of Ireland (FSAI), applying statistical methods to predict temporal and geographical risks of food and drinking-water non-compliance due to chemical hazards. My research interests include longitudinal and functional data analysis, statistical learning, neural networks, and developing models for correlated responses. Previously, I worked as a Postdoctoral Researcher at the University of Limerick and as a Lecturer in Statistics at Shahid Beheshti University, where I completed my PhD in Statistics and MSc in Mathematical Statistics.
 
 <br>
 
 ## <img src="pic_emily_gribbin.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Emily Gribbin -- Outreach Officer
 My name is Emily Gribbin and I am a Mathematics PhD student from the Mathematical Sciences Research Centre at Queen’s University Belfast, specialising in statistical methods for single-molecule imaging. I graduated from Queen’s University Belfast in 2022 with an MSci in Mathematics with Statistics and Operational Research. I am currently collaborating with the OCTOPUS Group from the Central Laser Facility in the Science and Technology Facilities Council to improve the efficiency of Fluorescence Localisation Imaging with Photobleaching (FLImP) using  reversible jump Markov chain Monte Carlo and hidden Markov models.
 
-<br>
-
-## <img src="pic_Luke_kelly.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Luke"></a> Luke Kelly -- Ordinary Member
-I joined UCC in 2022 as a lecturer in statistics after postdoctoral positions in France and the United Kingdom. I am interested in developing statistical methodology and computational tools for phylogenetic inference and other applied problems. My personal webpage [https://lukejkelly.github.io] has more details of my academic background and research interests.
 
 <br>
 
@@ -109,6 +105,11 @@ I'm a lecturer in statistics at Maynooth University. I completed my PhD at Lanca
             
 ## <img src="pic_Cornelius_Fritz.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Emily"></a> Cornelius Fritz -- Ordinary Member
 I am an Assistant Professor in Statistics at Trinity College Dublin. My research lies at the intersection of statistical methodology, political science, and network analysis, where I develop scalable models and methods for network data. My work is motivated by applications in the social sciences, such as analyzing patterns of political alliances, arms trade, legislative behavior, and media co-mentions. 
+
+<br>
+
+## <img src="pic_Rachel_McInerney.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Rachel"></a> Rachel McInerney -- Ordinary Member
+Rachel McInerney is a(n actually young) PhD student at Maynooth University. Her research focuses on advancing statistical methods for fisheries management, because counting fish is apparently harder than it sounds. She is funded by Research Ireland’s Enterprise Partnership Scheme and collaborates with the Canadian Government. Rachel graduated from Maynooth University in 2024 with a BSc in Applied Mathematics and Statistics and has been unable to escape Maynooth ever since.
           
 <br>
 
@@ -129,6 +130,8 @@ I am an Assistant Professor in Statistics at Trinity College Dublin. My research
   * [2023-2024](/pastcommittees/committee-2023-2024/)
   
   * [2024-2025](/pastcommittees/committee-2024-2025/)
+  
+  * [2025-2026](/pastcommittees/committee-2025-2026/)
 
 
 
