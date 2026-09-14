@@ -1,6 +1,6 @@
 ---
 date: "2025-07-23"
-title: Committee 2025 - 2026
+title: Committee 2026 - 2027
 ---
 <style type="text/css">
 html {
@@ -34,7 +34,7 @@ html {
 
 | **Name**                           | **Position**                    | **Institute**                              |
 |------------------------------------|--------------------------------|--------------------------------------------|
-| <a href="#Gabriel">Gabriel Rodriques Palma</a>                   | Chair                          | Maynooth University                     |
+| <a href="#Gabriel">Gabriel Rodriques Palma</a>                   | Chair                          | Trinity College Dublin                     |
 | <a href="#Autumn">Autum Johnson</a>            | Vice-Chair                     | University of Galway                         |
 | <a href="#Catherine">Catherine Higgins</a>                     | Secretary                      | University College Dublin                  |
 | <a href="#Nastaran">Nastaran Sharifian</a>                 | Website Manager                | University of Galway                       |
@@ -53,7 +53,7 @@ html {
 
 
 ## <img src="pic_gabriel.png" width="180px" height="180px" align="left" style="margin:15px 20px 0px 0px"><a name="Gabriel"></a> Gabriel Rodrigues Palma -- Chair
-I graduated with first-class honours BSc in Biological Sciences from the University of São Paulo. Since starting my undergraduate degree, I have participated in several statistics, mathematical modelling, and machine learning projects. Thanks to these opportunities, I love being involved in multidisciplinary projects focusing on ecological and entomological research. I am a PhD researcher in Statistical Ecology at the Hamilton Institute of Maynooth University, funded by Science Foundation Ireland’s Centre for Research Training in Foundations of Data Science programme. My PhD project is “Statistical Modelling and machine learning applied to automating animal monitoring systems”. See my personal [webpage](https://gabrielrpalma.com).
+I am currently a Research Fellow at Trinity College Dublin, based at the Trinity Biomedical Sciences Institute, where my research focuses on statistical machine learning applied to electrophysiology, particularly neurological conditions such as ALS. I completed my PhD in Statistics at Maynooth University, funded by Science Foundation Ireland’s Centre for Research Training in Foundations of Data Science, with research on statistical modelling and machine vision for automated animal monitoring. I previously studied Biological Sciences at the University of São Paulo. I graduated with first-class honours BSc in Biological Sciences from the University of São Paulo. See my personal [webpage](https://gabrielrpalma.com).
 
 
 <br>
